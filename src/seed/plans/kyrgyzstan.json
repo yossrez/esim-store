@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "018f19df-c01a-8d86-fb09-171b0d9eb1bc",
+    "name": "Kyrgyzstan",
+    "name_id": "Kirgistan",
+    "slug": "kyrgyzstan",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "KG",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Kyrgyzstan 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b540-b0fe-ae57-4a4135216b6e",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b540-b0fe-ae57-4a4135216b6e",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-b540-b0fe-ae57-4a4135216b6e",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b302-ae82-f962-eaf98cd5e6b3",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b302-ae82-f962-eaf98cd5e6b3",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-b302-ae82-f962-eaf98cd5e6b3",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-356d-f88a-a1e4-048ff1f12f6e",
+              "price": 866000,
+              "discounted_price": 866000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-356d-f88a-a1e4-048ff1f12f6e",
+              "price": 55.5,
+              "discounted_price": 55.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-356d-f88a-a1e4-048ff1f12f6e",
+          "currency_code": "IDR",
+          "price": 866000,
+          "discounted_price": 866000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-4187-e963-bb76-b368cb425010",
+              "price": 656000,
+              "discounted_price": 656000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-4187-e963-bb76-b368cb425010",
+              "price": 42,
+              "discounted_price": 42,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-4187-e963-bb76-b368cb425010",
+          "currency_code": "IDR",
+          "price": 656000,
+          "discounted_price": 656000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-de54-70f8-740a-8d6123fb7d01",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-de54-70f8-740a-8d6123fb7d01",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-de54-70f8-740a-8d6123fb7d01",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-23e1-1b76-c5fe-85a8e44da971",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-23e1-1b76-c5fe-85a8e44da971",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-23e1-1b76-c5fe-85a8e44da971",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-2c13-3b00-a930-237d2ca8b3aa",
+              "price": 585000,
+              "discounted_price": 585000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-2c13-3b00-a930-237d2ca8b3aa",
+              "price": 37.5,
+              "discounted_price": 37.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-2c13-3b00-a930-237d2ca8b3aa",
+          "currency_code": "IDR",
+          "price": 585000,
+          "discounted_price": 585000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-3178-35b2-bc83-0c7ea8decc5e",
+              "price": 749000,
+              "discounted_price": 749000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-3178-35b2-bc83-0c7ea8decc5e",
+              "price": 48,
+              "discounted_price": 48,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-3178-35b2-bc83-0c7ea8decc5e",
+          "currency_code": "IDR",
+          "price": 749000,
+          "discounted_price": 749000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-e2a4-0d8e-ec69-ad8ced3015da",
+              "price": 414000,
+              "discounted_price": 414000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-e2a4-0d8e-ec69-ad8ced3015da",
+              "price": 26.5,
+              "discounted_price": 26.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-e2a4-0d8e-ec69-ad8ced3015da",
+          "currency_code": "IDR",
+          "price": 414000,
+          "discounted_price": 414000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-ebf3-e31e-1ad4-486f6bde4352",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-ebf3-e31e-1ad4-486f6bde4352",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-ebf3-e31e-1ad4-486f6bde4352",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-fd29-7cc9-99e5-3d74db954723",
+              "price": 297000,
+              "discounted_price": 297000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-fd29-7cc9-99e5-3d74db954723",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-fd29-7cc9-99e5-3d74db954723",
+          "currency_code": "IDR",
+          "price": 297000,
+          "discounted_price": 297000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-1b22-2591-2058-9ecb086d43e3",
+              "price": 445000,
+              "discounted_price": 445000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-1b22-2591-2058-9ecb086d43e3",
+              "price": 28.5,
+              "discounted_price": 28.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-1b22-2591-2058-9ecb086d43e3",
+          "currency_code": "IDR",
+          "price": 445000,
+          "discounted_price": 445000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-12f3-c3ce-0cac-d434458bd377",
+              "price": 281000,
+              "discounted_price": 281000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-12f3-c3ce-0cac-d434458bd377",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-12f3-c3ce-0cac-d434458bd377",
+          "currency_code": "IDR",
+          "price": 281000,
+          "discounted_price": 281000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-3c6f-7d0f-56f5-966267a3a8f0",
+              "price": 375000,
+              "discounted_price": 375000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-3c6f-7d0f-56f5-966267a3a8f0",
+              "price": 24,
+              "discounted_price": 24,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-3c6f-7d0f-56f5-966267a3a8f0",
+          "currency_code": "IDR",
+          "price": 375000,
+          "discounted_price": 375000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-c607-1425-a4ee-f9fa14642501",
+              "price": 203000,
+              "discounted_price": 203000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-c607-1425-a4ee-f9fa14642501",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-c607-1425-a4ee-f9fa14642501",
+          "currency_code": "IDR",
+          "price": 203000,
+          "discounted_price": 203000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-042c-3b06-ed04-08ae0709389d",
+              "price": 718000,
+              "discounted_price": 718000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-042c-3b06-ed04-08ae0709389d",
+              "price": 46,
+              "discounted_price": 46,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-042c-3b06-ed04-08ae0709389d",
+          "currency_code": "IDR",
+          "price": 718000,
+          "discounted_price": 718000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-cb4a-1187-b4df-b77c62ae6d28",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-cb4a-1187-b4df-b77c62ae6d28",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-cb4a-1187-b4df-b77c62ae6d28",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-d377-848f-bccd-b828b4993a19",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-d377-848f-bccd-b828b4993a19",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-d377-848f-bccd-b828b4993a19",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-e6eb-2dc2-e9b5-bb7e66e07cde",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-e6eb-2dc2-e9b5-bb7e66e07cde",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-e6eb-2dc2-e9b5-bb7e66e07cde",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-eff9-463d-30db-085ff1a9f309",
+              "price": 515000,
+              "discounted_price": 515000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-eff9-463d-30db-085ff1a9f309",
+              "price": 33,
+              "discounted_price": 33,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-eff9-463d-30db-085ff1a9f309",
+          "currency_code": "IDR",
+          "price": 515000,
+          "discounted_price": 515000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-f3de-5311-8afb-3f9d092c5346",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-f3de-5311-8afb-3f9d092c5346",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-f3de-5311-8afb-3f9d092c5346",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-337f-db84-1b02-eb6141f0f1d3",
+              "price": 546000,
+              "discounted_price": 546000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-337f-db84-1b02-eb6141f0f1d3",
+              "price": 35,
+              "discounted_price": 35,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-337f-db84-1b02-eb6141f0f1d3",
+          "currency_code": "IDR",
+          "price": 546000,
+          "discounted_price": 546000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b790-1ff4-7c36-2507b90f63d4",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b790-1ff4-7c36-2507b90f63d4",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-b790-1ff4-7c36-2507b90f63d4",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-a733-4519-e4d2-6ca027cf9f7a",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-a733-4519-e4d2-6ca027cf9f7a",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-a733-4519-e4d2-6ca027cf9f7a",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-adab-fe0e-de76-a18a626e81b5",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-adab-fe0e-de76-a18a626e81b5",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-adab-fe0e-de76-a18a626e81b5",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-c025-82a3-8174-5e286132ce7a",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-c025-82a3-8174-5e286132ce7a",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-c025-82a3-8174-5e286132ce7a",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-9b20-a9a1-e461-5a4a5c080614",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-9b20-a9a1-e461-5a4a5c080614",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-9b20-a9a1-e461-5a4a5c080614",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-3a8b-5f38-9109-23127d8616c4",
+              "price": 1514000,
+              "discounted_price": 1514000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-3a8b-5f38-9109-23127d8616c4",
+              "price": 97,
+              "discounted_price": 97,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-3a8b-5f38-9109-23127d8616c4",
+          "currency_code": "IDR",
+          "price": 1514000,
+          "discounted_price": 1514000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-c9ab-128b-ce2d-1db338a1c7f1",
+              "price": 219000,
+              "discounted_price": 219000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-c9ab-128b-ce2d-1db338a1c7f1",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea39-c9ab-128b-ce2d-1db338a1c7f1",
+          "currency_code": "IDR",
+          "price": 219000,
+          "discounted_price": 219000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-cf76-432c-6b41-dc8249a72c39",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-cf76-432c-6b41-dc8249a72c39",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea39-cf76-432c-6b41-dc8249a72c39",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-d929-b5ce-a68a-fed00ae9804c",
+              "price": 156000,
+              "discounted_price": 156000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-d929-b5ce-a68a-fed00ae9804c",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea39-d929-b5ce-a68a-fed00ae9804c",
+          "currency_code": "IDR",
+          "price": 156000,
+          "discounted_price": 156000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-f829-7c83-9c1e-9cab4a534581",
+              "price": 188000,
+              "discounted_price": 188000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-f829-7c83-9c1e-9cab4a534581",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea39-f829-7c83-9c1e-9cab4a534581",
+          "currency_code": "IDR",
+          "price": 188000,
+          "discounted_price": 188000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-958f-91fd-2ea0-dbc5ee404f28",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-958f-91fd-2ea0-dbc5ee404f28",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea39-958f-91fd-2ea0-dbc5ee404f28",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-bddf-7f3d-2f23-ef9ea4b11301",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-bddf-7f3d-2f23-ef9ea4b11301",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea39-bddf-7f3d-2f23-ef9ea4b11301",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-c805-d96f-d4de-60e06f309001",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea39-c805-d96f-d4de-60e06f309001",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea39-c805-d96f-d4de-60e06f309001",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3a-27bb-d83f-d9dd-aad00e4bba34",
+              "price": 336000,
+              "discounted_price": 336000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3a-27bb-d83f-d9dd-aad00e4bba34",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3a-27bb-d83f-d9dd-aad00e4bba34",
+          "currency_code": "IDR",
+          "price": 336000,
+          "discounted_price": 336000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-a2e7-e622-2591-0b45159695c7",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-a2e7-e622-2591-0b45159695c7",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-a2e7-e622-2591-0b45159695c7",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b9af-7bc0-8caa-8443cdd1267c",
+              "price": 172000,
+              "discounted_price": 172000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-b9af-7bc0-8caa-8443cdd1267c",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-b9af-7bc0-8caa-8443cdd1267c",
+          "currency_code": "IDR",
+          "price": 172000,
+          "discounted_price": 172000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-46ab-4032-2b7f-2979ad256501",
+              "price": 851000,
+              "discounted_price": 851000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-46ab-4032-2b7f-2979ad256501",
+              "price": 54.5,
+              "discounted_price": 54.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-46ab-4032-2b7f-2979ad256501",
+          "currency_code": "IDR",
+          "price": 851000,
+          "discounted_price": 851000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-9015-1014-995e-085bc6796d86",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea39-9015-1014-995e-085bc6796d86",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea39-9015-1014-995e-085bc6796d86",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-0247-dd8d-72ed-8dc2896ecbb1",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-0247-dd8d-72ed-8dc2896ecbb1",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-0247-dd8d-72ed-8dc2896ecbb1",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Kyrgyzstan 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-1f1f-bb0e-1b23-d91fb5264c37",
+              "price": 765000,
+              "discounted_price": 765000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3a-1f1f-bb0e-1b23-d91fb5264c37",
+              "price": 49,
+              "discounted_price": 49,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3a-1f1f-bb0e-1b23-d91fb5264c37",
+          "currency_code": "IDR",
+          "price": 765000,
+          "discounted_price": 765000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-82ad-ba81-61b8-1605869242d2",
+          "name": "Kyrgyzstan",
+          "name_id": "Kirgistan",
+          "code_iso_2": "KG",
+          "code_iso_3": "KGZ",
+          "networks": [
+            {
+              "id": "01907c58-d771-fc91-2892-902eb58c587d",
+              "name": "Beeline",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-82ad-ba81-61b8-1605869242d2",
+          "name": "Kyrgyzstan",
+          "name_id": "Kirgistan",
+          "code_iso_2": "KG",
+          "code_iso_3": "KGZ",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

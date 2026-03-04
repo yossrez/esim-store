@@ -1,0 +1,1720 @@
+{
+  "data": {
+    "id": "018f19e0-3ea8-1112-c1b1-1bc72c0277ec",
+    "name": "Hungary",
+    "name_id": "Hungaria",
+    "slug": "hungary",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "HU",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Hungary 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-8483-3ba2-db06-9b088a290793",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-8483-3ba2-db06-9b088a290793",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-8483-3ba2-db06-9b088a290793",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-7883-dc6e-1460-05286435e454",
+              "price": 617000,
+              "discounted_price": 617000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-7883-dc6e-1460-05286435e454",
+              "price": 39.5,
+              "discounted_price": 39.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-7883-dc6e-1460-05286435e454",
+          "currency_code": "IDR",
+          "price": 617000,
+          "discounted_price": 617000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-16c6-390a-ada0-3ce5525868d7",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-16c6-390a-ada0-3ce5525868d7",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-16c6-390a-ada0-3ce5525868d7",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-0475-4ff4-f6c9-bf8a40472b73",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-0475-4ff4-f6c9-bf8a40472b73",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-0475-4ff4-f6c9-bf8a40472b73",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea24-fc2f-bd89-5d0b-f8933733b15c",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea24-fc2f-bd89-5d0b-f8933733b15c",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea24-fc2f-bd89-5d0b-f8933733b15c",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5637-cdc2-fcb9-cbb7dc1254d1",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5637-cdc2-fcb9-cbb7dc1254d1",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-5637-cdc2-fcb9-cbb7dc1254d1",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-067c-d262-7f3d-424159270fb6",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-067c-d262-7f3d-424159270fb6",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-067c-d262-7f3d-424159270fb6",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-0ea1-cf78-fb87-6e95d0e2f4e7",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-0ea1-cf78-fb87-6e95d0e2f4e7",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-0ea1-cf78-fb87-6e95d0e2f4e7",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5f24-e21d-4f17-1fa4d8551138",
+              "price": 234000,
+              "discounted_price": 234000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5f24-e21d-4f17-1fa4d8551138",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-5f24-e21d-4f17-1fa4d8551138",
+          "currency_code": "IDR",
+          "price": 234000,
+          "discounted_price": 234000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-4869-64e0-c472-a7c2bdc5a84f",
+              "price": 429000,
+              "discounted_price": 429000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-4869-64e0-c472-a7c2bdc5a84f",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-4869-64e0-c472-a7c2bdc5a84f",
+          "currency_code": "IDR",
+          "price": 429000,
+          "discounted_price": 429000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-1e51-a5a5-9201-f1352fdec910",
+              "price": 172000,
+              "discounted_price": 172000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-1e51-a5a5-9201-f1352fdec910",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-1e51-a5a5-9201-f1352fdec910",
+          "currency_code": "IDR",
+          "price": 172000,
+          "discounted_price": 172000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-0a62-276f-9ca4-3c8a18e2d90e",
+              "price": 63000,
+              "discounted_price": 63000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-0a62-276f-9ca4-3c8a18e2d90e",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-0a62-276f-9ca4-3c8a18e2d90e",
+          "currency_code": "IDR",
+          "price": 63000,
+          "discounted_price": 63000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-1299-9d1f-5206-6a7942c01232",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-1299-9d1f-5206-6a7942c01232",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-1299-9d1f-5206-6a7942c01232",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-428d-3947-001e-26e0a22a18f8",
+              "price": 164000,
+              "discounted_price": 164000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-428d-3947-001e-26e0a22a18f8",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-428d-3947-001e-26e0a22a18f8",
+          "currency_code": "IDR",
+          "price": 164000,
+          "discounted_price": 164000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-683e-a2fb-4994-549bb4b50f1b",
+              "price": 632000,
+              "discounted_price": 632000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-683e-a2fb-4994-549bb4b50f1b",
+              "price": 40.5,
+              "discounted_price": 40.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-683e-a2fb-4994-549bb4b50f1b",
+          "currency_code": "IDR",
+          "price": 632000,
+          "discounted_price": 632000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-6ae7-168f-2878-e449a5f0ff03",
+              "price": 164000,
+              "discounted_price": 164000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-6ae7-168f-2878-e449a5f0ff03",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-6ae7-168f-2878-e449a5f0ff03",
+          "currency_code": "IDR",
+          "price": 164000,
+          "discounted_price": 164000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-8875-a1b9-dda2-c8952f8281cd",
+              "price": 539000,
+              "discounted_price": 539000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-8875-a1b9-dda2-c8952f8281cd",
+              "price": 34.5,
+              "discounted_price": 34.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-8875-a1b9-dda2-c8952f8281cd",
+          "currency_code": "IDR",
+          "price": 539000,
+          "discounted_price": 539000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-8c81-3996-ac83-5a93c8527e63",
+              "price": 702000,
+              "discounted_price": 702000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-8c81-3996-ac83-5a93c8527e63",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-8c81-3996-ac83-5a93c8527e63",
+          "currency_code": "IDR",
+          "price": 702000,
+          "discounted_price": 702000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5aab-bc63-e6cf-81fcfd42563c",
+              "price": 593000,
+              "discounted_price": 593000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5aab-bc63-e6cf-81fcfd42563c",
+              "price": 38,
+              "discounted_price": 38,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-5aab-bc63-e6cf-81fcfd42563c",
+          "currency_code": "IDR",
+          "price": 593000,
+          "discounted_price": 593000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-3cbf-9017-ca2a-f9152b7d9ed4",
+              "price": 211000,
+              "discounted_price": 211000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-3cbf-9017-ca2a-f9152b7d9ed4",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-3cbf-9017-ca2a-f9152b7d9ed4",
+          "currency_code": "IDR",
+          "price": 211000,
+          "discounted_price": 211000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-824f-5758-a4ab-caade4c50cae",
+              "price": 1248000,
+              "discounted_price": 1248000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-824f-5758-a4ab-caade4c50cae",
+              "price": 80,
+              "discounted_price": 80,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-824f-5758-a4ab-caade4c50cae",
+          "currency_code": "IDR",
+          "price": 1248000,
+          "discounted_price": 1248000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-612c-04c6-4f7c-f4f7f08181c7",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-612c-04c6-4f7c-f4f7f08181c7",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-612c-04c6-4f7c-f4f7f08181c7",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-34dc-f56d-e191-9957f5e81e90",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-34dc-f56d-e191-9957f5e81e90",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-34dc-f56d-e191-9957f5e81e90",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-40ad-f0f9-91d7-43b157a08e34",
+              "price": 351000,
+              "discounted_price": 351000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-40ad-f0f9-91d7-43b157a08e34",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-40ad-f0f9-91d7-43b157a08e34",
+          "currency_code": "IDR",
+          "price": 351000,
+          "discounted_price": 351000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-468a-b753-1f43-d0b334ae2915",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-468a-b753-1f43-d0b334ae2915",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-468a-b753-1f43-d0b334ae2915",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5827-cb87-5cc5-389524bb35c0",
+              "price": 422000,
+              "discounted_price": 422000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-5827-cb87-5cc5-389524bb35c0",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-5827-cb87-5cc5-389524bb35c0",
+          "currency_code": "IDR",
+          "price": 422000,
+          "discounted_price": 422000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-1a54-f828-e85f-039b08fdc55b",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-1a54-f828-e85f-039b08fdc55b",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-1a54-f828-e85f-039b08fdc55b",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-76e3-e5aa-c9c1-2d961d342a46",
+              "price": 484000,
+              "discounted_price": 484000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-76e3-e5aa-c9c1-2d961d342a46",
+              "price": 31,
+              "discounted_price": 31,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-76e3-e5aa-c9c1-2d961d342a46",
+          "currency_code": "IDR",
+          "price": 484000,
+          "discounted_price": 484000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-279c-e66b-caff-b2d647c3cc59",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-279c-e66b-caff-b2d647c3cc59",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-279c-e66b-caff-b2d647c3cc59",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea24-f4ff-af6b-f919-843317f6283d",
+              "price": 32000,
+              "discounted_price": 32000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea24-f4ff-af6b-f919-843317f6283d",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea24-f4ff-af6b-f919-843317f6283d",
+          "currency_code": "IDR",
+          "price": 32000,
+          "discounted_price": 32000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-188b-a14f-7260-cfca03f57114",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-188b-a14f-7260-cfca03f57114",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea25-188b-a14f-7260-cfca03f57114",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-2286-fb62-4a2d-a0c5129ddbe4",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-2286-fb62-4a2d-a0c5129ddbe4",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea25-2286-fb62-4a2d-a0c5129ddbe4",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-30aa-5605-05b0-fa80eb232fd6",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-30aa-5605-05b0-fa80eb232fd6",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea25-30aa-5605-05b0-fa80eb232fd6",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-38cb-631d-63e2-be1465e404ba",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-38cb-631d-63e2-be1465e404ba",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea25-38cb-631d-63e2-be1465e404ba",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-522c-165c-5562-2979732c862e",
+              "price": 156000,
+              "discounted_price": 156000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-522c-165c-5562-2979732c862e",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea25-522c-165c-5562-2979732c862e",
+          "currency_code": "IDR",
+          "price": 156000,
+          "discounted_price": 156000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-72a7-1179-e3f3-5f2c8f08fa49",
+              "price": 281000,
+              "discounted_price": 281000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-72a7-1179-e3f3-5f2c8f08fa49",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea25-72a7-1179-e3f3-5f2c8f08fa49",
+          "currency_code": "IDR",
+          "price": 281000,
+          "discounted_price": 281000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-502d-b4f9-9926-1e7d96360961",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-502d-b4f9-9926-1e7d96360961",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-502d-b4f9-9926-1e7d96360961",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-002b-b914-622c-22f594dce729",
+              "price": 63000,
+              "discounted_price": 63000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-002b-b914-622c-22f594dce729",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-002b-b914-622c-22f594dce729",
+          "currency_code": "IDR",
+          "price": 63000,
+          "discounted_price": 63000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-7e5c-30b6-443d-c83ecc857faf",
+              "price": 718000,
+              "discounted_price": 718000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-7e5c-30b6-443d-c83ecc857faf",
+              "price": 46,
+              "discounted_price": 46,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-7e5c-30b6-443d-c83ecc857faf",
+          "currency_code": "IDR",
+          "price": 718000,
+          "discounted_price": 718000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-7a6b-6f94-cbc0-d58b7be4eafc",
+              "price": 453000,
+              "discounted_price": 453000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea25-7a6b-6f94-cbc0-d58b7be4eafc",
+              "price": 29,
+              "discounted_price": 29,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea25-7a6b-6f94-cbc0-d58b7be4eafc",
+          "currency_code": "IDR",
+          "price": 453000,
+          "discounted_price": 453000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-2cc8-af56-41a7-9b733a2c9170",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea25-2cc8-af56-41a7-9b733a2c9170",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea25-2cc8-af56-41a7-9b733a2c9170",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Hungary 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea24-fa3d-3219-8052-0110b64c6651",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea24-fa3d-3219-8052-0110b64c6651",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea24-fa3d-3219-8052-0110b64c6651",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-823f-910a-7365-667c2446bfd6",
+          "name": "Hungary",
+          "name_id": "Hungaria",
+          "code_iso_2": "HU",
+          "code_iso_3": "HUN",
+          "networks": [
+            {
+              "id": "01907c58-45a3-46fa-49f9-97bfdd0413e0",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-45ae-e0f7-351a-d2a6bea21eb3",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-823f-910a-7365-667c2446bfd6",
+          "name": "Hungary",
+          "name_id": "Hungaria",
+          "code_iso_2": "HU",
+          "code_iso_3": "HUN",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

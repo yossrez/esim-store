@@ -1,0 +1,1720 @@
+{
+  "data": {
+    "id": "018f19e0-25be-00c9-936e-c203127cc703",
+    "name": "Netherlands",
+    "name_id": "Belanda",
+    "slug": "netherlands",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "NL",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Netherlands 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-3cfd-c717-dee1-c1a4e10dbe77",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-3cfd-c717-dee1-c1a4e10dbe77",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-3cfd-c717-dee1-c1a4e10dbe77",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-4fce-d9fc-5202-8af96abcb75c",
+              "price": 570000,
+              "discounted_price": 570000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-4fce-d9fc-5202-8af96abcb75c",
+              "price": 36.5,
+              "discounted_price": 36.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-4fce-d9fc-5202-8af96abcb75c",
+          "currency_code": "IDR",
+          "price": 570000,
+          "discounted_price": 570000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-dbf4-6d36-a78e-9c96de121786",
+              "price": 32000,
+              "discounted_price": 32000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-dbf4-6d36-a78e-9c96de121786",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-dbf4-6d36-a78e-9c96de121786",
+          "currency_code": "IDR",
+          "price": 32000,
+          "discounted_price": 32000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-e450-66e9-c7e4-8e84308eb178",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-e450-66e9-c7e4-8e84308eb178",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-e450-66e9-c7e4-8e84308eb178",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-f6bb-7c85-afbd-929633ba6a16",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-f6bb-7c85-afbd-929633ba6a16",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-f6bb-7c85-afbd-929633ba6a16",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-33ac-6845-4ed9-d35ae293c752",
+              "price": 468000,
+              "discounted_price": 468000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-33ac-6845-4ed9-d35ae293c752",
+              "price": 30,
+              "discounted_price": 30,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-33ac-6845-4ed9-d35ae293c752",
+          "currency_code": "IDR",
+          "price": 468000,
+          "discounted_price": 468000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-3921-0c66-2c8d-b4fec91173f4",
+              "price": 297000,
+              "discounted_price": 297000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-3921-0c66-2c8d-b4fec91173f4",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-3921-0c66-2c8d-b4fec91173f4",
+          "currency_code": "IDR",
+          "price": 297000,
+          "discounted_price": 297000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-ed36-44ad-0eee-c67bbc3f2d9c",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-ed36-44ad-0eee-c67bbc3f2d9c",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-ed36-44ad-0eee-c67bbc3f2d9c",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1e29-c854-fc76-70674f86ac3b",
+              "price": 281000,
+              "discounted_price": 281000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1e29-c854-fc76-70674f86ac3b",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-1e29-c854-fc76-70674f86ac3b",
+          "currency_code": "IDR",
+          "price": 281000,
+          "discounted_price": 281000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-2326-cd53-1f1c-c2ff1212f965",
+              "price": 344000,
+              "discounted_price": 344000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-2326-cd53-1f1c-c2ff1212f965",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-2326-cd53-1f1c-c2ff1212f965",
+          "currency_code": "IDR",
+          "price": 344000,
+          "discounted_price": 344000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5319-79f9-8b75-d3357e32c540",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5319-79f9-8b75-d3357e32c540",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-5319-79f9-8b75-d3357e32c540",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-eedc-803f-bbbe-99e73cf4012c",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-eedc-803f-bbbe-99e73cf4012c",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-eedc-803f-bbbe-99e73cf4012c",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-2c5a-419a-e6b0-37dc6409d0f5",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-2c5a-419a-e6b0-37dc6409d0f5",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-2c5a-419a-e6b0-37dc6409d0f5",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-fc17-85d2-3434-c9b1ae04cdcf",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-fc17-85d2-3434-c9b1ae04cdcf",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-fc17-85d2-3434-c9b1ae04cdcf",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-26fa-746a-6219-2f3e9a4ce334",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-26fa-746a-6219-2f3e9a4ce334",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-26fa-746a-6219-2f3e9a4ce334",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1234-7c6e-3c77-624702b14fae",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1234-7c6e-3c77-624702b14fae",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-1234-7c6e-3c77-624702b14fae",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1fc7-ec3e-bde5-057278085d84",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1fc7-ec3e-bde5-057278085d84",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-1fc7-ec3e-bde5-057278085d84",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5adf-9663-8d9f-581befb0190f",
+              "price": 554000,
+              "discounted_price": 554000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5adf-9663-8d9f-581befb0190f",
+              "price": 35.5,
+              "discounted_price": 35.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-5adf-9663-8d9f-581befb0190f",
+          "currency_code": "IDR",
+          "price": 554000,
+          "discounted_price": 554000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-301c-e79a-18b1-ded5a073752e",
+              "price": 336000,
+              "discounted_price": 336000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-301c-e79a-18b1-ded5a073752e",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-301c-e79a-18b1-ded5a073752e",
+          "currency_code": "IDR",
+          "price": 336000,
+          "discounted_price": 336000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-4175-6aea-64fd-1e4fd681768a",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-4175-6aea-64fd-1e4fd681768a",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-4175-6aea-64fd-1e4fd681768a",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-45d8-203b-2d9e-96e63ba3753e",
+              "price": 383000,
+              "discounted_price": 383000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-45d8-203b-2d9e-96e63ba3753e",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-45d8-203b-2d9e-96e63ba3753e",
+          "currency_code": "IDR",
+          "price": 383000,
+          "discounted_price": 383000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-e9f2-30bd-3624-4ff9c1c69502",
+              "price": 63000,
+              "discounted_price": 63000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-e9f2-30bd-3624-4ff9c1c69502",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-e9f2-30bd-3624-4ff9c1c69502",
+          "currency_code": "IDR",
+          "price": 63000,
+          "discounted_price": 63000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-0544-1dd2-4657-4b8b0a7b7677",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-0544-1dd2-4657-4b8b0a7b7677",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-0544-1dd2-4657-4b8b0a7b7677",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-378f-39bd-7da3-76df39f72172",
+              "price": 188000,
+              "discounted_price": 188000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-378f-39bd-7da3-76df39f72172",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-378f-39bd-7da3-76df39f72172",
+          "currency_code": "IDR",
+          "price": 188000,
+          "discounted_price": 188000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-e616-c9b7-6b50-c34f2d9d47d5",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-e616-c9b7-6b50-c34f2d9d47d5",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-e616-c9b7-6b50-c34f2d9d47d5",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-eb98-f46c-2224-bd6c8c10cfdb",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-eb98-f46c-2224-bd6c8c10cfdb",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-eb98-f46c-2224-bd6c8c10cfdb",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-f2bc-c69b-d72c-0c829b12303f",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-f2bc-c69b-d72c-0c829b12303f",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-f2bc-c69b-d72c-0c829b12303f",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-47c5-17e6-d0e2-018beb3a8d16",
+              "price": 492000,
+              "discounted_price": 492000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-47c5-17e6-d0e2-018beb3a8d16",
+              "price": 31.5,
+              "discounted_price": 31.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-47c5-17e6-d0e2-018beb3a8d16",
+          "currency_code": "IDR",
+          "price": 492000,
+          "discounted_price": 492000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5712-70b5-da76-05bfac6acefa",
+              "price": 429000,
+              "discounted_price": 429000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5712-70b5-da76-05bfac6acefa",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-5712-70b5-da76-05bfac6acefa",
+          "currency_code": "IDR",
+          "price": 429000,
+          "discounted_price": 429000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1a64-2942-31fd-6f64693b8f29",
+              "price": 172000,
+              "discounted_price": 172000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-1a64-2942-31fd-6f64693b8f29",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-1a64-2942-31fd-6f64693b8f29",
+          "currency_code": "IDR",
+          "price": 172000,
+          "discounted_price": 172000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-2184-af1c-6ebc-9c7a53699e92",
+              "price": 203000,
+              "discounted_price": 203000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-2184-af1c-6ebc-9c7a53699e92",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-2184-af1c-6ebc-9c7a53699e92",
+          "currency_code": "IDR",
+          "price": 203000,
+          "discounted_price": 203000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea1f-fa71-a182-39b4-070f6424949f",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea1f-fa71-a182-39b4-070f6424949f",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea1f-fa71-a182-39b4-070f6424949f",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-0e7b-9f5d-9abc-274ff0de5b60",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-0e7b-9f5d-9abc-274ff0de5b60",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea20-0e7b-9f5d-9abc-274ff0de5b60",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-18a9-5c7a-b062-806ec00490b0",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-18a9-5c7a-b062-806ec00490b0",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea20-18a9-5c7a-b062-806ec00490b0",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-289a-29a6-3b09-d316a458875c",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-289a-29a6-3b09-d316a458875c",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea20-289a-29a6-3b09-d316a458875c",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-43aa-f3da-d23d-fd69100aba74",
+              "price": 227000,
+              "discounted_price": 227000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-43aa-f3da-d23d-fd69100aba74",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea20-43aa-f3da-d23d-fd69100aba74",
+          "currency_code": "IDR",
+          "price": 227000,
+          "discounted_price": 227000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-ffdd-1ed7-1fd3-490f3799d499",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea1f-ffdd-1ed7-1fd3-490f3799d499",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea1f-ffdd-1ed7-1fd3-490f3799d499",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea1f-e02d-4932-8c29-66789be71d8e",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea1f-e02d-4932-8c29-66789be71d8e",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea1f-e02d-4932-8c29-66789be71d8e",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-03a1-c047-7a94-f8d9d9bb4494",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-03a1-c047-7a94-f8d9d9bb4494",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea20-03a1-c047-7a94-f8d9d9bb4494",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-09fd-5bc1-f305-032182529481",
+              "price": 149000,
+              "discounted_price": 149000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea20-09fd-5bc1-f305-032182529481",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea20-09fd-5bc1-f305-032182529481",
+          "currency_code": "IDR",
+          "price": 149000,
+          "discounted_price": 149000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5171-4508-bff6-f9bfa941bba2",
+              "price": 983000,
+              "discounted_price": 983000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-5171-4508-bff6-f9bfa941bba2",
+              "price": 63,
+              "discounted_price": 63,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-5171-4508-bff6-f9bfa941bba2",
+          "currency_code": "IDR",
+          "price": 983000,
+          "discounted_price": 983000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Netherlands 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-4ba1-1f57-5071-67e7325d065a",
+              "price": 359000,
+              "discounted_price": 359000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea20-4ba1-1f57-5071-67e7325d065a",
+              "price": 23,
+              "discounted_price": 23,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea20-4ba1-1f57-5071-67e7325d065a",
+          "currency_code": "IDR",
+          "price": 359000,
+          "discounted_price": 359000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-83a9-1ad8-c9ce-195d8bbe1616",
+          "name": "Netherlands",
+          "name_id": "Belanda",
+          "code_iso_2": "NL",
+          "code_iso_3": "NLD",
+          "networks": [
+            {
+              "id": "01907c58-4807-79a2-5335-91fe60662fee",
+              "name": "KPN",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4812-60c8-b8d0-0e46bafe70a3",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-83a9-1ad8-c9ce-195d8bbe1616",
+          "name": "Netherlands",
+          "name_id": "Belanda",
+          "code_iso_2": "NL",
+          "code_iso_3": "NLD",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

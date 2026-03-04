@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "01982ca2-4a66-1cf8-3c6f-0f3d67862520",
+    "name": "Cambodia",
+    "name_id": "Kamboja",
+    "slug": "cambodia",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "KH",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Cambodia 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef3-75c6-1abc-f3097880dc74",
+              "price": 239000,
+              "discounted_price": 239000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef3-75c6-1abc-f3097880dc74",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eef3-75c6-1abc-f3097880dc74",
+          "currency_code": "IDR",
+          "price": 239000,
+          "discounted_price": 239000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef4-b2ec-1171-8089636f840a",
+              "price": 297000,
+              "discounted_price": 297000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef4-b2ec-1171-8089636f840a",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eef4-b2ec-1171-8089636f840a",
+          "currency_code": "IDR",
+          "price": 297000,
+          "discounted_price": 297000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef4-b2ec-1171-8089636f840f",
+              "price": 347000,
+              "discounted_price": 347000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef4-b2ec-1171-8089636f840f",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eef4-b2ec-1171-8089636f840f",
+          "currency_code": "IDR",
+          "price": 347000,
+          "discounted_price": 347000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef01-ba30-7ada-e2befaf6d68c",
+              "price": 239000,
+              "discounted_price": 239000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef01-ba30-7ada-e2befaf6d68c",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef01-ba30-7ada-e2befaf6d68c",
+          "currency_code": "IDR",
+          "price": 239000,
+          "discounted_price": 239000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef02-d912-2d0e-2711e0a194b3",
+              "price": 352000,
+              "discounted_price": 352000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef02-d912-2d0e-2711e0a194b3",
+              "price": 24,
+              "discounted_price": 24,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef02-d912-2d0e-2711e0a194b3",
+          "currency_code": "IDR",
+          "price": 352000,
+          "discounted_price": 352000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef03-9d99-a10c-871647c08ab3",
+              "price": 661000,
+              "discounted_price": 661000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef03-9d99-a10c-871647c08ab3",
+              "price": 44.5,
+              "discounted_price": 44.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef03-9d99-a10c-871647c08ab3",
+          "currency_code": "IDR",
+          "price": 661000,
+          "discounted_price": 661000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef04-6972-6bfb-2361a7716518",
+              "price": 41000,
+              "discounted_price": 41000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef04-6972-6bfb-2361a7716518",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef04-6972-6bfb-2361a7716518",
+          "currency_code": "IDR",
+          "price": 41000,
+          "discounted_price": 41000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef05-13bc-2da1-f3e479dc22f2",
+              "price": 115000,
+              "discounted_price": 115000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef05-13bc-2da1-f3e479dc22f2",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef05-13bc-2da1-f3e479dc22f2",
+          "currency_code": "IDR",
+          "price": 115000,
+          "discounted_price": 115000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef07-15a5-dbb9-76fc57fa1e4a",
+              "price": 356000,
+              "discounted_price": 356000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef07-15a5-dbb9-76fc57fa1e4a",
+              "price": 24,
+              "discounted_price": 24,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef07-15a5-dbb9-76fc57fa1e4a",
+          "currency_code": "IDR",
+          "price": 356000,
+          "discounted_price": 356000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef08-780d-9bda-185529a8f493",
+              "price": 530000,
+              "discounted_price": 530000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef08-780d-9bda-185529a8f493",
+              "price": 36,
+              "discounted_price": 36,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef08-780d-9bda-185529a8f493",
+          "currency_code": "IDR",
+          "price": 530000,
+          "discounted_price": 530000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef09-a80d-8cea-f8317b21304e",
+              "price": 1054000,
+              "discounted_price": 1054000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef09-a80d-8cea-f8317b21304e",
+              "price": 71,
+              "discounted_price": 71,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef09-a80d-8cea-f8317b21304e",
+          "currency_code": "IDR",
+          "price": 1054000,
+          "discounted_price": 1054000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0a-71b4-e82e-457d1fc480d1",
+              "price": 67000,
+              "discounted_price": 67000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0a-71b4-e82e-457d1fc480d1",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef0a-71b4-e82e-457d1fc480d1",
+          "currency_code": "IDR",
+          "price": 67000,
+          "discounted_price": 67000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee8-2410-3900-f4507b4ed49f",
+              "price": 45000,
+              "discounted_price": 45000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee8-2410-3900-f4507b4ed49f",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee8-2410-3900-f4507b4ed49f",
+          "currency_code": "IDR",
+          "price": 45000,
+          "discounted_price": 45000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee9-ee46-82fe-8e4eba2bc72b",
+              "price": 52000,
+              "discounted_price": 52000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee9-ee46-82fe-8e4eba2bc72b",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee9-ee46-82fe-8e4eba2bc72b",
+          "currency_code": "IDR",
+          "price": 52000,
+          "discounted_price": 52000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeea-c8be-d568-92c6c2ac5456",
+              "price": 91000,
+              "discounted_price": 91000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeea-c8be-d568-92c6c2ac5456",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeea-c8be-d568-92c6c2ac5456",
+          "currency_code": "IDR",
+          "price": 91000,
+          "discounted_price": 91000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeec-5fee-ab4c-56285150afef",
+              "price": 115000,
+              "discounted_price": 115000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeec-5fee-ab4c-56285150afef",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeec-5fee-ab4c-56285150afef",
+          "currency_code": "IDR",
+          "price": 115000,
+          "discounted_price": 115000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeed-d303-8069-48b9bdb6d5d0",
+              "price": 144000,
+              "discounted_price": 144000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeed-d303-8069-48b9bdb6d5d0",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeed-d303-8069-48b9bdb6d5d0",
+          "currency_code": "IDR",
+          "price": 144000,
+          "discounted_price": 144000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeed-d303-8069-48b9bdb6d5d5",
+              "price": 126000,
+              "discounted_price": 126000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeed-d303-8069-48b9bdb6d5d5",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeed-d303-8069-48b9bdb6d5d5",
+          "currency_code": "IDR",
+          "price": 126000,
+          "discounted_price": 126000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeef-3d8f-79aa-407ea4549e24",
+              "price": 153000,
+              "discounted_price": 153000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeef-3d8f-79aa-407ea4549e24",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeef-3d8f-79aa-407ea4549e24",
+          "currency_code": "IDR",
+          "price": 153000,
+          "discounted_price": 153000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef2-0f75-4563-cb8a844e335e",
+              "price": 246000,
+              "discounted_price": 246000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef2-0f75-4563-cb8a844e335e",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eef2-0f75-4563-cb8a844e335e",
+          "currency_code": "IDR",
+          "price": 246000,
+          "discounted_price": 246000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0b-c8e8-ca10-14fcdd2b3e81",
+              "price": 190000,
+              "discounted_price": 190000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0b-c8e8-ca10-14fcdd2b3e81",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef0b-c8e8-ca10-14fcdd2b3e81",
+          "currency_code": "IDR",
+          "price": 190000,
+          "discounted_price": 190000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0c-db6b-2e0f-672c299817ba",
+              "price": 618000,
+              "discounted_price": 618000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0c-db6b-2e0f-672c299817ba",
+              "price": 41.5,
+              "discounted_price": 41.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef0c-db6b-2e0f-672c299817ba",
+          "currency_code": "IDR",
+          "price": 618000,
+          "discounted_price": 618000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0e-d74b-18bc-5c9a211867ab",
+              "price": 923000,
+              "discounted_price": 923000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0e-d74b-18bc-5c9a211867ab",
+              "price": 62,
+              "discounted_price": 62,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef0e-d74b-18bc-5c9a211867ab",
+          "currency_code": "IDR",
+          "price": 923000,
+          "discounted_price": 923000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0f-e829-f910-c2480cbbe123",
+              "price": 1579000,
+              "discounted_price": 1579000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ef0f-e829-f910-c2480cbbe123",
+              "price": 106,
+              "discounted_price": 106,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ef0f-e829-f910-c2480cbbe123",
+          "currency_code": "IDR",
+          "price": 1579000,
+          "discounted_price": 1579000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefb-cec9-9d87-1fe374b9a0b3",
+              "price": 778000,
+              "discounted_price": 778000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefb-cec9-9d87-1fe374b9a0b3",
+              "price": 52.5,
+              "discounted_price": 52.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eefb-cec9-9d87-1fe374b9a0b3",
+          "currency_code": "IDR",
+          "price": 778000,
+          "discounted_price": 778000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefc-b5ba-9dc9-2dd52e386bb3",
+              "price": 872000,
+              "discounted_price": 872000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefc-b5ba-9dc9-2dd52e386bb3",
+              "price": 58.5,
+              "discounted_price": 58.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eefc-b5ba-9dc9-2dd52e386bb3",
+          "currency_code": "IDR",
+          "price": 872000,
+          "discounted_price": 872000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefd-7815-cfbb-caf447226de5",
+              "price": 897000,
+              "discounted_price": 897000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefd-7815-cfbb-caf447226de5",
+              "price": 60.5,
+              "discounted_price": 60.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eefd-7815-cfbb-caf447226de5",
+          "currency_code": "IDR",
+          "price": 897000,
+          "discounted_price": 897000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefd-7815-cfbb-caf447226dea",
+              "price": 1028000,
+              "discounted_price": 1028000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefd-7815-cfbb-caf447226dea",
+              "price": 69,
+              "discounted_price": 69,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eefd-7815-cfbb-caf447226dea",
+          "currency_code": "IDR",
+          "price": 1028000,
+          "discounted_price": 1028000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefe-775d-3c29-3ed5becf7154",
+              "price": 31000,
+              "discounted_price": 31000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefe-775d-3c29-3ed5becf7154",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eefe-775d-3c29-3ed5becf7154",
+          "currency_code": "IDR",
+          "price": 31000,
+          "discounted_price": 31000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeff-8a3c-b442-01b7825ff3ea",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeff-8a3c-b442-01b7825ff3ea",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeff-8a3c-b442-01b7825ff3ea",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ef06-1db1-4757-d78f90157762",
+              "price": 236000,
+              "discounted_price": 236000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ef06-1db1-4757-d78f90157762",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ef06-1db1-4757-d78f90157762",
+          "currency_code": "IDR",
+          "price": 236000,
+          "discounted_price": 236000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eee7-9b95-4096-688df26a8a5f",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eee7-9b95-4096-688df26a8a5f",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eee7-9b95-4096-688df26a8a5f",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eeeb-61a9-7fd6-a1aea2027139",
+              "price": 101000,
+              "discounted_price": 101000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eeeb-61a9-7fd6-a1aea2027139",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eeeb-61a9-7fd6-a1aea2027139",
+          "currency_code": "IDR",
+          "price": 101000,
+          "discounted_price": 101000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eef0-44bc-2b34-f2b41904fece",
+              "price": 182000,
+              "discounted_price": 182000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eef0-44bc-2b34-f2b41904fece",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eef0-44bc-2b34-f2b41904fece",
+          "currency_code": "IDR",
+          "price": 182000,
+          "discounted_price": 182000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eef1-d56f-abfd-aeea350dfa94",
+              "price": 221000,
+              "discounted_price": 221000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eef1-d56f-abfd-aeea350dfa94",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eef1-d56f-abfd-aeea350dfa94",
+          "currency_code": "IDR",
+          "price": 221000,
+          "discounted_price": 221000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ef0c-db6b-2e0f-672c299817b5",
+              "price": 434000,
+              "discounted_price": 434000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ef0c-db6b-2e0f-672c299817b5",
+              "price": 29.5,
+              "discounted_price": 29.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ef0c-db6b-2e0f-672c299817b5",
+          "currency_code": "IDR",
+          "price": 434000,
+          "discounted_price": 434000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef6-2ab8-4b69-1f070714929e",
+              "price": 443000,
+              "discounted_price": 443000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef6-2ab8-4b69-1f070714929e",
+              "price": 30,
+              "discounted_price": 30,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eef6-2ab8-4b69-1f070714929e",
+          "currency_code": "IDR",
+          "price": 443000,
+          "discounted_price": 443000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef7-0d5e-9250-7079bdd01b7e",
+              "price": 487000,
+              "discounted_price": 487000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef7-0d5e-9250-7079bdd01b7e",
+              "price": 33,
+              "discounted_price": 33,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eef7-0d5e-9250-7079bdd01b7e",
+          "currency_code": "IDR",
+          "price": 487000,
+          "discounted_price": 487000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef8-29ce-7743-747fa5062688",
+              "price": 598000,
+              "discounted_price": 598000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eef8-29ce-7743-747fa5062688",
+              "price": 40.5,
+              "discounted_price": 40.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eef8-29ce-7743-747fa5062688",
+          "currency_code": "IDR",
+          "price": 598000,
+          "discounted_price": 598000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefa-3f22-41ab-cb1b97334e74",
+              "price": 698000,
+              "discounted_price": 698000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eefa-3f22-41ab-cb1b97334e74",
+              "price": 47,
+              "discounted_price": 47,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eefa-3f22-41ab-cb1b97334e74",
+          "currency_code": "IDR",
+          "price": 698000,
+          "discounted_price": 698000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eef5-a921-793a-6c326f20f0b7",
+              "price": 399000,
+              "discounted_price": 399000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eef5-a921-793a-6c326f20f0b7",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eef5-a921-793a-6c326f20f0b7",
+          "currency_code": "IDR",
+          "price": 399000,
+          "discounted_price": 399000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Cambodia 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ef00-13b3-d3a4-c13b8417a008",
+              "price": 173000,
+              "discounted_price": 173000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ef00-13b3-d3a4-c13b8417a008",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ef00-13b3-d3a4-c13b8417a008",
+          "currency_code": "IDR",
+          "price": 173000,
+          "discounted_price": 173000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-80d7-c801-3f37-1c6528129abf",
+          "name": "Cambodia",
+          "name_id": "Kamboja",
+          "code_iso_2": "KH",
+          "code_iso_3": "KHM",
+          "networks": [
+            {
+              "id": "01982df3-3415-43fb-f1e1-0cc8d87839a0",
+              "name": "CamGSM",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-80d7-c801-3f37-1c6528129abf",
+          "name": "Cambodia",
+          "name_id": "Kamboja",
+          "code_iso_2": "KH",
+          "code_iso_3": "KHM",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1720 @@
+{
+  "data": {
+    "id": "019817b3-dccf-f39e-1941-13f6ee55d7d2",
+    "name": "Indonesia",
+    "name_id": "Indonesia",
+    "slug": "indonesia",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "ID",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Indonesia 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73b-9628-c0b0-dc9cdda7d14b",
+              "price": 163000,
+              "discounted_price": 163000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73b-9628-c0b0-dc9cdda7d14b",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73b-9628-c0b0-dc9cdda7d14b",
+          "currency_code": "IDR",
+          "price": 163000,
+          "discounted_price": 163000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73c-1757-d7be-e8e0465216f1",
+              "price": 158000,
+              "discounted_price": 158000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73c-1757-d7be-e8e0465216f1",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73c-1757-d7be-e8e0465216f1",
+          "currency_code": "IDR",
+          "price": 158000,
+          "discounted_price": 158000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73c-1757-d7be-e8e0465216f6",
+              "price": 191000,
+              "discounted_price": 191000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73c-1757-d7be-e8e0465216f6",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73c-1757-d7be-e8e0465216f6",
+          "currency_code": "IDR",
+          "price": 191000,
+          "discounted_price": 191000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73d-becd-4e9a-3957d7505f12",
+              "price": 230000,
+              "discounted_price": 230000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73d-becd-4e9a-3957d7505f12",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73d-becd-4e9a-3957d7505f12",
+          "currency_code": "IDR",
+          "price": 230000,
+          "discounted_price": 230000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73e-1f07-363e-664b658359c5",
+              "price": 291000,
+              "discounted_price": 291000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73e-1f07-363e-664b658359c5",
+              "price": 20,
+              "discounted_price": 20,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73e-1f07-363e-664b658359c5",
+          "currency_code": "IDR",
+          "price": 291000,
+          "discounted_price": 291000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73f-480c-9246-13761beb99f0",
+              "price": 319000,
+              "discounted_price": 319000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73f-480c-9246-13761beb99f0",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73f-480c-9246-13761beb99f0",
+          "currency_code": "IDR",
+          "price": 319000,
+          "discounted_price": 319000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73f-480c-9246-13761beb99f5",
+              "price": 393000,
+              "discounted_price": 393000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73f-480c-9246-13761beb99f5",
+              "price": 26.5,
+              "discounted_price": 26.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73f-480c-9246-13761beb99f5",
+          "currency_code": "IDR",
+          "price": 393000,
+          "discounted_price": 393000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f740-c586-2dae-d9b0d0843348",
+              "price": 457000,
+              "discounted_price": 457000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f740-c586-2dae-d9b0d0843348",
+              "price": 31,
+              "discounted_price": 31,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f740-c586-2dae-d9b0d0843348",
+          "currency_code": "IDR",
+          "price": 457000,
+          "discounted_price": 457000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f740-c586-2dae-d9b0d084334d",
+              "price": 509000,
+              "discounted_price": 509000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f740-c586-2dae-d9b0d084334d",
+              "price": 34.5,
+              "discounted_price": 34.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f740-c586-2dae-d9b0d084334d",
+          "currency_code": "IDR",
+          "price": 509000,
+          "discounted_price": 509000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f741-7beb-09b0-9f3b55cbe9ea",
+              "price": 551000,
+              "discounted_price": 551000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f741-7beb-09b0-9f3b55cbe9ea",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f741-7beb-09b0-9f3b55cbe9ea",
+          "currency_code": "IDR",
+          "price": 551000,
+          "discounted_price": 551000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f742-60bd-cdd5-df5895570dbd",
+              "price": 587000,
+              "discounted_price": 587000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f742-60bd-cdd5-df5895570dbd",
+              "price": 39.5,
+              "discounted_price": 39.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f742-60bd-cdd5-df5895570dbd",
+          "currency_code": "IDR",
+          "price": 587000,
+          "discounted_price": 587000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f742-60bd-cdd5-df5895570dc2",
+              "price": 645000,
+              "discounted_price": 645000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f742-60bd-cdd5-df5895570dc2",
+              "price": 43.5,
+              "discounted_price": 43.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f742-60bd-cdd5-df5895570dc2",
+          "currency_code": "IDR",
+          "price": 645000,
+          "discounted_price": 645000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f747-8f34-c8a1-879409221503",
+              "price": 238000,
+              "discounted_price": 238000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f747-8f34-c8a1-879409221503",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f747-8f34-c8a1-879409221503",
+          "currency_code": "IDR",
+          "price": 238000,
+          "discounted_price": 238000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f748-6644-3255-c9ba697b94fd",
+              "price": 348000,
+              "discounted_price": 348000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f748-6644-3255-c9ba697b94fd",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f748-6644-3255-c9ba697b94fd",
+          "currency_code": "IDR",
+          "price": 348000,
+          "discounted_price": 348000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f748-6644-3255-c9ba697b9502",
+              "price": 650000,
+              "discounted_price": 650000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f748-6644-3255-c9ba697b9502",
+              "price": 44,
+              "discounted_price": 44,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f748-6644-3255-c9ba697b9502",
+          "currency_code": "IDR",
+          "price": 650000,
+          "discounted_price": 650000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f749-61f0-8ec7-877ee7d99e80",
+              "price": 41000,
+              "discounted_price": 41000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f749-61f0-8ec7-877ee7d99e80",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f749-61f0-8ec7-877ee7d99e80",
+          "currency_code": "IDR",
+          "price": 41000,
+          "discounted_price": 41000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74a-4c34-e404-bcdfab9fc696",
+              "price": 120000,
+              "discounted_price": 120000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74a-4c34-e404-bcdfab9fc696",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f74a-4c34-e404-bcdfab9fc696",
+          "currency_code": "IDR",
+          "price": 120000,
+          "discounted_price": 120000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74b-616e-7ea5-075d1cd65437",
+              "price": 405000,
+              "discounted_price": 405000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74b-616e-7ea5-075d1cd65437",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f74b-616e-7ea5-075d1cd65437",
+          "currency_code": "IDR",
+          "price": 405000,
+          "discounted_price": 405000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74b-616e-7ea5-075d1cd6543c",
+              "price": 604000,
+              "discounted_price": 604000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74b-616e-7ea5-075d1cd6543c",
+              "price": 41,
+              "discounted_price": 41,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f74b-616e-7ea5-075d1cd6543c",
+          "currency_code": "IDR",
+          "price": 604000,
+          "discounted_price": 604000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74c-9965-838a-28f03464529a",
+              "price": 1030000,
+              "discounted_price": 1030000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f74c-9965-838a-28f03464529a",
+              "price": 69,
+              "discounted_price": 69,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f74c-9965-838a-28f03464529a",
+          "currency_code": "IDR",
+          "price": 1030000,
+          "discounted_price": 1030000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73a-7eee-11b0-79297c3ae66d",
+              "price": 106000,
+              "discounted_price": 106000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73a-7eee-11b0-79297c3ae66d",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73a-7eee-11b0-79297c3ae66d",
+          "currency_code": "IDR",
+          "price": 106000,
+          "discounted_price": 106000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f743-34d2-c0c4-c9b8166dafc2",
+              "price": 22000,
+              "discounted_price": 22000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f743-34d2-c0c4-c9b8166dafc2",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f743-34d2-c0c4-c9b8166dafc2",
+          "currency_code": "IDR",
+          "price": 22000,
+          "discounted_price": 22000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f743-34d2-c0c4-c9b8166dafc7",
+              "price": 54000,
+              "discounted_price": 54000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f743-34d2-c0c4-c9b8166dafc7",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f743-34d2-c0c4-c9b8166dafc7",
+          "currency_code": "IDR",
+          "price": 54000,
+          "discounted_price": 54000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f735-9bdc-1c26-b34308d3a048",
+              "price": 28000,
+              "discounted_price": 28000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f735-9bdc-1c26-b34308d3a048",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f735-9bdc-1c26-b34308d3a048",
+          "currency_code": "IDR",
+          "price": 28000,
+          "discounted_price": 28000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f738-1899-e5c8-eead77822d01",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f738-1899-e5c8-eead77822d01",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f738-1899-e5c8-eead77822d01",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f73b-9628-c0b0-dc9cdda7d141",
+              "price": 121000,
+              "discounted_price": 121000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f73b-9628-c0b0-dc9cdda7d141",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f73b-9628-c0b0-dc9cdda7d141",
+          "currency_code": "IDR",
+          "price": 121000,
+          "discounted_price": 121000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f736-e878-ec3b-699792b96026",
+              "price": 31000,
+              "discounted_price": 31000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f736-e878-ec3b-699792b96026",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f736-e878-ec3b-699792b96026",
+          "currency_code": "IDR",
+          "price": 31000,
+          "discounted_price": 31000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f737-b5e0-ed64-fe451fb6adcf",
+              "price": 36000,
+              "discounted_price": 36000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f737-b5e0-ed64-fe451fb6adcf",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f737-b5e0-ed64-fe451fb6adcf",
+          "currency_code": "IDR",
+          "price": 36000,
+          "discounted_price": 36000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f737-b5e0-ed64-fe451fb6add4",
+              "price": 64000,
+              "discounted_price": 64000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f737-b5e0-ed64-fe451fb6add4",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f737-b5e0-ed64-fe451fb6add4",
+          "currency_code": "IDR",
+          "price": 64000,
+          "discounted_price": 64000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f738-1899-e5c8-eead77822d06",
+              "price": 77000,
+              "discounted_price": 77000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f738-1899-e5c8-eead77822d06",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f738-1899-e5c8-eead77822d06",
+          "currency_code": "IDR",
+          "price": 77000,
+          "discounted_price": 77000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f739-8ebe-d9ac-5222c2e6ffdd",
+              "price": 99000,
+              "discounted_price": 99000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f739-8ebe-d9ac-5222c2e6ffdd",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f739-8ebe-d9ac-5222c2e6ffdd",
+          "currency_code": "IDR",
+          "price": 99000,
+          "discounted_price": 99000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73a-7eee-11b0-79297c3ae668",
+              "price": 84000,
+              "discounted_price": 84000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f73a-7eee-11b0-79297c3ae668",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f73a-7eee-11b0-79297c3ae668",
+          "currency_code": "IDR",
+          "price": 84000,
+          "discounted_price": 84000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f744-5bed-cc6d-43924523b09a",
+              "price": 158000,
+              "discounted_price": 158000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f744-5bed-cc6d-43924523b09a",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f744-5bed-cc6d-43924523b09a",
+          "currency_code": "IDR",
+          "price": 158000,
+          "discounted_price": 158000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f745-3455-58c8-be6f16094ccf",
+              "price": 231000,
+              "discounted_price": 231000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f745-3455-58c8-be6f16094ccf",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f745-3455-58c8-be6f16094ccf",
+          "currency_code": "IDR",
+          "price": 231000,
+          "discounted_price": 231000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f745-3455-58c8-be6f16094cd4",
+              "price": 433000,
+              "discounted_price": 433000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f745-3455-58c8-be6f16094cd4",
+              "price": 29.5,
+              "discounted_price": 29.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f745-3455-58c8-be6f16094cd4",
+          "currency_code": "IDR",
+          "price": 433000,
+          "discounted_price": 433000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f746-9548-9bc6-cac036f0a227",
+              "price": 31000,
+              "discounted_price": 31000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f746-9548-9bc6-cac036f0a227",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f746-9548-9bc6-cac036f0a227",
+          "currency_code": "IDR",
+          "price": 31000,
+          "discounted_price": 31000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f746-9548-9bc6-cac036f0a22c",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019817d5-f746-9548-9bc6-cac036f0a22c",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019817d5-f746-9548-9bc6-cac036f0a22c",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f74a-4c34-e404-bcdfab9fc69b",
+              "price": 265000,
+              "discounted_price": 265000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f74a-4c34-e404-bcdfab9fc69b",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f74a-4c34-e404-bcdfab9fc69b",
+          "currency_code": "IDR",
+          "price": 265000,
+          "discounted_price": 265000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f73b-9628-c0b0-dc9cdda7d146",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f73b-9628-c0b0-dc9cdda7d146",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f73b-9628-c0b0-dc9cdda7d146",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f747-8f34-c8a1-8794092214fe",
+              "price": 159000,
+              "discounted_price": 159000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f747-8f34-c8a1-8794092214fe",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f747-8f34-c8a1-8794092214fe",
+          "currency_code": "IDR",
+          "price": 159000,
+          "discounted_price": 159000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f744-5bed-cc6d-43924523b095",
+              "price": 114000,
+              "discounted_price": 114000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f744-5bed-cc6d-43924523b095",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f744-5bed-cc6d-43924523b095",
+          "currency_code": "IDR",
+          "price": 114000,
+          "discounted_price": 114000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Indonesia 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f73d-becd-4e9a-3957d7505f17",
+              "price": 262000,
+              "discounted_price": 262000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019817d5-f73d-becd-4e9a-3957d7505f17",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019817d5-f73d-becd-4e9a-3957d7505f17",
+          "currency_code": "IDR",
+          "price": 262000,
+          "discounted_price": 262000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8251-6b46-b51d-8887611e2a09",
+          "name": "Indonesia",
+          "name_id": "Indonesia",
+          "code_iso_2": "ID",
+          "code_iso_3": "IDN",
+          "networks": [
+            {
+              "id": "019817db-161c-afca-08aa-228ea13e4779",
+              "name": "Telkomsel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "019817db-161b-ed5e-9966-db60d21b1799",
+              "name": "XL (Excelcom)",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8251-6b46-b51d-8887611e2a09",
+          "name": "Indonesia",
+          "name_id": "Indonesia",
+          "code_iso_2": "ID",
+          "code_iso_3": "IDN",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

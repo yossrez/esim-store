@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "01982ca2-4a73-f320-a90d-e3b8c681d944",
+    "name": "Morocco",
+    "name_id": "Maroko",
+    "slug": "morocco",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "MA",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Morocco 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11d-1747-20f8-32fc1ca237db",
+              "price": 321000,
+              "discounted_price": 321000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11d-1747-20f8-32fc1ca237db",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f11d-1747-20f8-32fc1ca237db",
+          "currency_code": "IDR",
+          "price": 321000,
+          "discounted_price": 321000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11e-081c-f921-46f0dc98347d",
+              "price": 399000,
+              "discounted_price": 399000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11e-081c-f921-46f0dc98347d",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f11e-081c-f921-46f0dc98347d",
+          "currency_code": "IDR",
+          "price": 399000,
+          "discounted_price": 399000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f121-5a07-35b4-1b921c95abde",
+              "price": 608000,
+              "discounted_price": 608000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f121-5a07-35b4-1b921c95abde",
+              "price": 41,
+              "discounted_price": 41,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f121-5a07-35b4-1b921c95abde",
+          "currency_code": "IDR",
+          "price": 608000,
+          "discounted_price": 608000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f122-8b8e-44c3-6dc269d7d92c",
+              "price": 668000,
+              "discounted_price": 668000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f122-8b8e-44c3-6dc269d7d92c",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f122-8b8e-44c3-6dc269d7d92c",
+          "currency_code": "IDR",
+          "price": 668000,
+          "discounted_price": 668000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f126-b016-2cc5-e0e614d2dcf1",
+              "price": 1069000,
+              "discounted_price": 1069000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f126-b016-2cc5-e0e614d2dcf1",
+              "price": 72,
+              "discounted_price": 72,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f126-b016-2cc5-e0e614d2dcf1",
+          "currency_code": "IDR",
+          "price": 1069000,
+          "discounted_price": 1069000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f129-5c5b-c398-246be3a4bc23",
+              "price": 1233000,
+              "discounted_price": 1233000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f129-5c5b-c398-246be3a4bc23",
+              "price": 82.5,
+              "discounted_price": 82.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f129-5c5b-c398-246be3a4bc23",
+          "currency_code": "IDR",
+          "price": 1233000,
+          "discounted_price": 1233000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12a-426d-8b49-dee401d27ee7",
+              "price": 1421000,
+              "discounted_price": 1421000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12a-426d-8b49-dee401d27ee7",
+              "price": 95,
+              "discounted_price": 95,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f12a-426d-8b49-dee401d27ee7",
+          "currency_code": "IDR",
+          "price": 1421000,
+          "discounted_price": 1421000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f131-c766-f759-12d20c381469",
+              "price": 468000,
+              "discounted_price": 468000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f131-c766-f759-12d20c381469",
+              "price": 31.5,
+              "discounted_price": 31.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f131-c766-f759-12d20c381469",
+          "currency_code": "IDR",
+          "price": 468000,
+          "discounted_price": 468000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f132-df78-a2d4-29deab44b829",
+              "price": 912000,
+              "discounted_price": 912000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f132-df78-a2d4-29deab44b829",
+              "price": 61.5,
+              "discounted_price": 61.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f132-df78-a2d4-29deab44b829",
+          "currency_code": "IDR",
+          "price": 912000,
+          "discounted_price": 912000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f110-f3c6-a05d-e008e596f025",
+              "price": 58000,
+              "discounted_price": 58000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f110-f3c6-a05d-e008e596f025",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f110-f3c6-a05d-e008e596f025",
+          "currency_code": "IDR",
+          "price": 58000,
+          "discounted_price": 58000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f111-6d7e-48d3-d89114986dc7",
+              "price": 68000,
+              "discounted_price": 68000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f111-6d7e-48d3-d89114986dc7",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f111-6d7e-48d3-d89114986dc7",
+          "currency_code": "IDR",
+          "price": 68000,
+          "discounted_price": 68000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f113-46aa-584f-14ee62fca8d2",
+              "price": 123000,
+              "discounted_price": 123000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f113-46aa-584f-14ee62fca8d2",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f113-46aa-584f-14ee62fca8d2",
+          "currency_code": "IDR",
+          "price": 123000,
+          "discounted_price": 123000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f115-04d2-e599-262d9fe89b26",
+              "price": 155000,
+              "discounted_price": 155000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f115-04d2-e599-262d9fe89b26",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f115-04d2-e599-262d9fe89b26",
+          "currency_code": "IDR",
+          "price": 155000,
+          "discounted_price": 155000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f117-c5c8-c2e2-9f8578dad1e8",
+              "price": 184000,
+              "discounted_price": 184000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f117-c5c8-c2e2-9f8578dad1e8",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f117-c5c8-c2e2-9f8578dad1e8",
+          "currency_code": "IDR",
+          "price": 184000,
+          "discounted_price": 184000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f118-3fd1-2d68-668bfbedfff8",
+              "price": 206000,
+              "discounted_price": 206000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f118-3fd1-2d68-668bfbedfff8",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f118-3fd1-2d68-668bfbedfff8",
+          "currency_code": "IDR",
+          "price": 206000,
+          "discounted_price": 206000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11c-436d-dff6-62e20914680e",
+              "price": 337000,
+              "discounted_price": 337000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11c-436d-dff6-62e20914680e",
+              "price": 23,
+              "discounted_price": 23,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f11c-436d-dff6-62e20914680e",
+          "currency_code": "IDR",
+          "price": 337000,
+          "discounted_price": 337000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12c-10ed-3cc7-60c3242b3ba6",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12c-10ed-3cc7-60c3242b3ba6",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f12c-10ed-3cc7-60c3242b3ba6",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12d-bd0a-7d70-b2ceaa50de1a",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12d-bd0a-7d70-b2ceaa50de1a",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f12d-bd0a-7d70-b2ceaa50de1a",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12f-6e2c-e263-b4ecd3a81f44",
+              "price": 323000,
+              "discounted_price": 323000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f12f-6e2c-e263-b4ecd3a81f44",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f12f-6e2c-e263-b4ecd3a81f44",
+          "currency_code": "IDR",
+          "price": 323000,
+          "discounted_price": 323000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f116-51d2-0bf4-8e795b5bc6c1",
+              "price": 192000,
+              "discounted_price": 192000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f116-51d2-0bf4-8e795b5bc6c1",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f116-51d2-0bf4-8e795b5bc6c1",
+          "currency_code": "IDR",
+          "price": 192000,
+          "discounted_price": 192000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f124-da14-c9c0-0077fcc0760f",
+              "price": 961000,
+              "discounted_price": 961000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f124-da14-c9c0-0077fcc0760f",
+              "price": 64.5,
+              "discounted_price": 64.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f124-da14-c9c0-0077fcc0760f",
+          "currency_code": "IDR",
+          "price": 961000,
+          "discounted_price": 961000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f127-bb14-1ae8-752921662121",
+              "price": 1179000,
+              "discounted_price": 1179000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f127-bb14-1ae8-752921662121",
+              "price": 79,
+              "discounted_price": 79,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f127-bb14-1ae8-752921662121",
+          "currency_code": "IDR",
+          "price": 1179000,
+          "discounted_price": 1179000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f114-5b8a-95e4-ceedd693a007",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f114-5b8a-95e4-ceedd693a007",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f114-5b8a-95e4-ceedd693a007",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f10f-1966-3996-93c38d5edd1b",
+              "price": 52000,
+              "discounted_price": 52000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f10f-1966-3996-93c38d5edd1b",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f10f-1966-3996-93c38d5edd1b",
+          "currency_code": "IDR",
+          "price": 52000,
+          "discounted_price": 52000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f120-c27a-a3a3-c0a45075360b",
+              "price": 547000,
+              "discounted_price": 547000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f120-c27a-a3a3-c0a45075360b",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f120-c27a-a3a3-c0a45075360b",
+          "currency_code": "IDR",
+          "price": 547000,
+          "discounted_price": 547000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f135-9818-9151-9e2c31230844",
+              "price": 343000,
+              "discounted_price": 343000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f135-9818-9151-9e2c31230844",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f135-9818-9151-9e2c31230844",
+          "currency_code": "IDR",
+          "price": 343000,
+          "discounted_price": 343000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f13c-5cf4-f165-121bc23ac662",
+              "price": 596000,
+              "discounted_price": 596000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f13c-5cf4-f165-121bc23ac662",
+              "price": 40,
+              "discounted_price": 40,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f13c-5cf4-f165-121bc23ac662",
+          "currency_code": "IDR",
+          "price": 596000,
+          "discounted_price": 596000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f11a-ffeb-b8ba-225ccbc03b21",
+              "price": 302000,
+              "discounted_price": 302000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f11a-ffeb-b8ba-225ccbc03b21",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f11a-ffeb-b8ba-225ccbc03b21",
+          "currency_code": "IDR",
+          "price": 302000,
+          "discounted_price": 302000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f12e-4fba-ec8a-6400cac2dd56",
+              "price": 225000,
+              "discounted_price": 225000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f12e-4fba-ec8a-6400cac2dd56",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f12e-4fba-ec8a-6400cac2dd56",
+          "currency_code": "IDR",
+          "price": 225000,
+          "discounted_price": 225000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f133-d766-ee11-900db3eca737",
+              "price": 54000,
+              "discounted_price": 54000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f133-d766-ee11-900db3eca737",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f133-d766-ee11-900db3eca737",
+          "currency_code": "IDR",
+          "price": 54000,
+          "discounted_price": 54000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f134-a765-c395-ea6a365e2366",
+              "price": 155000,
+              "discounted_price": 155000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f134-a765-c395-ea6a365e2366",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f134-a765-c395-ea6a365e2366",
+          "currency_code": "IDR",
+          "price": 155000,
+          "discounted_price": 155000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f136-640a-fa16-48af806fc4cc",
+              "price": 487000,
+              "discounted_price": 487000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f136-640a-fa16-48af806fc4cc",
+              "price": 33,
+              "discounted_price": 33,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f136-640a-fa16-48af806fc4cc",
+          "currency_code": "IDR",
+          "price": 487000,
+          "discounted_price": 487000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f137-0362-351b-a46b86b6ef7d",
+              "price": 728000,
+              "discounted_price": 728000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f137-0362-351b-a46b86b6ef7d",
+              "price": 49,
+              "discounted_price": 49,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f137-0362-351b-a46b86b6ef7d",
+          "currency_code": "IDR",
+          "price": 728000,
+          "discounted_price": 728000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f138-d33e-e05c-e47babb4116b",
+              "price": 1450000,
+              "discounted_price": 1450000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f138-d33e-e05c-e47babb4116b",
+              "price": 97,
+              "discounted_price": 97,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f138-d33e-e05c-e47babb4116b",
+          "currency_code": "IDR",
+          "price": 1450000,
+          "discounted_price": 1450000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f139-003d-446b-449512f2b6ba",
+              "price": 90000,
+              "discounted_price": 90000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f139-003d-446b-449512f2b6ba",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f139-003d-446b-449512f2b6ba",
+          "currency_code": "IDR",
+          "price": 90000,
+          "discounted_price": 90000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13b-56af-a0cb-860ee2274e88",
+              "price": 259000,
+              "discounted_price": 259000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13b-56af-a0cb-860ee2274e88",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f13b-56af-a0cb-860ee2274e88",
+          "currency_code": "IDR",
+          "price": 259000,
+          "discounted_price": 259000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13c-5cf4-f165-121bc23ac667",
+              "price": 848000,
+              "discounted_price": 848000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13c-5cf4-f165-121bc23ac667",
+              "price": 57,
+              "discounted_price": 57,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f13c-5cf4-f165-121bc23ac667",
+          "currency_code": "IDR",
+          "price": 848000,
+          "discounted_price": 848000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13e-d866-5ae8-edc987589fd4",
+              "price": 1269000,
+              "discounted_price": 1269000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13e-d866-5ae8-edc987589fd4",
+              "price": 85,
+              "discounted_price": 85,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f13e-d866-5ae8-edc987589fd4",
+          "currency_code": "IDR",
+          "price": 1269000,
+          "discounted_price": 1269000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13e-d866-5ae8-edc987589fd9",
+              "price": 2171000,
+              "discounted_price": 2171000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f13e-d866-5ae8-edc987589fd9",
+              "price": 145,
+              "discounted_price": 145,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f13e-d866-5ae8-edc987589fd9",
+          "currency_code": "IDR",
+          "price": 2171000,
+          "discounted_price": 2171000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11f-9cad-f6fe-4ce06dd4f92c",
+              "price": 475000,
+              "discounted_price": 475000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f11f-9cad-f6fe-4ce06dd4f92c",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f11f-9cad-f6fe-4ce06dd4f92c",
+          "currency_code": "IDR",
+          "price": 475000,
+          "discounted_price": 475000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f123-7784-8942-f9e529309fda",
+              "price": 832000,
+              "discounted_price": 832000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f123-7784-8942-f9e529309fda",
+              "price": 56,
+              "discounted_price": 56,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f123-7784-8942-f9e529309fda",
+          "currency_code": "IDR",
+          "price": 832000,
+          "discounted_price": 832000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Morocco 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f119-3640-9c49-494580e38df0",
+              "price": 242000,
+              "discounted_price": 242000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f119-3640-9c49-494580e38df0",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f119-3640-9c49-494580e38df0",
+          "currency_code": "IDR",
+          "price": 242000,
+          "discounted_price": 242000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-837e-7a0c-417d-74929d3485eb",
+          "name": "Morocco",
+          "name_id": "Maroko",
+          "code_iso_2": "MA",
+          "code_iso_3": "MAR",
+          "networks": [
+            {
+              "id": "01982df3-341e-153b-a274-5f465feba17c",
+              "name": "IAM (Maroc Telecom)",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-837e-7a0c-417d-74929d3485eb",
+          "name": "Morocco",
+          "name_id": "Maroko",
+          "code_iso_2": "MA",
+          "code_iso_3": "MAR",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

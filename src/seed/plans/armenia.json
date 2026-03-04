@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "018f19df-d1ed-4838-0646-678c6a3a5588",
+    "name": "Armenia",
+    "name_id": "Armenia",
+    "slug": "armenia",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "AM",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Armenia 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-6b69-5cc9-96d2-36b7fadee26f",
+              "price": 188000,
+              "discounted_price": 188000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-6b69-5cc9-96d2-36b7fadee26f",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-6b69-5cc9-96d2-36b7fadee26f",
+          "currency_code": "IDR",
+          "price": 188000,
+          "discounted_price": 188000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-71df-a30b-ae56-6c503e6792ee",
+              "price": 554000,
+              "discounted_price": 554000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-71df-a30b-ae56-6c503e6792ee",
+              "price": 35.5,
+              "discounted_price": 35.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-71df-a30b-ae56-6c503e6792ee",
+          "currency_code": "IDR",
+          "price": 554000,
+          "discounted_price": 554000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-79a4-5bb1-8e24-405a2c6c4b55",
+              "price": 827000,
+              "discounted_price": 827000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-79a4-5bb1-8e24-405a2c6c4b55",
+              "price": 53,
+              "discounted_price": 53,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-79a4-5bb1-8e24-405a2c6c4b55",
+          "currency_code": "IDR",
+          "price": 827000,
+          "discounted_price": 827000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-73a3-f0ab-3e99-38a1b1930ebb",
+              "price": 710000,
+              "discounted_price": 710000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-73a3-f0ab-3e99-38a1b1930ebb",
+              "price": 45.5,
+              "discounted_price": 45.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-73a3-f0ab-3e99-38a1b1930ebb",
+          "currency_code": "IDR",
+          "price": 710000,
+          "discounted_price": 710000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-51c3-e51f-9a0e-bec6bd95ecfe",
+              "price": 281000,
+              "discounted_price": 281000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-51c3-e51f-9a0e-bec6bd95ecfe",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-51c3-e51f-9a0e-bec6bd95ecfe",
+          "currency_code": "IDR",
+          "price": 281000,
+          "discounted_price": 281000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-7d80-8558-d175-d1fd5c527fcd",
+              "price": 1436000,
+              "discounted_price": 1436000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-7d80-8558-d175-d1fd5c527fcd",
+              "price": 92,
+              "discounted_price": 92,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-7d80-8558-d175-d1fd5c527fcd",
+          "currency_code": "IDR",
+          "price": 1436000,
+          "discounted_price": 1436000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-1b93-8fca-0a1e-a34a98082cfc",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-1b93-8fca-0a1e-a34a98082cfc",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-1b93-8fca-0a1e-a34a98082cfc",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-2330-05c7-3d22-ac66d6354d62",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-2330-05c7-3d22-ac66d6354d62",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-2330-05c7-3d22-ac66d6354d62",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-33cf-e7ca-9d04-461e8528e6c9",
+              "price": 242000,
+              "discounted_price": 242000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-33cf-e7ca-9d04-461e8528e6c9",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-33cf-e7ca-9d04-461e8528e6c9",
+          "currency_code": "IDR",
+          "price": 242000,
+          "discounted_price": 242000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-4094-0f48-e1e9-8eb9e52a17a0",
+              "price": 289000,
+              "discounted_price": 289000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-4094-0f48-e1e9-8eb9e52a17a0",
+              "price": 18.5,
+              "discounted_price": 18.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-4094-0f48-e1e9-8eb9e52a17a0",
+          "currency_code": "IDR",
+          "price": 289000,
+          "discounted_price": 289000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-03d7-d81b-d462-6280fd798046",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-03d7-d81b-d462-6280fd798046",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-03d7-d81b-d462-6280fd798046",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-09b4-52c5-bf1a-432e07e468e9",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-09b4-52c5-bf1a-432e07e468e9",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-09b4-52c5-bf1a-432e07e468e9",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-5744-54d5-dbae-979d8441a6ac",
+              "price": 476000,
+              "discounted_price": 476000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-5744-54d5-dbae-979d8441a6ac",
+              "price": 30.5,
+              "discounted_price": 30.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-5744-54d5-dbae-979d8441a6ac",
+          "currency_code": "IDR",
+          "price": 476000,
+          "discounted_price": 476000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-895c-136f-679a-05ca5fc69ab8",
+              "price": 804000,
+              "discounted_price": 804000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-895c-136f-679a-05ca5fc69ab8",
+              "price": 51.5,
+              "discounted_price": 51.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-895c-136f-679a-05ca5fc69ab8",
+          "currency_code": "IDR",
+          "price": 804000,
+          "discounted_price": 804000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-2aa2-8193-1383-63e0d453aef8",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-2aa2-8193-1383-63e0d453aef8",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-2aa2-8193-1383-63e0d453aef8",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-efc3-88ad-5711-0c98072f2d4a",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-efc3-88ad-5711-0c98072f2d4a",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea2f-efc3-88ad-5711-0c98072f2d4a",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-11aa-ecc6-dd79-7b29476d3a9b",
+              "price": 164000,
+              "discounted_price": 164000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-11aa-ecc6-dd79-7b29476d3a9b",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-11aa-ecc6-dd79-7b29476d3a9b",
+          "currency_code": "IDR",
+          "price": 164000,
+          "discounted_price": 164000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-48a8-785a-7b80-6c396135b2f6",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-48a8-785a-7b80-6c396135b2f6",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-48a8-785a-7b80-6c396135b2f6",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-5be0-d251-41cb-d85d1c50404a",
+              "price": 679000,
+              "discounted_price": 679000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-5be0-d251-41cb-d85d1c50404a",
+              "price": 43.5,
+              "discounted_price": 43.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-5be0-d251-41cb-d85d1c50404a",
+          "currency_code": "IDR",
+          "price": 679000,
+          "discounted_price": 679000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-0d9c-6a87-f8be-44fccafad53d",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-0d9c-6a87-f8be-44fccafad53d",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-0d9c-6a87-f8be-44fccafad53d",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-f7e4-e0ba-1157-ad7ff844caa8",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-f7e4-e0ba-1157-ad7ff844caa8",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea2f-f7e4-e0ba-1157-ad7ff844caa8",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-8153-5900-5246-39aaf8e28f58",
+              "price": 351000,
+              "discounted_price": 351000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-8153-5900-5246-39aaf8e28f58",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-8153-5900-5246-39aaf8e28f58",
+          "currency_code": "IDR",
+          "price": 351000,
+          "discounted_price": 351000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea2f-f3df-f674-1b97-8f48c8164e88",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea2f-f3df-f674-1b97-8f48c8164e88",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea2f-f3df-f674-1b97-8f48c8164e88",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-fbe3-f5cb-7398-0518dc0404ef",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-fbe3-f5cb-7398-0518dc0404ef",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea2f-fbe3-f5cb-7398-0518dc0404ef",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-07de-8806-e2cf-9277c05be827",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-07de-8806-e2cf-9277c05be827",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-07de-8806-e2cf-9277c05be827",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-19bc-f7e1-4b6c-aa8c7f3a1e2b",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-19bc-f7e1-4b6c-aa8c7f3a1e2b",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-19bc-f7e1-4b6c-aa8c7f3a1e2b",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-856a-1cf0-dda1-c8a87073f5b2",
+              "price": 624000,
+              "discounted_price": 624000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-856a-1cf0-dda1-c8a87073f5b2",
+              "price": 40,
+              "discounted_price": 40,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-856a-1cf0-dda1-c8a87073f5b2",
+          "currency_code": "IDR",
+          "price": 624000,
+          "discounted_price": 624000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-6723-4f79-a7c7-5b045ee095e9",
+              "price": 726000,
+              "discounted_price": 726000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-6723-4f79-a7c7-5b045ee095e9",
+              "price": 46.5,
+              "discounted_price": 46.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-6723-4f79-a7c7-5b045ee095e9",
+          "currency_code": "IDR",
+          "price": 726000,
+          "discounted_price": 726000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-6058-1f4a-fa99-96ab07bacee3",
+              "price": 273000,
+              "discounted_price": 273000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-6058-1f4a-fa99-96ab07bacee3",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-6058-1f4a-fa99-96ab07bacee3",
+          "currency_code": "IDR",
+          "price": 273000,
+          "discounted_price": 273000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-64e4-1bc7-f822-7a0d3482606b",
+              "price": 422000,
+              "discounted_price": 422000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-64e4-1bc7-f822-7a0d3482606b",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-64e4-1bc7-f822-7a0d3482606b",
+          "currency_code": "IDR",
+          "price": 422000,
+          "discounted_price": 422000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-ffe1-bf35-1374-bb2f66a64121",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea2f-ffe1-bf35-1374-bb2f66a64121",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea2f-ffe1-bf35-1374-bb2f66a64121",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-15ad-4e45-0708-6567ae04d40d",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-15ad-4e45-0708-6567ae04d40d",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea30-15ad-4e45-0708-6567ae04d40d",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-1d88-79ba-5a20-81bf2e33b18b",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-1d88-79ba-5a20-81bf2e33b18b",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea30-1d88-79ba-5a20-81bf2e33b18b",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-262a-c369-b08f-f5088268ea17",
+              "price": 351000,
+              "discounted_price": 351000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-262a-c369-b08f-f5088268ea17",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea30-262a-c369-b08f-f5088268ea17",
+          "currency_code": "IDR",
+          "price": 351000,
+          "discounted_price": 351000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-2f93-8e66-76e1-0a916d1a49c3",
+              "price": 149000,
+              "discounted_price": 149000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-2f93-8e66-76e1-0a916d1a49c3",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea30-2f93-8e66-76e1-0a916d1a49c3",
+          "currency_code": "IDR",
+          "price": 149000,
+          "discounted_price": 149000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-4d30-1313-f86d-9543b080dec0",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-4d30-1313-f86d-9543b080dec0",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea30-4d30-1313-f86d-9543b080dec0",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-6d8b-c4e5-beb6-1c3cacea1b7d",
+              "price": 320000,
+              "discounted_price": 320000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-6d8b-c4e5-beb6-1c3cacea1b7d",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea30-6d8b-c4e5-beb6-1c3cacea1b7d",
+          "currency_code": "IDR",
+          "price": 320000,
+          "discounted_price": 320000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-3c11-f0a0-e78c-3b0a79f22634",
+              "price": 188000,
+              "discounted_price": 188000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-3c11-f0a0-e78c-3b0a79f22634",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-3c11-f0a0-e78c-3b0a79f22634",
+          "currency_code": "IDR",
+          "price": 188000,
+          "discounted_price": 188000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-381c-3ce6-3f61-a27e1a3392ad",
+              "price": 398000,
+              "discounted_price": 398000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-381c-3ce6-3f61-a27e1a3392ad",
+              "price": 25.5,
+              "discounted_price": 25.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-381c-3ce6-3f61-a27e1a3392ad",
+          "currency_code": "IDR",
+          "price": 398000,
+          "discounted_price": 398000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-1f4a-f96c-f40b-9847043692a0",
+              "price": 211000,
+              "discounted_price": 211000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea30-1f4a-f96c-f40b-9847043692a0",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea30-1f4a-f96c-f40b-9847043692a0",
+          "currency_code": "IDR",
+          "price": 211000,
+          "discounted_price": 211000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-4522-aaa5-2df4-4e328e769403",
+              "price": 492000,
+              "discounted_price": 492000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-4522-aaa5-2df4-4e328e769403",
+              "price": 31.5,
+              "discounted_price": 31.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-4522-aaa5-2df4-4e328e769403",
+          "currency_code": "IDR",
+          "price": 492000,
+          "discounted_price": 492000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Armenia 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-77c4-1730-1532-0cd537543192",
+              "price": 523000,
+              "discounted_price": 523000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea30-77c4-1730-1532-0cd537543192",
+              "price": 33.5,
+              "discounted_price": 33.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea30-77c4-1730-1532-0cd537543192",
+          "currency_code": "IDR",
+          "price": 523000,
+          "discounted_price": 523000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8092-d250-49aa-f8023aae8ede",
+          "name": "Armenia",
+          "name_id": "Armenia",
+          "code_iso_2": "AM",
+          "code_iso_3": "ARM",
+          "networks": [
+            {
+              "id": "01907c58-c8c5-ac70-01e8-e3665eaf7e06",
+              "name": "VivaCell-MTS",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8092-d250-49aa-f8023aae8ede",
+          "name": "Armenia",
+          "name_id": "Armenia",
+          "code_iso_2": "AM",
+          "code_iso_3": "ARM",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

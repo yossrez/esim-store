@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "01982ca2-4a3f-761e-4c38-536c04f664a4",
+    "name": "Brazil",
+    "name_id": "Brasil",
+    "slug": "brazil",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "BR",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Brazil 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed5-939b-fa2d-baa6b7d01318",
+              "price": 1076000,
+              "discounted_price": 1076000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed5-939b-fa2d-baa6b7d01318",
+              "price": 72,
+              "discounted_price": 72,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed5-939b-fa2d-baa6b7d01318",
+          "currency_code": "IDR",
+          "price": 1076000,
+          "discounted_price": 1076000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed6-dbc0-c051-878711c09e30",
+              "price": 1233000,
+              "discounted_price": 1233000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed6-dbc0-c051-878711c09e30",
+              "price": 82.5,
+              "discounted_price": 82.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed6-dbc0-c051-878711c09e30",
+          "currency_code": "IDR",
+          "price": 1233000,
+          "discounted_price": 1233000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed7-8cf3-e14a-2da9fd83a16b",
+              "price": 32000,
+              "discounted_price": 32000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed7-8cf3-e14a-2da9fd83a16b",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed7-8cf3-e14a-2da9fd83a16b",
+          "currency_code": "IDR",
+          "price": 32000,
+          "discounted_price": 32000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed7-8cf3-e14a-2da9fd83a170",
+              "price": 90000,
+              "discounted_price": 90000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed7-8cf3-e14a-2da9fd83a170",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed7-8cf3-e14a-2da9fd83a170",
+          "currency_code": "IDR",
+          "price": 90000,
+          "discounted_price": 90000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed9-e110-44d5-c9eeafe9b5f4",
+              "price": 274000,
+              "discounted_price": 274000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed9-e110-44d5-c9eeafe9b5f4",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed9-e110-44d5-c9eeafe9b5f4",
+          "currency_code": "IDR",
+          "price": 274000,
+          "discounted_price": 274000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeda-9002-29db-a3325f814f70",
+              "price": 408000,
+              "discounted_price": 408000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeda-9002-29db-a3325f814f70",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeda-9002-29db-a3325f814f70",
+          "currency_code": "IDR",
+          "price": 408000,
+          "discounted_price": 408000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eebf-5ed3-75bd-2ee2441e99b1",
+              "price": 51000,
+              "discounted_price": 51000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eebf-5ed3-75bd-2ee2441e99b1",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eebf-5ed3-75bd-2ee2441e99b1",
+          "currency_code": "IDR",
+          "price": 51000,
+          "discounted_price": 51000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec0-b4a4-2216-f1a2d13d95f1",
+              "price": 60000,
+              "discounted_price": 60000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec0-b4a4-2216-f1a2d13d95f1",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eec0-b4a4-2216-f1a2d13d95f1",
+          "currency_code": "IDR",
+          "price": 60000,
+          "discounted_price": 60000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec1-1c55-d145-e375b54d239a",
+              "price": 108000,
+              "discounted_price": 108000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec1-1c55-d145-e375b54d239a",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eec1-1c55-d145-e375b54d239a",
+          "currency_code": "IDR",
+          "price": 108000,
+          "discounted_price": 108000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec3-6302-7c26-43b4ad5b3f9b",
+              "price": 137000,
+              "discounted_price": 137000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec3-6302-7c26-43b4ad5b3f9b",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eec3-6302-7c26-43b4ad5b3f9b",
+          "currency_code": "IDR",
+          "price": 137000,
+          "discounted_price": 137000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec5-b630-dfb5-09e606107288",
+              "price": 177000,
+              "discounted_price": 177000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec5-b630-dfb5-09e606107288",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eec5-b630-dfb5-09e606107288",
+          "currency_code": "IDR",
+          "price": 177000,
+          "discounted_price": 177000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec6-f3b0-79e5-12c76c38c187",
+              "price": 150000,
+              "discounted_price": 150000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec6-f3b0-79e5-12c76c38c187",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eec6-f3b0-79e5-12c76c38c187",
+          "currency_code": "IDR",
+          "price": 150000,
+          "discounted_price": 150000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec7-d2fe-18a2-ae2c79e3e64a",
+              "price": 189000,
+              "discounted_price": 189000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eec7-d2fe-18a2-ae2c79e3e64a",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eec7-d2fe-18a2-ae2c79e3e64a",
+          "currency_code": "IDR",
+          "price": 189000,
+          "discounted_price": 189000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeca-9a0a-74a4-77c3964aa92a",
+              "price": 296000,
+              "discounted_price": 296000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eeca-9a0a-74a4-77c3964aa92a",
+              "price": 20,
+              "discounted_price": 20,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eeca-9a0a-74a4-77c3964aa92a",
+          "currency_code": "IDR",
+          "price": 296000,
+          "discounted_price": 296000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecb-1ba1-2b58-63918ccb342f",
+              "price": 286000,
+              "discounted_price": 286000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecb-1ba1-2b58-63918ccb342f",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eecb-1ba1-2b58-63918ccb342f",
+          "currency_code": "IDR",
+          "price": 286000,
+          "discounted_price": 286000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecc-f283-eac0-6237ae98b438",
+              "price": 347000,
+              "discounted_price": 347000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecc-f283-eac0-6237ae98b438",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eecc-f283-eac0-6237ae98b438",
+          "currency_code": "IDR",
+          "price": 347000,
+          "discounted_price": 347000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecd-3d57-eb15-5056d9b254a3",
+              "price": 415000,
+              "discounted_price": 415000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecd-3d57-eb15-5056d9b254a3",
+              "price": 28,
+              "discounted_price": 28,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eecd-3d57-eb15-5056d9b254a3",
+          "currency_code": "IDR",
+          "price": 415000,
+          "discounted_price": 415000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecf-e4e7-07c3-19fbc5425767",
+              "price": 531000,
+              "discounted_price": 531000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eecf-e4e7-07c3-19fbc5425767",
+              "price": 36,
+              "discounted_price": 36,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eecf-e4e7-07c3-19fbc5425767",
+          "currency_code": "IDR",
+          "price": 531000,
+          "discounted_price": 531000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed0-c3c8-05ed-8d17912b1e76",
+              "price": 583000,
+              "discounted_price": 583000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed0-c3c8-05ed-8d17912b1e76",
+              "price": 39.5,
+              "discounted_price": 39.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed0-c3c8-05ed-8d17912b1e76",
+          "currency_code": "IDR",
+          "price": 583000,
+          "discounted_price": 583000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed1-a4c9-425a-74d157b2a0b2",
+              "price": 719000,
+              "discounted_price": 719000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed1-a4c9-425a-74d157b2a0b2",
+              "price": 48.5,
+              "discounted_price": 48.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed1-a4c9-425a-74d157b2a0b2",
+          "currency_code": "IDR",
+          "price": 719000,
+          "discounted_price": 719000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed2-b0bc-84e2-90fc3d4f2415",
+              "price": 837000,
+              "discounted_price": 837000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed2-b0bc-84e2-90fc3d4f2415",
+              "price": 56.5,
+              "discounted_price": 56.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed2-b0bc-84e2-90fc3d4f2415",
+          "currency_code": "IDR",
+          "price": 837000,
+          "discounted_price": 837000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed3-0971-b45e-2af6d6b5a502",
+              "price": 933000,
+              "discounted_price": 933000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed3-0971-b45e-2af6d6b5a502",
+              "price": 62.5,
+              "discounted_price": 62.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed3-0971-b45e-2af6d6b5a502",
+          "currency_code": "IDR",
+          "price": 933000,
+          "discounted_price": 933000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed4-9952-5bba-ceb481bde2e0",
+              "price": 1029000,
+              "discounted_price": 1029000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eed4-9952-5bba-ceb481bde2e0",
+              "price": 69,
+              "discounted_price": 69,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eed4-9952-5bba-ceb481bde2e0",
+          "currency_code": "IDR",
+          "price": 1029000,
+          "discounted_price": 1029000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedb-7a6d-9721-0cfdfa8ba617",
+              "price": 793000,
+              "discounted_price": 793000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedb-7a6d-9721-0cfdfa8ba617",
+              "price": 53.5,
+              "discounted_price": 53.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eedb-7a6d-9721-0cfdfa8ba617",
+          "currency_code": "IDR",
+          "price": 793000,
+          "discounted_price": 793000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedc-9632-0066-0162e7816c69",
+              "price": 48000,
+              "discounted_price": 48000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedc-9632-0066-0162e7816c69",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eedc-9632-0066-0162e7816c69",
+          "currency_code": "IDR",
+          "price": 48000,
+          "discounted_price": 48000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedd-faa8-451e-a0d7ce495a90",
+              "price": 132000,
+              "discounted_price": 132000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedd-faa8-451e-a0d7ce495a90",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eedd-faa8-451e-a0d7ce495a90",
+          "currency_code": "IDR",
+          "price": 132000,
+          "discounted_price": 132000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedf-bf23-b4a7-0d793350f2fc",
+              "price": 426000,
+              "discounted_price": 426000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eedf-bf23-b4a7-0d793350f2fc",
+              "price": 29,
+              "discounted_price": 29,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eedf-bf23-b4a7-0d793350f2fc",
+          "currency_code": "IDR",
+          "price": 426000,
+          "discounted_price": 426000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee0-7737-3a9a-444ab8546a61",
+              "price": 636000,
+              "discounted_price": 636000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee0-7737-3a9a-444ab8546a61",
+              "price": 43,
+              "discounted_price": 43,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee0-7737-3a9a-444ab8546a61",
+          "currency_code": "IDR",
+          "price": 636000,
+          "discounted_price": 636000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee1-1c5a-25f9-12e4e457a2ee",
+              "price": 1206000,
+              "discounted_price": 1206000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee1-1c5a-25f9-12e4e457a2ee",
+              "price": 83,
+              "discounted_price": 83,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee1-1c5a-25f9-12e4e457a2ee",
+          "currency_code": "IDR",
+          "price": 1206000,
+          "discounted_price": 1206000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee2-8f1f-7318-e6841ab38f87",
+              "price": 79000,
+              "discounted_price": 79000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee2-8f1f-7318-e6841ab38f87",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee2-8f1f-7318-e6841ab38f87",
+          "currency_code": "IDR",
+          "price": 79000,
+          "discounted_price": 79000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee2-8f1f-7318-e6841ab38f8c",
+              "price": 226000,
+              "discounted_price": 226000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee2-8f1f-7318-e6841ab38f8c",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee2-8f1f-7318-e6841ab38f8c",
+          "currency_code": "IDR",
+          "price": 226000,
+          "discounted_price": 226000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee4-73c1-4b04-26e81f2ab3ce",
+              "price": 740000,
+              "discounted_price": 740000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee4-73c1-4b04-26e81f2ab3ce",
+              "price": 50,
+              "discounted_price": 50,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee4-73c1-4b04-26e81f2ab3ce",
+          "currency_code": "IDR",
+          "price": 740000,
+          "discounted_price": 740000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee6-d4eb-7eb9-b806df6b5918",
+              "price": 1108000,
+              "discounted_price": 1108000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee6-d4eb-7eb9-b806df6b5918",
+              "price": 74.5,
+              "discounted_price": 74.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee6-d4eb-7eb9-b806df6b5918",
+          "currency_code": "IDR",
+          "price": 1108000,
+          "discounted_price": 1108000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee7-9b95-4096-688df26a8a5a",
+              "price": 1894000,
+              "discounted_price": 1894000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-eee7-9b95-4096-688df26a8a5a",
+              "price": 127,
+              "discounted_price": 127,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-eee7-9b95-4096-688df26a8a5a",
+          "currency_code": "IDR",
+          "price": 1894000,
+          "discounted_price": 1894000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eec2-290d-137e-646d3b2db628",
+              "price": 120000,
+              "discounted_price": 120000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eec2-290d-137e-646d3b2db628",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eec2-290d-137e-646d3b2db628",
+          "currency_code": "IDR",
+          "price": 120000,
+          "discounted_price": 120000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eebe-f467-e007-1b9721fb9d1b",
+              "price": 46000,
+              "discounted_price": 46000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eebe-f467-e007-1b9721fb9d1b",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eebe-f467-e007-1b9721fb9d1b",
+          "currency_code": "IDR",
+          "price": 46000,
+          "discounted_price": 46000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eec9-679d-bb0e-6fdadebe0e61",
+              "price": 255000,
+              "discounted_price": 255000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eec9-679d-bb0e-6fdadebe0e61",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eec9-679d-bb0e-6fdadebe0e61",
+          "currency_code": "IDR",
+          "price": 255000,
+          "discounted_price": 255000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eece-0ce9-c9b5-650bfd4b441a",
+              "price": 478000,
+              "discounted_price": 478000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eece-0ce9-c9b5-650bfd4b441a",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eece-0ce9-c9b5-650bfd4b441a",
+          "currency_code": "IDR",
+          "price": 478000,
+          "discounted_price": 478000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eede-e043-a7a4-dc59728deb5d",
+              "price": 300000,
+              "discounted_price": 300000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eede-e043-a7a4-dc59728deb5d",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eede-e043-a7a4-dc59728deb5d",
+          "currency_code": "IDR",
+          "price": 300000,
+          "discounted_price": 300000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eee3-6e97-3568-1aa7ad314f16",
+              "price": 520000,
+              "discounted_price": 520000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eee3-6e97-3568-1aa7ad314f16",
+              "price": 35,
+              "discounted_price": 35,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eee3-6e97-3568-1aa7ad314f16",
+          "currency_code": "IDR",
+          "price": 520000,
+          "discounted_price": 520000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eed8-a289-c937-dceef54a596f",
+              "price": 200000,
+              "discounted_price": 200000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eed8-a289-c937-dceef54a596f",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eed8-a289-c937-dceef54a596f",
+          "currency_code": "IDR",
+          "price": 200000,
+          "discounted_price": 200000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brazil 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eec8-0898-c535-790678389c3e",
+              "price": 221000,
+              "discounted_price": 221000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-eec8-0898-c535-790678389c3e",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-eec8-0898-c535-790678389c3e",
+          "currency_code": "IDR",
+          "price": 221000,
+          "discounted_price": 221000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-80c4-9487-1486-186860cd8e78",
+          "name": "Brazil",
+          "name_id": "Brasil",
+          "code_iso_2": "BR",
+          "code_iso_3": "BRA",
+          "networks": [
+            {
+              "id": "01982df3-3415-43fb-f1e1-0cc8d878399f",
+              "name": "Telefonica",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-80c4-9487-1486-186860cd8e78",
+          "name": "Brazil",
+          "name_id": "Brasil",
+          "code_iso_2": "BR",
+          "code_iso_3": "BRA",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

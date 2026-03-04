@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "01982ca2-4a35-25fb-7abb-5c024dd61e44",
+    "name": "Australia",
+    "name_id": "Australia",
+    "slug": "australia",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": "B5E0FF",
+    "area_code": "AU",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "4G and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Australia 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee3e-e830-0900-b675a77129c1",
+              "price": 34000,
+              "discounted_price": 34000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee3e-e830-0900-b675a77129c1",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee3e-e830-0900-b675a77129c1",
+          "currency_code": "IDR",
+          "price": 34000,
+          "discounted_price": 34000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee40-6d2f-fcab-1ad32347df1c",
+              "price": 62000,
+              "discounted_price": 62000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee40-6d2f-fcab-1ad32347df1c",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee40-6d2f-fcab-1ad32347df1c",
+          "currency_code": "IDR",
+          "price": 62000,
+          "discounted_price": 62000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee42-b6c2-a58e-fd97b9ffa9e1",
+              "price": 80000,
+              "discounted_price": 80000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee42-b6c2-a58e-fd97b9ffa9e1",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee42-b6c2-a58e-fd97b9ffa9e1",
+          "currency_code": "IDR",
+          "price": 80000,
+          "discounted_price": 80000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee43-d7cb-4480-2bf4efe5d103",
+              "price": 98000,
+              "discounted_price": 98000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee43-d7cb-4480-2bf4efe5d103",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee43-d7cb-4480-2bf4efe5d103",
+          "currency_code": "IDR",
+          "price": 98000,
+          "discounted_price": 98000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee44-d317-481f-122fef49ff17",
+              "price": 82000,
+              "discounted_price": 82000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee44-d317-481f-122fef49ff17",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee44-d317-481f-122fef49ff17",
+          "currency_code": "IDR",
+          "price": 82000,
+          "discounted_price": 82000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee45-a39b-a97c-42249648a8b7",
+              "price": 90000,
+              "discounted_price": 90000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee45-a39b-a97c-42249648a8b7",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee45-a39b-a97c-42249648a8b7",
+          "currency_code": "IDR",
+          "price": 90000,
+          "discounted_price": 90000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee47-fc18-17dc-41df03990cf5",
+              "price": 148000,
+              "discounted_price": 148000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee47-fc18-17dc-41df03990cf5",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee47-fc18-17dc-41df03990cf5",
+          "currency_code": "IDR",
+          "price": 148000,
+          "discounted_price": 148000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee48-34f9-0464-2e7e24e4e428",
+              "price": 146000,
+              "discounted_price": 146000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee48-34f9-0464-2e7e24e4e428",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee48-34f9-0464-2e7e24e4e428",
+          "currency_code": "IDR",
+          "price": 146000,
+          "discounted_price": 146000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee49-07d4-af2a-130b97465b03",
+              "price": 176000,
+              "discounted_price": 176000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee49-07d4-af2a-130b97465b03",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee49-07d4-af2a-130b97465b03",
+          "currency_code": "IDR",
+          "price": 176000,
+          "discounted_price": 176000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4a-020f-0a8c-9ef8ab4327a7",
+              "price": 210000,
+              "discounted_price": 210000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4a-020f-0a8c-9ef8ab4327a7",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee4a-020f-0a8c-9ef8ab4327a7",
+          "currency_code": "IDR",
+          "price": 210000,
+          "discounted_price": 210000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee52-3304-9bb3-b84b29bd4523",
+              "price": 618000,
+              "discounted_price": 618000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee52-3304-9bb3-b84b29bd4523",
+              "price": 41.5,
+              "discounted_price": 41.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee52-3304-9bb3-b84b29bd4523",
+          "currency_code": "IDR",
+          "price": 618000,
+          "discounted_price": 618000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee53-9edf-0311-c7282f018049",
+              "price": 23000,
+              "discounted_price": 23000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee53-9edf-0311-c7282f018049",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee53-9edf-0311-c7282f018049",
+          "currency_code": "IDR",
+          "price": 23000,
+          "discounted_price": 23000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee55-944d-9fd8-42e44f3fa7f2",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee55-944d-9fd8-42e44f3fa7f2",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee55-944d-9fd8-42e44f3fa7f2",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee57-fec5-1ffb-e3432969d3c5",
+              "price": 158000,
+              "discounted_price": 158000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee57-fec5-1ffb-e3432969d3c5",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee57-fec5-1ffb-e3432969d3c5",
+          "currency_code": "IDR",
+          "price": 158000,
+          "discounted_price": 158000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee58-4d26-fd37-a42f22a82992",
+              "price": 226000,
+              "discounted_price": 226000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee58-4d26-fd37-a42f22a82992",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee58-4d26-fd37-a42f22a82992",
+          "currency_code": "IDR",
+          "price": 226000,
+          "discounted_price": 226000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee59-68ef-3056-2e4242f65753",
+              "price": 407000,
+              "discounted_price": 407000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee59-68ef-3056-2e4242f65753",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee59-68ef-3056-2e4242f65753",
+          "currency_code": "IDR",
+          "price": 407000,
+          "discounted_price": 407000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5a-9e9d-668c-8cb9332be7ea",
+              "price": 75000,
+              "discounted_price": 75000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5a-9e9d-668c-8cb9332be7ea",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee5a-9e9d-668c-8cb9332be7ea",
+          "currency_code": "IDR",
+          "price": 75000,
+          "discounted_price": 75000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5c-49c0-852e-cedab0aeb6f8",
+              "price": 215000,
+              "discounted_price": 215000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5c-49c0-852e-cedab0aeb6f8",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee5c-49c0-852e-cedab0aeb6f8",
+          "currency_code": "IDR",
+          "price": 215000,
+          "discounted_price": 215000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5d-d871-ee9c-5c9afd843b04",
+              "price": 300000,
+              "discounted_price": 300000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5d-d871-ee9c-5c9afd843b04",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee5d-d871-ee9c-5c9afd843b04",
+          "currency_code": "IDR",
+          "price": 300000,
+          "discounted_price": 300000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5e-ba26-2f4c-aae53416d8e9",
+              "price": 630000,
+              "discounted_price": 630000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5e-ba26-2f4c-aae53416d8e9",
+              "price": 42.5,
+              "discounted_price": 42.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee5e-ba26-2f4c-aae53416d8e9",
+          "currency_code": "IDR",
+          "price": 630000,
+          "discounted_price": 630000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5f-3cb5-4b47-c6295407ee5a",
+              "price": 40000,
+              "discounted_price": 40000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee5f-3cb5-4b47-c6295407ee5a",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee5f-3cb5-4b47-c6295407ee5a",
+          "currency_code": "IDR",
+          "price": 40000,
+          "discounted_price": 40000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee60-cb29-02ec-b9d2e6d9a5b0",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee60-cb29-02ec-b9d2e6d9a5b0",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee60-cb29-02ec-b9d2e6d9a5b0",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee62-3b63-2bfb-86801bd06165",
+              "price": 362000,
+              "discounted_price": 362000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee62-3b63-2bfb-86801bd06165",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee62-3b63-2bfb-86801bd06165",
+          "currency_code": "IDR",
+          "price": 362000,
+          "discounted_price": 362000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee63-23ef-e990-3270c55b30da",
+              "price": 534000,
+              "discounted_price": 534000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee63-23ef-e990-3270c55b30da",
+              "price": 36,
+              "discounted_price": 36,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee63-23ef-e990-3270c55b30da",
+          "currency_code": "IDR",
+          "price": 534000,
+          "discounted_price": 534000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee64-b735-cbd9-9c2f6d1ec244",
+              "price": 947000,
+              "discounted_price": 947000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee64-b735-cbd9-9c2f6d1ec244",
+              "price": 63.5,
+              "discounted_price": 63.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee64-b735-cbd9-9c2f6d1ec244",
+          "currency_code": "IDR",
+          "price": 947000,
+          "discounted_price": 947000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee3f-7db7-ee9a-1218f151a818",
+              "price": 41000,
+              "discounted_price": 41000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee3f-7db7-ee9a-1218f151a818",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee3f-7db7-ee9a-1218f151a818",
+          "currency_code": "IDR",
+          "price": 41000,
+          "discounted_price": 41000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee59-68ef-3056-2e4242f65758",
+              "price": 28000,
+              "discounted_price": 28000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee59-68ef-3056-2e4242f65758",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee59-68ef-3056-2e4242f65758",
+          "currency_code": "IDR",
+          "price": 28000,
+          "discounted_price": 28000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4d-8f5f-3f66-8ea19d026d31",
+              "price": 294000,
+              "discounted_price": 294000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4d-8f5f-3f66-8ea19d026d31",
+              "price": 20,
+              "discounted_price": 20,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee4d-8f5f-3f66-8ea19d026d31",
+          "currency_code": "IDR",
+          "price": 294000,
+          "discounted_price": 294000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4e-d9d0-6a17-585812b80ef6",
+              "price": 345000,
+              "discounted_price": 345000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4e-d9d0-6a17-585812b80ef6",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee4e-d9d0-6a17-585812b80ef6",
+          "currency_code": "IDR",
+          "price": 345000,
+          "discounted_price": 345000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4f-62c6-7b08-bb8cc1d1b807",
+              "price": 420000,
+              "discounted_price": 420000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4f-62c6-7b08-bb8cc1d1b807",
+              "price": 28.5,
+              "discounted_price": 28.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee4f-62c6-7b08-bb8cc1d1b807",
+          "currency_code": "IDR",
+          "price": 420000,
+          "discounted_price": 420000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee50-7640-c083-d61de96282a8",
+              "price": 467000,
+              "discounted_price": 467000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee50-7640-c083-d61de96282a8",
+              "price": 31.5,
+              "discounted_price": 31.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee50-7640-c083-d61de96282a8",
+          "currency_code": "IDR",
+          "price": 467000,
+          "discounted_price": 467000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee51-17d2-e31b-f55f58c84c7a",
+              "price": 492000,
+              "discounted_price": 492000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee51-17d2-e31b-f55f58c84c7a",
+              "price": 33.5,
+              "discounted_price": 33.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee51-17d2-e31b-f55f58c84c7a",
+          "currency_code": "IDR",
+          "price": 492000,
+          "discounted_price": 492000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee52-3304-9bb3-b84b29bd451e",
+              "price": 516000,
+              "discounted_price": 516000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee52-3304-9bb3-b84b29bd451e",
+              "price": 35,
+              "discounted_price": 35,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee52-3304-9bb3-b84b29bd451e",
+          "currency_code": "IDR",
+          "price": 516000,
+          "discounted_price": 516000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee41-b509-dbbd-8554d694b430",
+              "price": 72000,
+              "discounted_price": 72000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee41-b509-dbbd-8554d694b430",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee41-b509-dbbd-8554d694b430",
+          "currency_code": "IDR",
+          "price": 72000,
+          "discounted_price": 72000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee45-a39b-a97c-42249648a8bc",
+              "price": 109000,
+              "discounted_price": 109000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee45-a39b-a97c-42249648a8bc",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee45-a39b-a97c-42249648a8bc",
+          "currency_code": "IDR",
+          "price": 109000,
+          "discounted_price": 109000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee46-f327-20d9-800f26d3ca69",
+              "price": 134000,
+              "discounted_price": 134000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee46-f327-20d9-800f26d3ca69",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee46-f327-20d9-800f26d3ca69",
+          "currency_code": "IDR",
+          "price": 134000,
+          "discounted_price": 134000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee56-c748-7f07-96381482366c",
+              "price": 116000,
+              "discounted_price": 116000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee56-c748-7f07-96381482366c",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee56-c748-7f07-96381482366c",
+          "currency_code": "IDR",
+          "price": 116000,
+          "discounted_price": 116000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee5b-481d-51c2-02fe75703356",
+              "price": 140000,
+              "discounted_price": 140000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee5b-481d-51c2-02fe75703356",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee5b-481d-51c2-02fe75703356",
+          "currency_code": "IDR",
+          "price": 140000,
+          "discounted_price": 140000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee61-1266-6d83-2b0eb67db80b",
+              "price": 242000,
+              "discounted_price": 242000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee61-1266-6d83-2b0eb67db80b",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee61-1266-6d83-2b0eb67db80b",
+          "currency_code": "IDR",
+          "price": 242000,
+          "discounted_price": 242000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4c-6568-8a69-ed9a3e4e3407",
+              "price": 267000,
+              "discounted_price": 267000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-ee4c-6568-8a69-ed9a3e4e3407",
+              "price": 18.5,
+              "discounted_price": 18.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-ee4c-6568-8a69-ed9a3e4e3407",
+          "currency_code": "IDR",
+          "price": 267000,
+          "discounted_price": 267000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee4b-b3b3-ea7e-ac2dc3afb270",
+              "price": 241000,
+              "discounted_price": 241000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee4b-b3b3-ea7e-ac2dc3afb270",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee4b-b3b3-ea7e-ac2dc3afb270",
+          "currency_code": "IDR",
+          "price": 241000,
+          "discounted_price": 241000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Australia 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee3d-2a6d-12ac-e58a55d481be",
+              "price": 31000,
+              "discounted_price": 31000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-ee3d-2a6d-12ac-e58a55d481be",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-ee3d-2a6d-12ac-e58a55d481be",
+          "currency_code": "IDR",
+          "price": 31000,
+          "discounted_price": 31000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8097-a19b-36d4-c694a405cc47",
+          "name": "Australia",
+          "name_id": "Australia",
+          "code_iso_2": "AU",
+          "code_iso_3": "AUS",
+          "networks": [
+            {
+              "id": "01982df3-3415-43fb-f1e1-0cc8d878399d",
+              "name": "Optus",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": false,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8097-a19b-36d4-c694a405cc47",
+          "name": "Australia",
+          "name_id": "Australia",
+          "code_iso_2": "AU",
+          "code_iso_3": "AUS",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

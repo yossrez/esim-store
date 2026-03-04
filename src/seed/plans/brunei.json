@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "018f19df-dcf9-36ec-355a-1cd187e9bf83",
+    "name": "Brunei",
+    "name_id": "Brunei",
+    "slug": "brunei",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "BN",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Brunei 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-1e99-7edc-396e-582934b1431d",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-1e99-7edc-396e-582934b1431d",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-1e99-7edc-396e-582934b1431d",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-4058-8693-c06e-11234fd55449",
+              "price": 227000,
+              "discounted_price": 227000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-4058-8693-c06e-11234fd55449",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-4058-8693-c06e-11234fd55449",
+          "currency_code": "IDR",
+          "price": 227000,
+          "discounted_price": 227000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8e92-3014-690c-87bb52da4cd3",
+              "price": 1389000,
+              "discounted_price": 1389000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8e92-3014-690c-87bb52da4cd3",
+              "price": 89,
+              "discounted_price": 89,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-8e92-3014-690c-87bb52da4cd3",
+          "currency_code": "IDR",
+          "price": 1389000,
+          "discounted_price": 1389000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6c3a-7894-8a54-d1e52e82ced9",
+              "price": 671000,
+              "discounted_price": 671000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6c3a-7894-8a54-d1e52e82ced9",
+              "price": 43,
+              "discounted_price": 43,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-6c3a-7894-8a54-d1e52e82ced9",
+          "currency_code": "IDR",
+          "price": 671000,
+          "discounted_price": 671000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-5afb-7fee-572a-315255367f71",
+              "price": 461000,
+              "discounted_price": 461000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-5afb-7fee-572a-315255367f71",
+              "price": 29.5,
+              "discounted_price": 29.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-5afb-7fee-572a-315255367f71",
+          "currency_code": "IDR",
+          "price": 461000,
+          "discounted_price": 461000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-2777-90eb-d415-0c1ce8bb3f57",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-2777-90eb-d415-0c1ce8bb3f57",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-2777-90eb-d415-0c1ce8bb3f57",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-2b0f-73e1-37e3-e6a738f0dbda",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-2b0f-73e1-37e3-e6a738f0dbda",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-2b0f-73e1-37e3-e6a738f0dbda",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-5e7e-9566-eb40-44418167b01d",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-5e7e-9566-eb40-44418167b01d",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-5e7e-9566-eb40-44418167b01d",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-61b5-3c32-c58f-845ccb2678e0",
+              "price": 835000,
+              "discounted_price": 835000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-61b5-3c32-c58f-845ccb2678e0",
+              "price": 53.5,
+              "discounted_price": 53.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-61b5-3c32-c58f-845ccb2678e0",
+          "currency_code": "IDR",
+          "price": 835000,
+          "discounted_price": 835000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-33f5-9884-6e70-04d256a6c5af",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-33f5-9884-6e70-04d256a6c5af",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-33f5-9884-6e70-04d256a6c5af",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-503a-e226-e6be-1ad1e9f75535",
+              "price": 156000,
+              "discounted_price": 156000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-503a-e226-e6be-1ad1e9f75535",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-503a-e226-e6be-1ad1e9f75535",
+          "currency_code": "IDR",
+          "price": 156000,
+          "discounted_price": 156000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-9b36-2237-6f76-3126cb7cec29",
+              "price": 1311000,
+              "discounted_price": 1311000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-9b36-2237-6f76-3126cb7cec29",
+              "price": 84,
+              "discounted_price": 84,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-9b36-2237-6f76-3126cb7cec29",
+          "currency_code": "IDR",
+          "price": 1311000,
+          "discounted_price": 1311000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6366-b01a-fbf3-6e02c02a2386",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6366-b01a-fbf3-6e02c02a2386",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-6366-b01a-fbf3-6e02c02a2386",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8395-9154-1569-cfa48ad50e48",
+              "price": 780000,
+              "discounted_price": 780000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8395-9154-1569-cfa48ad50e48",
+              "price": 50,
+              "discounted_price": 50,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-8395-9154-1569-cfa48ad50e48",
+          "currency_code": "IDR",
+          "price": 780000,
+          "discounted_price": 780000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8738-224a-cdef-b5a3f4c2d6b8",
+              "price": 991000,
+              "discounted_price": 991000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8738-224a-cdef-b5a3f4c2d6b8",
+              "price": 63.5,
+              "discounted_price": 63.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-8738-224a-cdef-b5a3f4c2d6b8",
+          "currency_code": "IDR",
+          "price": 991000,
+          "discounted_price": 991000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-924d-ae8d-a750-1737207c3172",
+              "price": 2426000,
+              "discounted_price": 2426000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-924d-ae8d-a750-1737207c3172",
+              "price": 155.5,
+              "discounted_price": 155.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-924d-ae8d-a750-1737207c3172",
+          "currency_code": "IDR",
+          "price": 2426000,
+          "discounted_price": 2426000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8b02-2488-9bae-88541e8e4b9c",
+              "price": 835000,
+              "discounted_price": 835000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-8b02-2488-9bae-88541e8e4b9c",
+              "price": 53.5,
+              "discounted_price": 53.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-8b02-2488-9bae-88541e8e4b9c",
+          "currency_code": "IDR",
+          "price": 835000,
+          "discounted_price": 835000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-78b1-ae27-8dd3-0f5151f0c0c3",
+              "price": 1233000,
+              "discounted_price": 1233000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-78b1-ae27-8dd3-0f5151f0c0c3",
+              "price": 79,
+              "discounted_price": 79,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-78b1-ae27-8dd3-0f5151f0c0c3",
+          "currency_code": "IDR",
+          "price": 1233000,
+          "discounted_price": 1233000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-3049-9873-8522-09711e9f9895",
+              "price": 172000,
+              "discounted_price": 172000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-3049-9873-8522-09711e9f9895",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-3049-9873-8522-09711e9f9895",
+          "currency_code": "IDR",
+          "price": 172000,
+          "discounted_price": 172000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-7376-e60f-a10a-1c22746769b7",
+              "price": 437000,
+              "discounted_price": 437000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-7376-e60f-a10a-1c22746769b7",
+              "price": 28,
+              "discounted_price": 28,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-7376-e60f-a10a-1c22746769b7",
+          "currency_code": "IDR",
+          "price": 437000,
+          "discounted_price": 437000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-7c34-59c1-7407-8ea397332414",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-7c34-59c1-7407-8ea397332414",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-7c34-59c1-7407-8ea397332414",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-1b0f-b54f-ab2b-e46775189098",
+              "price": 63000,
+              "discounted_price": 63000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-1b0f-b54f-ab2b-e46775189098",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-1b0f-b54f-ab2b-e46775189098",
+          "currency_code": "IDR",
+          "price": 63000,
+          "discounted_price": 63000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-3922-d8d2-bc7c-8c010eee492d",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-3922-d8d2-bc7c-8c010eee492d",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-3922-d8d2-bc7c-8c010eee492d",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-43e5-e9d5-ea42-6d141d898cea",
+              "price": 227000,
+              "discounted_price": 227000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-43e5-e9d5-ea42-6d141d898cea",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-43e5-e9d5-ea42-6d141d898cea",
+          "currency_code": "IDR",
+          "price": 227000,
+          "discounted_price": 227000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-4cb2-3f0a-5faa-790d65fcebc8",
+              "price": 593000,
+              "discounted_price": 593000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-4cb2-3f0a-5faa-790d65fcebc8",
+              "price": 38,
+              "discounted_price": 38,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-4cb2-3f0a-5faa-790d65fcebc8",
+          "currency_code": "IDR",
+          "price": 593000,
+          "discounted_price": 593000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-53bd-f8ff-3cf8-2d560a098320",
+              "price": 211000,
+              "discounted_price": 211000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-53bd-f8ff-3cf8-2d560a098320",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-53bd-f8ff-3cf8-2d560a098320",
+          "currency_code": "IDR",
+          "price": 211000,
+          "discounted_price": 211000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-8004-5a88-9119-dea7b64098f6",
+              "price": 492000,
+              "discounted_price": 492000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-8004-5a88-9119-dea7b64098f6",
+              "price": 31.5,
+              "discounted_price": 31.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-8004-5a88-9119-dea7b64098f6",
+          "currency_code": "IDR",
+          "price": 492000,
+          "discounted_price": 492000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-9792-e356-6383-10816dd5041b",
+              "price": 936000,
+              "discounted_price": 936000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-9792-e356-6383-10816dd5041b",
+              "price": 60,
+              "discounted_price": 60,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-9792-e356-6383-10816dd5041b",
+          "currency_code": "IDR",
+          "price": 936000,
+          "discounted_price": 936000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-5762-f5b8-eb3a-0ace20200c37",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-5762-f5b8-eb3a-0ace20200c37",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-5762-f5b8-eb3a-0ace20200c37",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6fd9-aa52-7efb-d5e0c8584b7d",
+              "price": 757000,
+              "discounted_price": 757000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6fd9-aa52-7efb-d5e0c8584b7d",
+              "price": 48.5,
+              "discounted_price": 48.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-6fd9-aa52-7efb-d5e0c8584b7d",
+          "currency_code": "IDR",
+          "price": 757000,
+          "discounted_price": 757000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-93fc-09a1-9ece-85182533d1aa",
+              "price": 539000,
+              "discounted_price": 539000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-93fc-09a1-9ece-85182533d1aa",
+              "price": 34.5,
+              "discounted_price": 34.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-93fc-09a1-9ece-85182533d1aa",
+          "currency_code": "IDR",
+          "price": 539000,
+          "discounted_price": 539000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-25c7-4dd9-e25c-b3f1cdc9eb68",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-25c7-4dd9-e25c-b3f1cdc9eb68",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-25c7-4dd9-e25c-b3f1cdc9eb68",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-2ca2-1afc-1dd4-d96b3b15b901",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-2ca2-1afc-1dd4-d96b3b15b901",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-2ca2-1afc-1dd4-d96b3b15b901",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-3799-b1ae-2a7a-2fedc4517869",
+              "price": 273000,
+              "discounted_price": 273000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-3799-b1ae-2a7a-2fedc4517869",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-3799-b1ae-2a7a-2fedc4517869",
+          "currency_code": "IDR",
+          "price": 273000,
+          "discounted_price": 273000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-3cb0-8640-9dce-09d0820ad4d2",
+              "price": 172000,
+              "discounted_price": 172000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-3cb0-8640-9dce-09d0820ad4d2",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-3cb0-8640-9dce-09d0820ad4d2",
+          "currency_code": "IDR",
+          "price": 172000,
+          "discounted_price": 172000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-7723-9eb8-a971-095596a6af71",
+              "price": 710000,
+              "discounted_price": 710000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-7723-9eb8-a971-095596a6af71",
+              "price": 45.5,
+              "discounted_price": 45.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-7723-9eb8-a971-095596a6af71",
+          "currency_code": "IDR",
+          "price": 710000,
+          "discounted_price": 710000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-4917-95a0-18e8-3b217414df53",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-4917-95a0-18e8-3b217414df53",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-4917-95a0-18e8-3b217414df53",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-4788-b13c-cdbc-b25b919100e8",
+              "price": 351000,
+              "discounted_price": 351000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-4788-b13c-cdbc-b25b919100e8",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-4788-b13c-cdbc-b25b919100e8",
+          "currency_code": "IDR",
+          "price": 351000,
+          "discounted_price": 351000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-2240-5312-90d4-813e09b9b9c3",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-2240-5312-90d4-813e09b9b9c3",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-2240-5312-90d4-813e09b9b9c3",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-66fe-78ab-30c1-adda45b22076",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e99f-66fe-78ab-30c1-adda45b22076",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e99f-66fe-78ab-30c1-adda45b22076",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-600c-7a0e-2511-b1b55cf572ee",
+              "price": 492000,
+              "discounted_price": 492000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-600c-7a0e-2511-b1b55cf572ee",
+              "price": 31.5,
+              "discounted_price": 31.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-600c-7a0e-2511-b1b55cf572ee",
+          "currency_code": "IDR",
+          "price": 492000,
+          "discounted_price": 492000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Brunei 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6aa2-bce0-388b-3b5c82fe53a8",
+              "price": 437000,
+              "discounted_price": 437000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e99f-6aa2-bce0-388b-3b5c82fe53a8",
+              "price": 28,
+              "discounted_price": 28,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e99f-6aa2-bce0-388b-3b5c82fe53a8",
+          "currency_code": "IDR",
+          "price": 437000,
+          "discounted_price": 437000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-80ca-bb11-7f51-3d09b5c66722",
+          "name": "Brunei",
+          "name_id": "Brunei",
+          "code_iso_2": "BN",
+          "code_iso_3": "BRN",
+          "networks": [
+            {
+              "id": "01907c58-5780-6388-0a09-ab3bcc5cb558",
+              "name": "DST",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-80ca-bb11-7f51-3d09b5c66722",
+          "name": "Brunei",
+          "name_id": "Brunei",
+          "code_iso_2": "BN",
+          "code_iso_3": "BRN",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "018ff232-8d5e-cee9-e9a6-44999277b718",
+    "name": "Puerto Rico",
+    "name_id": "Puerto Riko",
+    "slug": "puerto-rico",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "PR",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Puerto Rico 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-2d44-833e-2dd2-bd1a438f1e38",
+              "price": 796000,
+              "discounted_price": 796000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-2d44-833e-2dd2-bd1a438f1e38",
+              "price": 51,
+              "discounted_price": 51,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-2d44-833e-2dd2-bd1a438f1e38",
+          "currency_code": "IDR",
+          "price": 796000,
+          "discounted_price": 796000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-69ca-9ab4-8a6a-e7bad5b90941",
+              "price": 1740000,
+              "discounted_price": 1740000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-69ca-9ab4-8a6a-e7bad5b90941",
+              "price": 111.5,
+              "discounted_price": 111.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-69ca-9ab4-8a6a-e7bad5b90941",
+          "currency_code": "IDR",
+          "price": 1740000,
+          "discounted_price": 1740000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-752e-c6ed-160b-2b73839d02aa",
+              "price": 4283000,
+              "discounted_price": 4283000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-752e-c6ed-160b-2b73839d02aa",
+              "price": 274.5,
+              "discounted_price": 274.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-752e-c6ed-160b-2b73839d02aa",
+          "currency_code": "IDR",
+          "price": 4283000,
+          "discounted_price": 4283000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-7975-9592-ac26-f0d6f345d097",
+              "price": 936000,
+              "discounted_price": 936000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-7975-9592-ac26-f0d6f345d097",
+              "price": 60,
+              "discounted_price": 60,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-7975-9592-ac26-f0d6f345d097",
+          "currency_code": "IDR",
+          "price": 936000,
+          "discounted_price": 936000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-45e7-9601-0899-5f8f222e5de5",
+              "price": 1170000,
+              "discounted_price": 1170000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-45e7-9601-0899-5f8f222e5de5",
+              "price": 75,
+              "discounted_price": 75,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-45e7-9601-0899-5f8f222e5de5",
+          "currency_code": "IDR",
+          "price": 1170000,
+          "discounted_price": 1170000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-4f09-52ad-c9cc-79b5eeec5a8c",
+              "price": 749000,
+              "discounted_price": 749000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-4f09-52ad-c9cc-79b5eeec5a8c",
+              "price": 48,
+              "discounted_price": 48,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-4f09-52ad-c9cc-79b5eeec5a8c",
+          "currency_code": "IDR",
+          "price": 749000,
+          "discounted_price": 749000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-680b-f63f-70de-9471d4b4a006",
+              "price": 1358000,
+              "discounted_price": 1358000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-680b-f63f-70de-9471d4b4a006",
+              "price": 87,
+              "discounted_price": 87,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-680b-f63f-70de-9471d4b4a006",
+          "currency_code": "IDR",
+          "price": 1358000,
+          "discounted_price": 1358000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-70ca-bb98-cac1-4dec24231b8f",
+              "price": 2442000,
+              "discounted_price": 2442000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-70ca-bb98-cac1-4dec24231b8f",
+              "price": 156.5,
+              "discounted_price": 156.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-70ca-bb98-cac1-4dec24231b8f",
+          "currency_code": "IDR",
+          "price": 2442000,
+          "discounted_price": 2442000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-f66c-1396-4433-00cbe244f225",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-f66c-1396-4433-00cbe244f225",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3c-f66c-1396-4433-00cbe244f225",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-fa81-557d-24a0-feb30e88342e",
+              "price": 149000,
+              "discounted_price": 149000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-fa81-557d-24a0-feb30e88342e",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3c-fa81-557d-24a0-feb30e88342e",
+          "currency_code": "IDR",
+          "price": 149000,
+          "discounted_price": 149000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-037a-56b7-4370-9e2d2bc35d12",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-037a-56b7-4370-9e2d2bc35d12",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-037a-56b7-4370-9e2d2bc35d12",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-849a-cd03-f456-a267b9e710e1",
+              "price": 2301000,
+              "discounted_price": 2301000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-849a-cd03-f456-a267b9e710e1",
+              "price": 147.5,
+              "discounted_price": 147.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-849a-cd03-f456-a267b9e710e1",
+          "currency_code": "IDR",
+          "price": 2301000,
+          "discounted_price": 2301000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-5333-c563-aef9-8724904c80d4",
+              "price": 1241000,
+              "discounted_price": 1241000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-5333-c563-aef9-8724904c80d4",
+              "price": 79.5,
+              "discounted_price": 79.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-5333-c563-aef9-8724904c80d4",
+          "currency_code": "IDR",
+          "price": 1241000,
+          "discounted_price": 1241000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-5637-d0c3-9645-88455280fa32",
+              "price": 2161000,
+              "discounted_price": 2161000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-5637-d0c3-9645-88455280fa32",
+              "price": 138.5,
+              "discounted_price": 138.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-5637-d0c3-9645-88455280fa32",
+          "currency_code": "IDR",
+          "price": 2161000,
+          "discounted_price": 2161000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-fcc4-7fe3-8f19-d2a89b0ccd38",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-fcc4-7fe3-8f19-d2a89b0ccd38",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3c-fcc4-7fe3-8f19-d2a89b0ccd38",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-01ce-3c36-4888-b68719438bb2",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-01ce-3c36-4888-b68719438bb2",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-01ce-3c36-4888-b68719438bb2",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-0871-494e-493c-8286081f4530",
+              "price": 281000,
+              "discounted_price": 281000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-0871-494e-493c-8286081f4530",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-0871-494e-493c-8286081f4530",
+          "currency_code": "IDR",
+          "price": 281000,
+          "discounted_price": 281000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-6b6b-9a7c-73c2-8a9559310af8",
+              "price": 1451000,
+              "discounted_price": 1451000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-6b6b-9a7c-73c2-8a9559310af8",
+              "price": 93,
+              "discounted_price": 93,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-6b6b-9a7c-73c2-8a9559310af8",
+          "currency_code": "IDR",
+          "price": 1451000,
+          "discounted_price": 1451000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-deab-7468-f588-acac9203b112",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-deab-7468-f588-acac9203b112",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3c-deab-7468-f588-acac9203b112",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-ec09-787b-f39a-035a38343e91",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3c-ec09-787b-f39a-035a38343e91",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3c-ec09-787b-f39a-035a38343e91",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-0c75-bbc6-dbaf-c10b539dfe67",
+              "price": 461000,
+              "discounted_price": 461000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-0c75-bbc6-dbaf-c10b539dfe67",
+              "price": 29.5,
+              "discounted_price": 29.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-0c75-bbc6-dbaf-c10b539dfe67",
+          "currency_code": "IDR",
+          "price": 461000,
+          "discounted_price": 461000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-11ee-6625-1db8-0783a1587000",
+              "price": 273000,
+              "discounted_price": 273000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-11ee-6625-1db8-0783a1587000",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-11ee-6625-1db8-0783a1587000",
+          "currency_code": "IDR",
+          "price": 273000,
+          "discounted_price": 273000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-1620-229a-a7ab-18d0903558d5",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-1620-229a-a7ab-18d0903558d5",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-1620-229a-a7ab-18d0903558d5",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-1b6c-e933-5062-287e70981325",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-1b6c-e933-5062-287e70981325",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-1b6c-e933-5062-287e70981325",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-280b-7ae2-6a92-bcc8c27a091c",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-280b-7ae2-6a92-bcc8c27a091c",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-280b-7ae2-6a92-bcc8c27a091c",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-2121-034f-8cd1-c43be0909479",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-2121-034f-8cd1-c43be0909479",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-2121-034f-8cd1-c43be0909479",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-2f89-3fac-a2f6-f77fd71b382d",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-2f89-3fac-a2f6-f77fd71b382d",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-2f89-3fac-a2f6-f77fd71b382d",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-34f7-ccec-63fe-e9e4356fdbb9",
+              "price": 843000,
+              "discounted_price": 843000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-34f7-ccec-63fe-e9e4356fdbb9",
+              "price": 54,
+              "discounted_price": 54,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-34f7-ccec-63fe-e9e4356fdbb9",
+          "currency_code": "IDR",
+          "price": 843000,
+          "discounted_price": 843000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-36f1-0161-43a0-eb9916fc3454",
+              "price": 1451000,
+              "discounted_price": 1451000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-36f1-0161-43a0-eb9916fc3454",
+              "price": 93,
+              "discounted_price": 93,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-36f1-0161-43a0-eb9916fc3454",
+          "currency_code": "IDR",
+          "price": 1451000,
+          "discounted_price": 1451000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-49c4-675b-cc91-1a99f1c98632",
+              "price": 1311000,
+              "discounted_price": 1311000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-49c4-675b-cc91-1a99f1c98632",
+              "price": 84,
+              "discounted_price": 84,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-49c4-675b-cc91-1a99f1c98632",
+          "currency_code": "IDR",
+          "price": 1311000,
+          "discounted_price": 1311000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-5d49-afb7-35ee-86b9641785bf",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-5d49-afb7-35ee-86b9641785bf",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-5d49-afb7-35ee-86b9641785bf",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-7ebc-5539-6684-0f7e6a31fc1a",
+              "price": 1638000,
+              "discounted_price": 1638000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-7ebc-5539-6684-0f7e6a31fc1a",
+              "price": 105,
+              "discounted_price": 105,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-7ebc-5539-6684-0f7e6a31fc1a",
+          "currency_code": "IDR",
+          "price": 1638000,
+          "discounted_price": 1638000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-4203-c32f-1be7-13130a1f269c",
+              "price": 749000,
+              "discounted_price": 749000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-4203-c32f-1be7-13130a1f269c",
+              "price": 48,
+              "discounted_price": 48,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-4203-c32f-1be7-13130a1f269c",
+          "currency_code": "IDR",
+          "price": 749000,
+          "discounted_price": 749000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-1f2b-6856-e64b-3de534c0dc21",
+              "price": 1030000,
+              "discounted_price": 1030000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-1f2b-6856-e64b-3de534c0dc21",
+              "price": 66,
+              "discounted_price": 66,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3d-1f2b-6856-e64b-3de534c0dc21",
+          "currency_code": "IDR",
+          "price": 1030000,
+          "discounted_price": 1030000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-2310-4cdc-7326-cb2b62e0cb76",
+              "price": 344000,
+              "discounted_price": 344000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-2310-4cdc-7326-cb2b62e0cb76",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3d-2310-4cdc-7326-cb2b62e0cb76",
+          "currency_code": "IDR",
+          "price": 344000,
+          "discounted_price": 344000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-3ffc-bb8b-f333-c47c4c48b286",
+              "price": 414000,
+              "discounted_price": 414000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-3ffc-bb8b-f333-c47c4c48b286",
+              "price": 26.5,
+              "discounted_price": 26.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3d-3ffc-bb8b-f333-c47c4c48b286",
+          "currency_code": "IDR",
+          "price": 414000,
+          "discounted_price": 414000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-62b1-779d-74d9-dd799e1d9f34",
+              "price": 843000,
+              "discounted_price": 843000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-62b1-779d-74d9-dd799e1d9f34",
+              "price": 54,
+              "discounted_price": 54,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3d-62b1-779d-74d9-dd799e1d9f34",
+          "currency_code": "IDR",
+          "price": 843000,
+          "discounted_price": 843000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-0e10-fbdb-0138-b246c2864f94",
+              "price": 211000,
+              "discounted_price": 211000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-0e10-fbdb-0138-b246c2864f94",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3d-0e10-fbdb-0138-b246c2864f94",
+          "currency_code": "IDR",
+          "price": 211000,
+          "discounted_price": 211000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-1814-1efc-05a0-9e8fe7903d96",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-1814-1efc-05a0-9e8fe7903d96",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3d-1814-1efc-05a0-9e8fe7903d96",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-19bf-74d6-7964-5375fb00b9fa",
+              "price": 601000,
+              "discounted_price": 601000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3d-19bf-74d6-7964-5375fb00b9fa",
+              "price": 38.5,
+              "discounted_price": 38.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3d-19bf-74d6-7964-5375fb00b9fa",
+          "currency_code": "IDR",
+          "price": 601000,
+          "discounted_price": 601000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-3afc-4789-09bc-d0dcf975a736",
+              "price": 320000,
+              "discounted_price": 320000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea3d-3afc-4789-09bc-d0dcf975a736",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea3d-3afc-4789-09bc-d0dcf975a736",
+          "currency_code": "IDR",
+          "price": 320000,
+          "discounted_price": 320000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Puerto Rico 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3c-e432-97c4-8d34-a198609de7d0",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea3c-e432-97c4-8d34-a198609de7d0",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea3c-e432-97c4-8d34-a198609de7d0",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-846b-e7fd-eccc-3e1f2e063bb3",
+          "name": "Puerto Rico",
+          "name_id": "Puerto Riko",
+          "code_iso_2": "PR",
+          "code_iso_3": "PRI",
+          "networks": [
+            {
+              "id": "0191e5ca-1ca0-dd42-6bef-7c19b180150c",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-846b-e7fd-eccc-3e1f2e063bb3",
+          "name": "Puerto Rico",
+          "name_id": "Puerto Riko",
+          "code_iso_2": "PR",
+          "code_iso_3": "PRI",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

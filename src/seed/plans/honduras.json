@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "018f19e0-6995-98ac-bca0-def55e4291ec",
+    "name": "Honduras",
+    "name_id": "Honduras",
+    "slug": "honduras",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "HN",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Honduras 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-ea73-ea7e-66d2-800cd95fa01d",
+              "price": 2161000,
+              "discounted_price": 2161000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-ea73-ea7e-66d2-800cd95fa01d",
+              "price": 138.5,
+              "discounted_price": 138.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-ea73-ea7e-66d2-800cd95fa01d",
+          "currency_code": "IDR",
+          "price": 2161000,
+          "discounted_price": 2161000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-f2b1-5237-2751-252d4a13f8d4",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-f2b1-5237-2751-252d4a13f8d4",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-f2b1-5237-2751-252d4a13f8d4",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-f82a-f541-8a6e-e7eac8b6e74a",
+              "price": 1358000,
+              "discounted_price": 1358000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-f82a-f541-8a6e-e7eac8b6e74a",
+              "price": 87,
+              "discounted_price": 87,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-f82a-f541-8a6e-e7eac8b6e74a",
+          "currency_code": "IDR",
+          "price": 1358000,
+          "discounted_price": 1358000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0068-d100-1d13-36ef3ef2e36a",
+              "price": 1451000,
+              "discounted_price": 1451000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0068-d100-1d13-36ef3ef2e36a",
+              "price": 93,
+              "discounted_price": 93,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea37-0068-d100-1d13-36ef3ef2e36a",
+          "currency_code": "IDR",
+          "price": 1451000,
+          "discounted_price": 1451000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-08f1-0890-e093-95b0577b8bf9",
+              "price": 4283000,
+              "discounted_price": 4283000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-08f1-0890-e093-95b0577b8bf9",
+              "price": 274.5,
+              "discounted_price": 274.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea37-08f1-0890-e093-95b0577b8bf9",
+          "currency_code": "IDR",
+          "price": 4283000,
+          "discounted_price": 4283000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-78ca-4d10-eb69-dcb476f5dc4c",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-78ca-4d10-eb69-dcb476f5dc4c",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-78ca-4d10-eb69-dcb476f5dc4c",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-8101-b79c-ee49-6ba4695ce4c7",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-8101-b79c-ee49-6ba4695ce4c7",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-8101-b79c-ee49-6ba4695ce4c7",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-9040-3ac8-7201-a65f5f910c50",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-9040-3ac8-7201-a65f5f910c50",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-9040-3ac8-7201-a65f5f910c50",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-941d-6215-099d-63bb1bd7b9d1",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-941d-6215-099d-63bb1bd7b9d1",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-941d-6215-099d-63bb1bd7b9d1",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-9fd5-c090-2c44-9b24e26c769e",
+              "price": 273000,
+              "discounted_price": 273000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-9fd5-c090-2c44-9b24e26c769e",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-9fd5-c090-2c44-9b24e26c769e",
+          "currency_code": "IDR",
+          "price": 273000,
+          "discounted_price": 273000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-d433-bb76-26ad-69d26506b384",
+              "price": 749000,
+              "discounted_price": 749000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-d433-bb76-26ad-69d26506b384",
+              "price": 48,
+              "discounted_price": 48,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-d433-bb76-26ad-69d26506b384",
+          "currency_code": "IDR",
+          "price": 749000,
+          "discounted_price": 749000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-e5b7-16cc-73fb-d9445f8ffdf3",
+              "price": 1241000,
+              "discounted_price": 1241000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-e5b7-16cc-73fb-d9445f8ffdf3",
+              "price": 79.5,
+              "discounted_price": 79.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-e5b7-16cc-73fb-d9445f8ffdf3",
+          "currency_code": "IDR",
+          "price": 1241000,
+          "discounted_price": 1241000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-e042-9a06-c718-b393300dd423",
+              "price": 1311000,
+              "discounted_price": 1311000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-e042-9a06-c718-b393300dd423",
+              "price": 84,
+              "discounted_price": 84,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-e042-9a06-c718-b393300dd423",
+          "currency_code": "IDR",
+          "price": 1311000,
+          "discounted_price": 1311000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-fc6f-0f12-175c-db6ccf9c0c8c",
+              "price": 1740000,
+              "discounted_price": 1740000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-fc6f-0f12-175c-db6ccf9c0c8c",
+              "price": 111.5,
+              "discounted_price": 111.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-fc6f-0f12-175c-db6ccf9c0c8c",
+          "currency_code": "IDR",
+          "price": 1740000,
+          "discounted_price": 1740000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-1088-cbac-94a6-5cc4d0a67e3d",
+              "price": 2301000,
+              "discounted_price": 2301000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-1088-cbac-94a6-5cc4d0a67e3d",
+              "price": 147.5,
+              "discounted_price": 147.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea37-1088-cbac-94a6-5cc4d0a67e3d",
+          "currency_code": "IDR",
+          "price": 2301000,
+          "discounted_price": 2301000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-bf93-e275-c77e-c86910fa0034",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-bf93-e275-c77e-c86910fa0034",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-bf93-e275-c77e-c86910fa0034",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-d892-7044-becd-d6f3c1f92ba4",
+              "price": 1170000,
+              "discounted_price": 1170000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-d892-7044-becd-d6f3c1f92ba4",
+              "price": 75,
+              "discounted_price": 75,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-d892-7044-becd-d6f3c1f92ba4",
+          "currency_code": "IDR",
+          "price": 1170000,
+          "discounted_price": 1170000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-99fc-1689-c7da-20274d8fa2ad",
+              "price": 461000,
+              "discounted_price": 461000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-99fc-1689-c7da-20274d8fa2ad",
+              "price": 29.5,
+              "discounted_price": 29.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-99fc-1689-c7da-20274d8fa2ad",
+          "currency_code": "IDR",
+          "price": 461000,
+          "discounted_price": 461000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-cd39-32a5-4e71-754324a59e0c",
+              "price": 320000,
+              "discounted_price": 320000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-cd39-32a5-4e71-754324a59e0c",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-cd39-32a5-4e71-754324a59e0c",
+          "currency_code": "IDR",
+          "price": 320000,
+          "discounted_price": 320000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-c94c-0bb9-6cc7-f7a7d14a5636",
+              "price": 1451000,
+              "discounted_price": 1451000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-c94c-0bb9-6cc7-f7a7d14a5636",
+              "price": 93,
+              "discounted_price": 93,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-c94c-0bb9-6cc7-f7a7d14a5636",
+          "currency_code": "IDR",
+          "price": 1451000,
+          "discounted_price": 1451000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-95bd-5520-2762-25d73e56d8b9",
+              "price": 281000,
+              "discounted_price": 281000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-95bd-5520-2762-25d73e56d8b9",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-95bd-5520-2762-25d73e56d8b9",
+          "currency_code": "IDR",
+          "price": 281000,
+          "discounted_price": 281000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-e30c-decc-2c29-3433afd45e43",
+              "price": 749000,
+              "discounted_price": 749000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-e30c-decc-2c29-3433afd45e43",
+              "price": 48,
+              "discounted_price": 48,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-e30c-decc-2c29-3433afd45e43",
+          "currency_code": "IDR",
+          "price": 749000,
+          "discounted_price": 749000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-aa09-7d2c-c57e-bcace9832e07",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-aa09-7d2c-c57e-bcace9832e07",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-aa09-7d2c-c57e-bcace9832e07",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-b248-5f14-fa7e-189c65e6e163",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-b248-5f14-fa7e-189c65e6e163",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-b248-5f14-fa7e-189c65e6e163",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-a18c-dfa7-1e7c-1fb782843a43",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-a18c-dfa7-1e7c-1fb782843a43",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-a18c-dfa7-1e7c-1fb782843a43",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-b877-1661-dbb8-26e6e9d9381c",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-b877-1661-dbb8-26e6e9d9381c",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-b877-1661-dbb8-26e6e9d9381c",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-c435-814d-8b97-953e2a5c0a16",
+              "price": 843000,
+              "discounted_price": 843000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-c435-814d-8b97-953e2a5c0a16",
+              "price": 54,
+              "discounted_price": 54,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-c435-814d-8b97-953e2a5c0a16",
+          "currency_code": "IDR",
+          "price": 843000,
+          "discounted_price": 843000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0d31-3fa3-5287-286dd01d8e51",
+              "price": 936000,
+              "discounted_price": 936000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0d31-3fa3-5287-286dd01d8e51",
+              "price": 60,
+              "discounted_price": 60,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea37-0d31-3fa3-5287-286dd01d8e51",
+          "currency_code": "IDR",
+          "price": 936000,
+          "discounted_price": 936000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-bcd3-ad0f-d38b-744a4cfc9f19",
+              "price": 796000,
+              "discounted_price": 796000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-bcd3-ad0f-d38b-744a4cfc9f19",
+              "price": 51,
+              "discounted_price": 51,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-bcd3-ad0f-d38b-744a4cfc9f19",
+          "currency_code": "IDR",
+          "price": 796000,
+          "discounted_price": 796000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0edc-b8dc-6b14-f90e05f917e4",
+              "price": 1638000,
+              "discounted_price": 1638000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0edc-b8dc-6b14-f90e05f917e4",
+              "price": 105,
+              "discounted_price": 105,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea37-0edc-b8dc-6b14-f90e05f917e4",
+          "currency_code": "IDR",
+          "price": 1638000,
+          "discounted_price": 1638000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0449-9301-1ba0-5692d22b52d8",
+              "price": 2442000,
+              "discounted_price": 2442000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea37-0449-9301-1ba0-5692d22b52d8",
+              "price": 156.5,
+              "discounted_price": 156.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea37-0449-9301-1ba0-5692d22b52d8",
+          "currency_code": "IDR",
+          "price": 2442000,
+          "discounted_price": 2442000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-b421-4d59-e404-b2ff510aec44",
+              "price": 344000,
+              "discounted_price": 344000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-b421-4d59-e404-b2ff510aec44",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-b421-4d59-e404-b2ff510aec44",
+          "currency_code": "IDR",
+          "price": 344000,
+          "discounted_price": 344000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-ae5a-c14b-d039-94718ee9a6cd",
+              "price": 1030000,
+              "discounted_price": 1030000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-ae5a-c14b-d039-94718ee9a6cd",
+              "price": 66,
+              "discounted_price": 66,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-ae5a-c14b-d039-94718ee9a6cd",
+          "currency_code": "IDR",
+          "price": 1030000,
+          "discounted_price": 1030000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-cf22-7f09-69ea-4c89bb8b7224",
+              "price": 414000,
+              "discounted_price": 414000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-cf22-7f09-69ea-4c89bb8b7224",
+              "price": 26.5,
+              "discounted_price": 26.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-cf22-7f09-69ea-4c89bb8b7224",
+          "currency_code": "IDR",
+          "price": 414000,
+          "discounted_price": 414000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-f456-8a36-ebdf-1cdeef300f73",
+              "price": 843000,
+              "discounted_price": 843000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-f456-8a36-ebdf-1cdeef300f73",
+              "price": 54,
+              "discounted_price": 54,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-f456-8a36-ebdf-1cdeef300f73",
+          "currency_code": "IDR",
+          "price": 843000,
+          "discounted_price": 843000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-a3b5-e8a0-edde-856d449ea2a1",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-a3b5-e8a0-edde-856d449ea2a1",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-a3b5-e8a0-edde-856d449ea2a1",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-7d08-3138-499c-9ad457df1356",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-7d08-3138-499c-9ad457df1356",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-7d08-3138-499c-9ad457df1356",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-9ba5-7779-2ed5-a92b81dfe1be",
+              "price": 211000,
+              "discounted_price": 211000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-9ba5-7779-2ed5-a92b81dfe1be",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-9ba5-7779-2ed5-a92b81dfe1be",
+          "currency_code": "IDR",
+          "price": 211000,
+          "discounted_price": 211000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-a82a-d8fc-2cc6-a39bcfd8ed1b",
+              "price": 601000,
+              "discounted_price": 601000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191ea36-a82a-d8fc-2cc6-a39bcfd8ed1b",
+              "price": 38.5,
+              "discounted_price": 38.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191ea36-a82a-d8fc-2cc6-a39bcfd8ed1b",
+          "currency_code": "IDR",
+          "price": 601000,
+          "discounted_price": 601000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-85a2-11da-c04c-0fa90197b826",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-85a2-11da-c04c-0fa90197b826",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-85a2-11da-c04c-0fa90197b826",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-8a04-c895-28b8-f6f844bb1d89",
+              "price": 149000,
+              "discounted_price": 149000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-8a04-c895-28b8-f6f844bb1d89",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-8a04-c895-28b8-f6f844bb1d89",
+          "currency_code": "IDR",
+          "price": 149000,
+          "discounted_price": 149000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Honduras 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-8bf6-b9d8-edec-2201130d0bce",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191ea36-8bf6-b9d8-edec-2201130d0bce",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191ea36-8bf6-b9d8-edec-2201130d0bce",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-822d-2d96-7d92-612cfafd6004",
+          "name": "Honduras",
+          "name_id": "Honduras",
+          "code_iso_2": "HN",
+          "code_iso_3": "HND",
+          "networks": [
+            {
+              "id": "01907c58-3071-b21d-0463-dd4bddbc3346",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-822d-2d96-7d92-612cfafd6004",
+          "name": "Honduras",
+          "name_id": "Honduras",
+          "code_iso_2": "HN",
+          "code_iso_3": "HND",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

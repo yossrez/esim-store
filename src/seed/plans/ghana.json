@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "018ff232-8bc6-e542-161a-cf4f14179cf2",
+    "name": "Ghana",
+    "name_id": "Ghana",
+    "slug": "ghana",
+    "description": "",
+    "description_id": "",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "GH",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Ghana 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7a3d-43cf-240d-69b95e0e70b2",
+              "price": 1287000,
+              "discounted_price": 1287000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7a3d-43cf-240d-69b95e0e70b2",
+              "price": 82.5,
+              "discounted_price": 82.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-7a3d-43cf-240d-69b95e0e70b2",
+          "currency_code": "IDR",
+          "price": 1287000,
+          "discounted_price": 1287000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-802b-7f1b-b19f-2e581a2d2605",
+              "price": 1217000,
+              "discounted_price": 1217000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-802b-7f1b-b19f-2e581a2d2605",
+              "price": 78,
+              "discounted_price": 78,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-802b-7f1b-b19f-2e581a2d2605",
+          "currency_code": "IDR",
+          "price": 1217000,
+          "discounted_price": 1217000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-81d7-c7f1-13dd-cec65f860d3b",
+              "price": 2122000,
+              "discounted_price": 2122000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-81d7-c7f1-13dd-cec65f860d3b",
+              "price": 136,
+              "discounted_price": 136,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-81d7-c7f1-13dd-cec65f860d3b",
+          "currency_code": "IDR",
+          "price": 2122000,
+          "discounted_price": 2122000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-8b17-88e1-d7eb-58f7ca982426",
+              "price": 1334000,
+              "discounted_price": 1334000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-8b17-88e1-d7eb-58f7ca982426",
+              "price": 85.5,
+              "discounted_price": 85.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-8b17-88e1-d7eb-58f7ca982426",
+          "currency_code": "IDR",
+          "price": 1334000,
+          "discounted_price": 1334000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-8ea0-d205-804e-e6aa425ffb38",
+              "price": 1709000,
+              "discounted_price": 1709000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-8ea0-d205-804e-e6aa425ffb38",
+              "price": 109.5,
+              "discounted_price": 109.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-8ea0-d205-804e-e6aa425ffb38",
+          "currency_code": "IDR",
+          "price": 1709000,
+          "discounted_price": 1709000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-9046-0088-9104-869df543a5be",
+              "price": 1428000,
+              "discounted_price": 1428000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-9046-0088-9104-869df543a5be",
+              "price": 91.5,
+              "discounted_price": 91.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-9046-0088-9104-869df543a5be",
+          "currency_code": "IDR",
+          "price": 1428000,
+          "discounted_price": 1428000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-93e8-00c6-e34b-7b3f370fd50a",
+              "price": 2403000,
+              "discounted_price": 2403000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-93e8-00c6-e34b-7b3f370fd50a",
+              "price": 154,
+              "discounted_price": 154,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-93e8-00c6-e34b-7b3f370fd50a",
+          "currency_code": "IDR",
+          "price": 2403000,
+          "discounted_price": 2403000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-6109-cda3-e91c-15f662d4681f",
+              "price": 500000,
+              "discounted_price": 500000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-6109-cda3-e91c-15f662d4681f",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-6109-cda3-e91c-15f662d4681f",
+          "currency_code": "IDR",
+          "price": 500000,
+          "discounted_price": 500000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-64ad-0eac-bc8b-e3ff89197163",
+              "price": 780000,
+              "discounted_price": 780000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-64ad-0eac-bc8b-e3ff89197163",
+              "price": 50,
+              "discounted_price": 50,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-64ad-0eac-bc8b-e3ff89197163",
+          "currency_code": "IDR",
+          "price": 780000,
+          "discounted_price": 780000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-6853-557a-d183-81470e34f6d5",
+              "price": 500000,
+              "discounted_price": 500000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-6853-557a-d183-81470e34f6d5",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-6853-557a-d183-81470e34f6d5",
+          "currency_code": "IDR",
+          "price": 500000,
+          "discounted_price": 500000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-69ef-62b4-5564-e30bcbcb3a66",
+              "price": 827000,
+              "discounted_price": 827000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-69ef-62b4-5564-e30bcbcb3a66",
+              "price": 53,
+              "discounted_price": 53,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-69ef-62b4-5564-e30bcbcb3a66",
+          "currency_code": "IDR",
+          "price": 827000,
+          "discounted_price": 827000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-6daf-1f72-7b84-4dbcec6ddf1e",
+              "price": 1428000,
+              "discounted_price": 1428000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-6daf-1f72-7b84-4dbcec6ddf1e",
+              "price": 91.5,
+              "discounted_price": 91.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-6daf-1f72-7b84-4dbcec6ddf1e",
+          "currency_code": "IDR",
+          "price": 1428000,
+          "discounted_price": 1428000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7194-2a94-549a-60319010a708",
+              "price": 312000,
+              "discounted_price": 312000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7194-2a94-549a-60319010a708",
+              "price": 20,
+              "discounted_price": 20,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-7194-2a94-549a-60319010a708",
+          "currency_code": "IDR",
+          "price": 312000,
+          "discounted_price": 312000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-76e3-e437-3133-77046acffee6",
+              "price": 734000,
+              "discounted_price": 734000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-76e3-e437-3133-77046acffee6",
+              "price": 47,
+              "discounted_price": 47,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-76e3-e437-3133-77046acffee6",
+          "currency_code": "IDR",
+          "price": 734000,
+          "discounted_price": 734000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7880-d842-3985-f779d753fb03",
+              "price": 1147000,
+              "discounted_price": 1147000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7880-d842-3985-f779d753fb03",
+              "price": 73.5,
+              "discounted_price": 73.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-7880-d842-3985-f779d753fb03",
+          "currency_code": "IDR",
+          "price": 1147000,
+          "discounted_price": 1147000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-979d-1b41-b79b-fc52f39bf2a2",
+              "price": 4205000,
+              "discounted_price": 4205000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-979d-1b41-b79b-fc52f39bf2a2",
+              "price": 269.5,
+              "discounted_price": 269.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-979d-1b41-b79b-fc52f39bf2a2",
+          "currency_code": "IDR",
+          "price": 4205000,
+          "discounted_price": 4205000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-992d-5b86-86b9-bca6d3e49d69",
+              "price": 921000,
+              "discounted_price": 921000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-992d-5b86-86b9-bca6d3e49d69",
+              "price": 59,
+              "discounted_price": 59,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-992d-5b86-86b9-bca6d3e49d69",
+          "currency_code": "IDR",
+          "price": 921000,
+          "discounted_price": 921000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-9ae7-6a47-2eba-655be96acfcf",
+              "price": 1615000,
+              "discounted_price": 1615000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-9ae7-6a47-2eba-655be96acfcf",
+              "price": 103.5,
+              "discounted_price": 103.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-9ae7-6a47-2eba-655be96acfcf",
+          "currency_code": "IDR",
+          "price": 1615000,
+          "discounted_price": 1615000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-43f1-0c3b-782e-ac2f3a6bd421",
+              "price": 453000,
+              "discounted_price": 453000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-43f1-0c3b-782e-ac2f3a6bd421",
+              "price": 29,
+              "discounted_price": 29,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-43f1-0c3b-782e-ac2f3a6bd421",
+          "currency_code": "IDR",
+          "price": 453000,
+          "discounted_price": 453000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-496c-609a-0fdd-a20953a366f0",
+              "price": 266000,
+              "discounted_price": 266000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-496c-609a-0fdd-a20953a366f0",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-496c-609a-0fdd-a20953a366f0",
+          "currency_code": "IDR",
+          "price": 266000,
+          "discounted_price": 266000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7be7-c196-0ba7-9ebf6005f936",
+              "price": 734000,
+              "discounted_price": 734000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-7be7-c196-0ba7-9ebf6005f936",
+              "price": 47,
+              "discounted_price": 47,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-7be7-c196-0ba7-9ebf6005f936",
+          "currency_code": "IDR",
+          "price": 734000,
+          "discounted_price": 734000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-85bd-bb1a-feea-4c40c7bdb3ce",
+              "price": 500000,
+              "discounted_price": 500000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-85bd-bb1a-feea-4c40c7bdb3ce",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-85bd-bb1a-feea-4c40c7bdb3ce",
+          "currency_code": "IDR",
+          "price": 500000,
+          "discounted_price": 500000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-4b17-865a-4aa9-9391cf72159b",
+              "price": 359000,
+              "discounted_price": 359000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-4b17-865a-4aa9-9391cf72159b",
+              "price": 23,
+              "discounted_price": 23,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-4b17-865a-4aa9-9391cf72159b",
+          "currency_code": "IDR",
+          "price": 359000,
+          "discounted_price": 359000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-566e-ff72-4a2a-06a888f99685",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-566e-ff72-4a2a-06a888f99685",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-566e-ff72-4a2a-06a888f99685",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-5bde-ee17-2b18-5b1c75c3b1c6",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-5bde-ee17-2b18-5b1c75c3b1c6",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-5bde-ee17-2b18-5b1c75c3b1c6",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3568-c32b-7d86-82f99b36d6be",
+              "price": 149000,
+              "discounted_price": 149000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3568-c32b-7d86-82f99b36d6be",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-3568-c32b-7d86-82f99b36d6be",
+          "currency_code": "IDR",
+          "price": 149000,
+          "discounted_price": 149000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-38d9-9ed6-c8b5-f633e89c966c",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-38d9-9ed6-c8b5-f633e89c966c",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-38d9-9ed6-c8b5-f633e89c966c",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3c85-e479-243f-2d41bfd2acc2",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3c85-e479-243f-2d41bfd2acc2",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-3c85-e479-243f-2d41bfd2acc2",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3e6e-9d7b-3015-ab7600462348",
+              "price": 273000,
+              "discounted_price": 273000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3e6e-9d7b-3015-ab7600462348",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-3e6e-9d7b-3015-ab7600462348",
+          "currency_code": "IDR",
+          "price": 273000,
+          "discounted_price": 273000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-423d-3894-260e-22df8c7bc3ad",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-423d-3894-260e-22df8c7bc3ad",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-423d-3894-260e-22df8c7bc3ad",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-2e41-96dd-bb1b-a6e8f0e2dbfa",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-2e41-96dd-bb1b-a6e8f0e2dbfa",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-2e41-96dd-bb1b-a6e8f0e2dbfa",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-4ef5-61c5-75cf-e11b2568d4af",
+              "price": 359000,
+              "discounted_price": 359000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-4ef5-61c5-75cf-e11b2568d4af",
+              "price": 23,
+              "discounted_price": 23,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-4ef5-61c5-75cf-e11b2568d4af",
+          "currency_code": "IDR",
+          "price": 359000,
+          "discounted_price": 359000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-529a-1281-1630-83084ba67966",
+              "price": 585000,
+              "discounted_price": 585000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-529a-1281-1630-83084ba67966",
+              "price": 37.5,
+              "discounted_price": 37.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-529a-1281-1630-83084ba67966",
+          "currency_code": "IDR",
+          "price": 585000,
+          "discounted_price": 585000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-5a1f-b327-e460-c701d6150586",
+              "price": 1014000,
+              "discounted_price": 1014000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-5a1f-b327-e460-c701d6150586",
+              "price": 65,
+              "discounted_price": 65,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-5a1f-b327-e460-c701d6150586",
+          "currency_code": "IDR",
+          "price": 1014000,
+          "discounted_price": 1014000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-5d9f-0ce4-34a8-09a8390d0c3c",
+              "price": 336000,
+              "discounted_price": 336000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-5d9f-0ce4-34a8-09a8390d0c3c",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-5d9f-0ce4-34a8-09a8390d0c3c",
+          "currency_code": "IDR",
+          "price": 336000,
+          "discounted_price": 336000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-7544-ee80-0573-f61670c071d9",
+              "price": 406000,
+              "discounted_price": 406000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-7544-ee80-0573-f61670c071d9",
+              "price": 26,
+              "discounted_price": 26,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-7544-ee80-0573-f61670c071d9",
+          "currency_code": "IDR",
+          "price": 406000,
+          "discounted_price": 406000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-45a5-c181-1b84-ef69b9575ade",
+              "price": 203000,
+              "discounted_price": 203000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-45a5-c181-1b84-ef69b9575ade",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-45a5-c181-1b84-ef69b9575ade",
+          "currency_code": "IDR",
+          "price": 203000,
+          "discounted_price": 203000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-8948-859e-f356-1e4e754953c0",
+              "price": 827000,
+              "discounted_price": 827000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01939ced-8948-859e-f356-1e4e754953c0",
+              "price": 53,
+              "discounted_price": 53,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01939ced-8948-859e-f356-1e4e754953c0",
+          "currency_code": "IDR",
+          "price": 827000,
+          "discounted_price": 827000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-2a7e-0462-0121-ced32a80436f",
+              "price": 86000,
+              "discounted_price": 86000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-2a7e-0462-0121-ced32a80436f",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-2a7e-0462-0121-ced32a80436f",
+          "currency_code": "IDR",
+          "price": 86000,
+          "discounted_price": 86000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3011-2e00-668c-f03821a53bad",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-3011-2e00-668c-f03821a53bad",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-3011-2e00-668c-f03821a53bad",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-31aa-cf9d-378a-ed3595ab1f0e",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-31aa-cf9d-378a-ed3595ab1f0e",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-31aa-cf9d-378a-ed3595ab1f0e",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Ghana 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-9c94-aa0b-543f-190a486ebb50",
+              "price": 2262000,
+              "discounted_price": 2262000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01939ced-9c94-aa0b-543f-190a486ebb50",
+              "price": 145,
+              "discounted_price": 145,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01939ced-9c94-aa0b-543f-190a486ebb50",
+          "currency_code": "IDR",
+          "price": 2262000,
+          "discounted_price": 2262000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-81de-75ed-9da0-63f04b27aa39",
+          "name": "Ghana",
+          "name_id": "Ghana",
+          "code_iso_2": "GH",
+          "code_iso_3": "GHA",
+          "networks": [
+            {
+              "id": "01907c58-d08c-13fe-0de7-624142eaca9b",
+              "name": "Telecel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-81de-75ed-9da0-63f04b27aa39",
+          "name": "Ghana",
+          "name_id": "Ghana",
+          "code_iso_2": "GH",
+          "code_iso_3": "GHA",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

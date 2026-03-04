@@ -1,0 +1,1720 @@
+{
+  "data": {
+    "id": "01982ca2-4a81-e281-97ff-138d3145a9cf",
+    "name": "Malaysia",
+    "name_id": "Malaysia",
+    "slug": "malaysia",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": "FFFBA5",
+    "area_code": "MY",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Malaysia 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d1-3923-c39a-9cae71bc4d5a",
+              "price": 54000,
+              "discounted_price": 54000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d1-3923-c39a-9cae71bc4d5a",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0d1-3923-c39a-9cae71bc4d5a",
+          "currency_code": "IDR",
+          "price": 54000,
+          "discounted_price": 54000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0bb-d416-5f2f-65292f8a3a2e",
+              "price": 103000,
+              "discounted_price": 103000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0bb-d416-5f2f-65292f8a3a2e",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0bb-d416-5f2f-65292f8a3a2e",
+          "currency_code": "IDR",
+          "price": 103000,
+          "discounted_price": 103000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0bc-8c45-1da2-03bfa52ae0a7",
+              "price": 116000,
+              "discounted_price": 116000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0bc-8c45-1da2-03bfa52ae0a7",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0bc-8c45-1da2-03bfa52ae0a7",
+          "currency_code": "IDR",
+          "price": 116000,
+          "discounted_price": 116000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0bd-f9f9-c55c-125213398a65",
+              "price": 126000,
+              "discounted_price": 126000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0bd-f9f9-c55c-125213398a65",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0bd-f9f9-c55c-125213398a65",
+          "currency_code": "IDR",
+          "price": 126000,
+          "discounted_price": 126000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d0-ddb2-2705-3c8c8b897d06",
+              "price": 25000,
+              "discounted_price": 25000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d0-ddb2-2705-3c8c8b897d06",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0d0-ddb2-2705-3c8c8b897d06",
+          "currency_code": "IDR",
+          "price": 25000,
+          "discounted_price": 25000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d3-ca1f-5a96-122cf7138b6c",
+              "price": 131000,
+              "discounted_price": 131000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d3-ca1f-5a96-122cf7138b6c",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0d3-ca1f-5a96-122cf7138b6c",
+          "currency_code": "IDR",
+          "price": 131000,
+          "discounted_price": 131000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d4-fe53-734f-a394ceac208c",
+              "price": 187000,
+              "discounted_price": 187000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d4-fe53-734f-a394ceac208c",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0d4-fe53-734f-a394ceac208c",
+          "currency_code": "IDR",
+          "price": 187000,
+          "discounted_price": 187000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d6-d240-ecee-b4e7d78a7815",
+              "price": 376000,
+              "discounted_price": 376000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d6-d240-ecee-b4e7d78a7815",
+              "price": 25.5,
+              "discounted_price": 25.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0d6-d240-ecee-b4e7d78a7815",
+          "currency_code": "IDR",
+          "price": 376000,
+          "discounted_price": 376000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d7-4d59-8e1d-47d2382f727b",
+              "price": 30000,
+              "discounted_price": 30000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d7-4d59-8e1d-47d2382f727b",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0d7-4d59-8e1d-47d2382f727b",
+          "currency_code": "IDR",
+          "price": 30000,
+          "discounted_price": 30000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d8-71e2-3a56-432d7897c0ba",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0d8-71e2-3a56-432d7897c0ba",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0d8-71e2-3a56-432d7897c0ba",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0da-ccc1-d594-75b2ce05cfb5",
+              "price": 222000,
+              "discounted_price": 222000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0da-ccc1-d594-75b2ce05cfb5",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0da-ccc1-d594-75b2ce05cfb5",
+          "currency_code": "IDR",
+          "price": 222000,
+          "discounted_price": 222000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0af-6cac-b441-241c54a7e44a",
+              "price": 28000,
+              "discounted_price": 28000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0af-6cac-b441-241c54a7e44a",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0af-6cac-b441-241c54a7e44a",
+          "currency_code": "IDR",
+          "price": 28000,
+          "discounted_price": 28000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b0-edbb-0c73-aded448b5bbd",
+              "price": 32000,
+              "discounted_price": 32000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b0-edbb-0c73-aded448b5bbd",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0b0-edbb-0c73-aded448b5bbd",
+          "currency_code": "IDR",
+          "price": 32000,
+          "discounted_price": 32000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b4-dc8d-5155-33365812007f",
+              "price": 65000,
+              "discounted_price": 65000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b4-dc8d-5155-33365812007f",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0b4-dc8d-5155-33365812007f",
+          "currency_code": "IDR",
+          "price": 65000,
+          "discounted_price": 65000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b5-629f-9555-4af86c876648",
+              "price": 57000,
+              "discounted_price": 57000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b5-629f-9555-4af86c876648",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0b5-629f-9555-4af86c876648",
+          "currency_code": "IDR",
+          "price": 57000,
+          "discounted_price": 57000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b6-e44e-f031-4a1e897dd072",
+              "price": 65000,
+              "discounted_price": 65000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b6-e44e-f031-4a1e897dd072",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0b6-e44e-f031-4a1e897dd072",
+          "currency_code": "IDR",
+          "price": 65000,
+          "discounted_price": 65000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0ba-c355-f7c4-3925f01fbeef",
+              "price": 107000,
+              "discounted_price": 107000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0ba-c355-f7c4-3925f01fbeef",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0ba-c355-f7c4-3925f01fbeef",
+          "currency_code": "IDR",
+          "price": 107000,
+          "discounted_price": 107000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c0-e377-4699-9d5681c4f456",
+              "price": 175000,
+              "discounted_price": 175000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c0-e377-4699-9d5681c4f456",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c0-e377-4699-9d5681c4f456",
+          "currency_code": "IDR",
+          "price": 175000,
+          "discounted_price": 175000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c1-f7cb-1626-da6f4de58af2",
+              "price": 173000,
+              "discounted_price": 173000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c1-f7cb-1626-da6f4de58af2",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c1-f7cb-1626-da6f4de58af2",
+          "currency_code": "IDR",
+          "price": 173000,
+          "discounted_price": 173000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c2-badf-c7b8-a044db45b714",
+              "price": 216000,
+              "discounted_price": 216000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c2-badf-c7b8-a044db45b714",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c2-badf-c7b8-a044db45b714",
+          "currency_code": "IDR",
+          "price": 216000,
+          "discounted_price": 216000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c4-64f8-b0a8-9e6d0af7565b",
+              "price": 253000,
+              "discounted_price": 253000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c4-64f8-b0a8-9e6d0af7565b",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c4-64f8-b0a8-9e6d0af7565b",
+          "currency_code": "IDR",
+          "price": 253000,
+          "discounted_price": 253000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c5-4e1f-9fc1-c52719b4d402",
+              "price": 284000,
+              "discounted_price": 284000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c5-4e1f-9fc1-c52719b4d402",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c5-4e1f-9fc1-c52719b4d402",
+          "currency_code": "IDR",
+          "price": 284000,
+          "discounted_price": 284000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c6-1d86-466b-df45a8a16237",
+              "price": 295000,
+              "discounted_price": 295000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c6-1d86-466b-df45a8a16237",
+              "price": 20,
+              "discounted_price": 20,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c6-1d86-466b-df45a8a16237",
+          "currency_code": "IDR",
+          "price": 295000,
+          "discounted_price": 295000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0d9-1978-34c5-c4e1a006ba08",
+              "price": 157000,
+              "discounted_price": 157000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0d9-1978-34c5-c4e1a006ba08",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0d9-1978-34c5-c4e1a006ba08",
+          "currency_code": "IDR",
+          "price": 157000,
+          "discounted_price": 157000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0d2-e15f-26ab-2deb2f6492dc",
+              "price": 92000,
+              "discounted_price": 92000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0d2-e15f-26ab-2deb2f6492dc",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0d2-e15f-26ab-2deb2f6492dc",
+          "currency_code": "IDR",
+          "price": 92000,
+          "discounted_price": 92000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b1-62ad-5f6d-e769d2666ee3",
+              "price": 46000,
+              "discounted_price": 46000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b1-62ad-5f6d-e769d2666ee3",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0b1-62ad-5f6d-e769d2666ee3",
+          "currency_code": "IDR",
+          "price": 46000,
+          "discounted_price": 46000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b3-46f5-962d-c5ed13d702db",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0b3-46f5-962d-c5ed13d702db",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0b3-46f5-962d-c5ed13d702db",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c7-07fb-6e2e-aa4404a9e8a1",
+              "price": 312000,
+              "discounted_price": 312000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c7-07fb-6e2e-aa4404a9e8a1",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c7-07fb-6e2e-aa4404a9e8a1",
+          "currency_code": "IDR",
+          "price": 312000,
+          "discounted_price": 312000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c8-f1ac-706d-41e4e07bcb5a",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0c8-f1ac-706d-41e4e07bcb5a",
+              "price": 25,
+              "discounted_price": 25,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0c8-f1ac-706d-41e4e07bcb5a",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0ca-523d-dea6-1a00ad803afa",
+              "price": 20000,
+              "discounted_price": 20000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0ca-523d-dea6-1a00ad803afa",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0ca-523d-dea6-1a00ad803afa",
+          "currency_code": "IDR",
+          "price": 20000,
+          "discounted_price": 20000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0cb-dab0-558c-58bf4964ddcc",
+              "price": 30000,
+              "discounted_price": 30000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0cb-dab0-558c-58bf4964ddcc",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0cb-dab0-558c-58bf4964ddcc",
+          "currency_code": "IDR",
+          "price": 30000,
+          "discounted_price": 30000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0cd-b786-82dc-956b609e1dea",
+              "price": 98000,
+              "discounted_price": 98000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0cd-b786-82dc-956b609e1dea",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0cd-b786-82dc-956b609e1dea",
+          "currency_code": "IDR",
+          "price": 98000,
+          "discounted_price": 98000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0ce-52d7-c1fb-3774bab532cd",
+              "price": 122000,
+              "discounted_price": 122000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0ce-52d7-c1fb-3774bab532cd",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0ce-52d7-c1fb-3774bab532cd",
+          "currency_code": "IDR",
+          "price": 122000,
+          "discounted_price": 122000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0cf-d73f-164c-15ef48a3d776",
+              "price": 237000,
+              "discounted_price": 237000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0cf-d73f-164c-15ef48a3d776",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0cf-d73f-164c-15ef48a3d776",
+          "currency_code": "IDR",
+          "price": 237000,
+          "discounted_price": 237000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0db-5936-d48f-0c99e74e0842",
+              "price": 330000,
+              "discounted_price": 330000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0db-5936-d48f-0c99e74e0842",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0db-5936-d48f-0c99e74e0842",
+          "currency_code": "IDR",
+          "price": 330000,
+          "discounted_price": 330000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0dc-43fa-8379-05fae22a816f",
+              "price": 546000,
+              "discounted_price": 546000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f0dc-43fa-8379-05fae22a816f",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f0dc-43fa-8379-05fae22a816f",
+          "currency_code": "IDR",
+          "price": 546000,
+          "discounted_price": 546000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0b2-422b-c67e-e774600d68bb",
+              "price": 50000,
+              "discounted_price": 50000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0b2-422b-c67e-e774600d68bb",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0b2-422b-c67e-e774600d68bb",
+          "currency_code": "IDR",
+          "price": 50000,
+          "discounted_price": 50000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0b7-2b20-592a-600954804b34",
+              "price": 75000,
+              "discounted_price": 75000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0b7-2b20-592a-600954804b34",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0b7-2b20-592a-600954804b34",
+          "currency_code": "IDR",
+          "price": 75000,
+          "discounted_price": 75000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0cc-220e-b756-217b21171434",
+              "price": 62000,
+              "discounted_price": 62000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0cc-220e-b756-217b21171434",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0cc-220e-b756-217b21171434",
+          "currency_code": "IDR",
+          "price": 62000,
+          "discounted_price": 62000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0ae-618d-eadc-39f3689b82fa",
+              "price": 23000,
+              "discounted_price": 23000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0ae-618d-eadc-39f3689b82fa",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0ae-618d-eadc-39f3689b82fa",
+          "currency_code": "IDR",
+          "price": 23000,
+          "discounted_price": 23000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0b9-ea66-1293-d927a558a2b5",
+              "price": 93000,
+              "discounted_price": 93000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0b9-ea66-1293-d927a558a2b5",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0b9-ea66-1293-d927a558a2b5",
+          "currency_code": "IDR",
+          "price": 93000,
+          "discounted_price": 93000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Malaysia 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0bf-3f31-a00a-5bf648e9b9ee",
+              "price": 145000,
+              "discounted_price": 145000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f0bf-3f31-a00a-5bf648e9b9ee",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f0bf-3f31-a00a-5bf648e9b9ee",
+          "currency_code": "IDR",
+          "price": 145000,
+          "discounted_price": 145000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8300-477d-d4da-29aef216d790",
+          "name": "Malaysia",
+          "name_id": "Malaysia",
+          "code_iso_2": "MY",
+          "code_iso_3": "MYS",
+          "networks": [
+            {
+              "id": "01982df3-3418-d7a0-9972-c6304c8a8d49",
+              "name": "Celcom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01982df3-3418-d7a0-9972-c6304c8a8d4a",
+              "name": "Digi",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8300-477d-d4da-29aef216d790",
+          "name": "Malaysia",
+          "name_id": "Malaysia",
+          "code_iso_2": "MY",
+          "code_iso_3": "MYS",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

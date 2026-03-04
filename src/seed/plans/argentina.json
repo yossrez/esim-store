@@ -1,0 +1,1720 @@
+{
+  "data": {
+    "id": "01983b55-0dd0-81b7-d09b-ca08986bb5ef",
+    "name": "Argentina",
+    "name_id": "Argentina",
+    "slug": "argentina",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "AR",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Argentina 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7c-0116-8dab-bcd0e15a0e80",
+              "price": 127000,
+              "discounted_price": 127000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7c-0116-8dab-bcd0e15a0e80",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb7c-0116-8dab-bcd0e15a0e80",
+          "currency_code": "IDR",
+          "price": 127000,
+          "discounted_price": 127000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7f-a02c-2a37-e22bcf67da38",
+              "price": 397000,
+              "discounted_price": 397000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7f-a02c-2a37-e22bcf67da38",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb7f-a02c-2a37-e22bcf67da38",
+          "currency_code": "IDR",
+          "price": 397000,
+          "discounted_price": 397000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb80-a070-14b5-798af78df03a",
+              "price": 584000,
+              "discounted_price": 584000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb80-a070-14b5-798af78df03a",
+              "price": 39.5,
+              "discounted_price": 39.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb80-a070-14b5-798af78df03a",
+          "currency_code": "IDR",
+          "price": 584000,
+          "discounted_price": 584000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb81-f5af-7e52-0a29c116f123",
+              "price": 1104000,
+              "discounted_price": 1104000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb81-f5af-7e52-0a29c116f123",
+              "price": 74,
+              "discounted_price": 74,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb81-f5af-7e52-0a29c116f123",
+          "currency_code": "IDR",
+          "price": 1104000,
+          "discounted_price": 1104000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb82-3532-de5e-1c6bded43272",
+              "price": 65000,
+              "discounted_price": 65000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb82-3532-de5e-1c6bded43272",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb82-3532-de5e-1c6bded43272",
+          "currency_code": "IDR",
+          "price": 65000,
+          "discounted_price": 65000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb83-f4ab-4dba-a882dc7ccbc1",
+              "price": 182000,
+              "discounted_price": 182000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb83-f4ab-4dba-a882dc7ccbc1",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb83-f4ab-4dba-a882dc7ccbc1",
+          "currency_code": "IDR",
+          "price": 182000,
+          "discounted_price": 182000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb85-5377-9ffe-2ae5215919e8",
+              "price": 615000,
+              "discounted_price": 615000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb85-5377-9ffe-2ae5215919e8",
+              "price": 41.5,
+              "discounted_price": 41.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb85-5377-9ffe-2ae5215919e8",
+          "currency_code": "IDR",
+          "price": 615000,
+          "discounted_price": 615000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb87-a155-85ee-ff359084616c",
+              "price": 835000,
+              "discounted_price": 835000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb87-a155-85ee-ff359084616c",
+              "price": 56,
+              "discounted_price": 56,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb87-a155-85ee-ff359084616c",
+          "currency_code": "IDR",
+          "price": 835000,
+          "discounted_price": 835000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb88-ec28-746b-19c2a617f9b9",
+              "price": 1785000,
+              "discounted_price": 1785000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb88-ec28-746b-19c2a617f9b9",
+              "price": 119.5,
+              "discounted_price": 119.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb88-ec28-746b-19c2a617f9b9",
+          "currency_code": "IDR",
+          "price": 1785000,
+          "discounted_price": 1785000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8a-5db5-086c-6f94e7043c9d",
+              "price": 98000,
+              "discounted_price": 98000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8a-5db5-086c-6f94e7043c9d",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb8a-5db5-086c-6f94e7043c9d",
+          "currency_code": "IDR",
+          "price": 98000,
+          "discounted_price": 98000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8b-f23e-2e14-3b3affc64114",
+              "price": 300000,
+              "discounted_price": 300000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8b-f23e-2e14-3b3affc64114",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb8b-f23e-2e14-3b3affc64114",
+          "currency_code": "IDR",
+          "price": 300000,
+          "discounted_price": 300000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8e-4792-2eae-73e7e703a9f9",
+              "price": 1015000,
+              "discounted_price": 1015000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8e-4792-2eae-73e7e703a9f9",
+              "price": 68,
+              "discounted_price": 68,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb8e-4792-2eae-73e7e703a9f9",
+          "currency_code": "IDR",
+          "price": 1015000,
+          "discounted_price": 1015000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8f-fa34-11fc-d311d52e0c95",
+              "price": 1544000,
+              "discounted_price": 1544000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb8f-fa34-11fc-d311d52e0c95",
+              "price": 103.5,
+              "discounted_price": 103.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb8f-fa34-11fc-d311d52e0c95",
+          "currency_code": "IDR",
+          "price": 1544000,
+          "discounted_price": 1544000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb91-5c68-39d6-23539c116a90",
+              "price": 2641000,
+              "discounted_price": 2641000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb91-5c68-39d6-23539c116a90",
+              "price": 176.5,
+              "discounted_price": 176.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb91-5c68-39d6-23539c116a90",
+          "currency_code": "IDR",
+          "price": 2641000,
+          "discounted_price": 2641000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb66-dea5-f43c-1a3b29b3b8db",
+              "price": 152000,
+              "discounted_price": 152000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb66-dea5-f43c-1a3b29b3b8db",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb66-dea5-f43c-1a3b29b3b8db",
+          "currency_code": "IDR",
+          "price": 152000,
+          "discounted_price": 152000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb69-843c-ea81-e7a359309995",
+              "price": 189000,
+              "discounted_price": 189000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb69-843c-ea81-e7a359309995",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb69-843c-ea81-e7a359309995",
+          "currency_code": "IDR",
+          "price": 189000,
+          "discounted_price": 189000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6a-02e5-68b5-326fd9aea4ba",
+              "price": 246000,
+              "discounted_price": 246000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6a-02e5-68b5-326fd9aea4ba",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb6a-02e5-68b5-326fd9aea4ba",
+          "currency_code": "IDR",
+          "price": 246000,
+          "discounted_price": 246000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6b-ca87-2edc-bcaadb37a5bd",
+              "price": 210000,
+              "discounted_price": 210000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6b-ca87-2edc-bcaadb37a5bd",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb6b-ca87-2edc-bcaadb37a5bd",
+          "currency_code": "IDR",
+          "price": 210000,
+          "discounted_price": 210000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6c-a50e-2530-7f9171ea37bf",
+              "price": 254000,
+              "discounted_price": 254000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6c-a50e-2530-7f9171ea37bf",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb6c-a50e-2530-7f9171ea37bf",
+          "currency_code": "IDR",
+          "price": 254000,
+          "discounted_price": 254000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb63-5ba1-1634-1f00069605be",
+              "price": 70000,
+              "discounted_price": 70000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb63-5ba1-1634-1f00069605be",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb63-5ba1-1634-1f00069605be",
+          "currency_code": "IDR",
+          "price": 70000,
+          "discounted_price": 70000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb64-8d46-27e4-7e7cd621d4f3",
+              "price": 83000,
+              "discounted_price": 83000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb64-8d46-27e4-7e7cd621d4f3",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb64-8d46-27e4-7e7cd621d4f3",
+          "currency_code": "IDR",
+          "price": 83000,
+          "discounted_price": 83000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6f-6dc5-bc05-67a4ec595dac",
+              "price": 409000,
+              "discounted_price": 409000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb6f-6dc5-bc05-67a4ec595dac",
+              "price": 28,
+              "discounted_price": 28,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb6f-6dc5-bc05-67a4ec595dac",
+          "currency_code": "IDR",
+          "price": 409000,
+          "discounted_price": 409000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb70-19f8-bab2-fdee502f521a",
+              "price": 399000,
+              "discounted_price": 399000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb70-19f8-bab2-fdee502f521a",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb70-19f8-bab2-fdee502f521a",
+          "currency_code": "IDR",
+          "price": 399000,
+          "discounted_price": 399000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb71-8f7d-b896-fd07604010e6",
+              "price": 482000,
+              "discounted_price": 482000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb71-8f7d-b896-fd07604010e6",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb71-8f7d-b896-fd07604010e6",
+          "currency_code": "IDR",
+          "price": 482000,
+          "discounted_price": 482000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb72-a5a4-9038-58b1f84df783",
+              "price": 600000,
+              "discounted_price": 600000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb72-a5a4-9038-58b1f84df783",
+              "price": 40.5,
+              "discounted_price": 40.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb72-a5a4-9038-58b1f84df783",
+          "currency_code": "IDR",
+          "price": 600000,
+          "discounted_price": 600000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb73-a91c-4aba-eaf76efcc369",
+              "price": 738000,
+              "discounted_price": 738000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb73-a91c-4aba-eaf76efcc369",
+              "price": 49.5,
+              "discounted_price": 49.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb73-a91c-4aba-eaf76efcc369",
+          "currency_code": "IDR",
+          "price": 738000,
+          "discounted_price": 738000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb75-b87d-9959-fc683767a3d9",
+              "price": 811000,
+              "discounted_price": 811000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb75-b87d-9959-fc683767a3d9",
+              "price": 54.5,
+              "discounted_price": 54.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb75-b87d-9959-fc683767a3d9",
+          "currency_code": "IDR",
+          "price": 811000,
+          "discounted_price": 811000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb75-b87d-9959-fc683767a3de",
+              "price": 990000,
+              "discounted_price": 990000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb75-b87d-9959-fc683767a3de",
+              "price": 66.5,
+              "discounted_price": 66.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb75-b87d-9959-fc683767a3de",
+          "currency_code": "IDR",
+          "price": 990000,
+          "discounted_price": 990000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb76-853e-d2cd-8c09c955e765",
+              "price": 1100000,
+              "discounted_price": 1100000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb76-853e-d2cd-8c09c955e765",
+              "price": 74,
+              "discounted_price": 74,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb76-853e-d2cd-8c09c955e765",
+          "currency_code": "IDR",
+          "price": 1100000,
+          "discounted_price": 1100000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb77-1e06-483f-118b68576e4c",
+              "price": 1290000,
+              "discounted_price": 1290000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb77-1e06-483f-118b68576e4c",
+              "price": 86.5,
+              "discounted_price": 86.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb77-1e06-483f-118b68576e4c",
+          "currency_code": "IDR",
+          "price": 1290000,
+          "discounted_price": 1290000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb78-55ab-98a6-cfaf608d8312",
+              "price": 1389000,
+              "discounted_price": 1389000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb78-55ab-98a6-cfaf608d8312",
+              "price": 93,
+              "discounted_price": 93,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb78-55ab-98a6-cfaf608d8312",
+          "currency_code": "IDR",
+          "price": 1389000,
+          "discounted_price": 1389000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb79-c0fc-af64-78dff3df869d",
+              "price": 1492000,
+              "discounted_price": 1492000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb79-c0fc-af64-78dff3df869d",
+              "price": 100,
+              "discounted_price": 100,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb79-c0fc-af64-78dff3df869d",
+          "currency_code": "IDR",
+          "price": 1492000,
+          "discounted_price": 1492000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7a-1cb7-d3fb-6383a6ef2680",
+              "price": 1763000,
+              "discounted_price": 1763000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7a-1cb7-d3fb-6383a6ef2680",
+              "price": 118,
+              "discounted_price": 118,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb7a-1cb7-d3fb-6383a6ef2680",
+          "currency_code": "IDR",
+          "price": 1763000,
+          "discounted_price": 1763000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7b-df8f-a09d-9d849424a7f4",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01986693-eb7b-df8f-a09d-9d849424a7f4",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01986693-eb7b-df8f-a09d-9d849424a7f4",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb62-98ed-e9a2-6e46dd97e733",
+              "price": 62000,
+              "discounted_price": 62000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb62-98ed-e9a2-6e46dd97e733",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb62-98ed-e9a2-6e46dd97e733",
+          "currency_code": "IDR",
+          "price": 62000,
+          "discounted_price": 62000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb68-9893-e9d2-165e2a22ee30",
+              "price": 166000,
+              "discounted_price": 166000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb68-9893-e9d2-165e2a22ee30",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb68-9893-e9d2-165e2a22ee30",
+          "currency_code": "IDR",
+          "price": 166000,
+          "discounted_price": 166000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb6d-bf6e-b21e-27f4aed32d4c",
+              "price": 299000,
+              "discounted_price": 299000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb6d-bf6e-b21e-27f4aed32d4c",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb6d-bf6e-b21e-27f4aed32d4c",
+          "currency_code": "IDR",
+          "price": 299000,
+          "discounted_price": 299000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb6d-bf6e-b21e-27f4aed32d51",
+              "price": 360000,
+              "discounted_price": 360000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb6d-bf6e-b21e-27f4aed32d51",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb6d-bf6e-b21e-27f4aed32d51",
+          "currency_code": "IDR",
+          "price": 360000,
+          "discounted_price": 360000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb72-a5a4-9038-58b1f84df788",
+              "price": 665000,
+              "discounted_price": 665000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb72-a5a4-9038-58b1f84df788",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb72-a5a4-9038-58b1f84df788",
+          "currency_code": "IDR",
+          "price": 665000,
+          "discounted_price": 665000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb7e-6d36-a985-d89f1ee6ef06",
+              "price": 285000,
+              "discounted_price": 285000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb7e-6d36-a985-d89f1ee6ef06",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb7e-6d36-a985-d89f1ee6ef06",
+          "currency_code": "IDR",
+          "price": 285000,
+          "discounted_price": 285000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb84-2869-50a4-75c25093acdd",
+              "price": 400000,
+              "discounted_price": 400000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb84-2869-50a4-75c25093acdd",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb84-2869-50a4-75c25093acdd",
+          "currency_code": "IDR",
+          "price": 400000,
+          "discounted_price": 400000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Argentina 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb8d-7e85-45fb-b7df2cdbcfd4",
+              "price": 683000,
+              "discounted_price": 683000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01986693-eb8d-7e85-45fb-b7df2cdbcfd4",
+              "price": 46,
+              "discounted_price": 46,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01986693-eb8d-7e85-45fb-b7df2cdbcfd4",
+          "currency_code": "IDR",
+          "price": 683000,
+          "discounted_price": 683000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8090-1100-15f0-d1a4a3c40bf6",
+          "name": "Argentina",
+          "name_id": "Argentina",
+          "code_iso_2": "AR",
+          "code_iso_3": "ARG",
+          "networks": [
+            {
+              "id": "01986699-8d9b-b15f-1fb9-f8e81880e7d4",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01986699-8d9b-b15f-1fb9-f8e81880e7d5",
+              "name": "Movistar",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8090-1100-15f0-d1a4a3c40bf6",
+          "name": "Argentina",
+          "name_id": "Argentina",
+          "code_iso_2": "AR",
+          "code_iso_3": "ARG",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

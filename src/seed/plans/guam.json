@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "0199a461-5f61-96f6-2800-722db1298dce",
+    "name": "Guam",
+    "name_id": "Guam",
+    "slug": "guam",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "GU",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Guam 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619a-9173-7d39-e7024e820e3a",
+              "price": 475000,
+              "discounted_price": 475000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619a-9173-7d39-e7024e820e3a",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-619a-9173-7d39-e7024e820e3a",
+          "currency_code": "IDR",
+          "price": 475000,
+          "discounted_price": 475000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619d-bc63-9ea5-512668b69917",
+              "price": 608000,
+              "discounted_price": 608000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619d-bc63-9ea5-512668b69917",
+              "price": 41,
+              "discounted_price": 41,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-619d-bc63-9ea5-512668b69917",
+          "currency_code": "IDR",
+          "price": 608000,
+          "discounted_price": 608000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619e-6aeb-090d-b945f5bd2ddd",
+              "price": 668000,
+              "discounted_price": 668000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619e-6aeb-090d-b945f5bd2ddd",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-619e-6aeb-090d-b945f5bd2ddd",
+          "currency_code": "IDR",
+          "price": 668000,
+          "discounted_price": 668000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619f-d308-82d2-d1963d0cdc92",
+              "price": 832000,
+              "discounted_price": 832000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-619f-d308-82d2-d1963d0cdc92",
+              "price": 56,
+              "discounted_price": 56,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-619f-d308-82d2-d1963d0cdc92",
+          "currency_code": "IDR",
+          "price": 832000,
+          "discounted_price": 832000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a0-cac0-1734-940ae852b2af",
+              "price": 961000,
+              "discounted_price": 961000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a0-cac0-1734-940ae852b2af",
+              "price": 64.5,
+              "discounted_price": 64.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a0-cac0-1734-940ae852b2af",
+          "currency_code": "IDR",
+          "price": 961000,
+          "discounted_price": 961000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a1-59c8-1998-dc19cdc665af",
+              "price": 1069000,
+              "discounted_price": 1069000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a1-59c8-1998-dc19cdc665af",
+              "price": 72,
+              "discounted_price": 72,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a1-59c8-1998-dc19cdc665af",
+          "currency_code": "IDR",
+          "price": 1069000,
+          "discounted_price": 1069000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a2-7df8-a9a2-335327c81c24",
+              "price": 1179000,
+              "discounted_price": 1179000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a2-7df8-a9a2-335327c81c24",
+              "price": 79,
+              "discounted_price": 79,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a2-7df8-a9a2-335327c81c24",
+          "currency_code": "IDR",
+          "price": 1179000,
+          "discounted_price": 1179000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6189-eb3b-4ad3-e4478eb03845",
+              "price": 58000,
+              "discounted_price": 58000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6189-eb3b-4ad3-e4478eb03845",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6189-eb3b-4ad3-e4478eb03845",
+          "currency_code": "IDR",
+          "price": 58000,
+          "discounted_price": 58000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618a-f827-bc7d-da83060d4017",
+              "price": 68000,
+              "discounted_price": 68000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618a-f827-bc7d-da83060d4017",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-618a-f827-bc7d-da83060d4017",
+          "currency_code": "IDR",
+          "price": 68000,
+          "discounted_price": 68000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618b-7cd9-7eb6-6cc9c5d53979",
+              "price": 123000,
+              "discounted_price": 123000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618b-7cd9-7eb6-6cc9c5d53979",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-618b-7cd9-7eb6-6cc9c5d53979",
+          "currency_code": "IDR",
+          "price": 123000,
+          "discounted_price": 123000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618d-e9d4-5aba-f3e34415125f",
+              "price": 155000,
+              "discounted_price": 155000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618d-e9d4-5aba-f3e34415125f",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-618d-e9d4-5aba-f3e34415125f",
+          "currency_code": "IDR",
+          "price": 155000,
+          "discounted_price": 155000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618f-ee7c-560c-a4ab8582cf66",
+              "price": 192000,
+              "discounted_price": 192000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-618f-ee7c-560c-a4ab8582cf66",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-618f-ee7c-560c-a4ab8582cf66",
+          "currency_code": "IDR",
+          "price": 192000,
+          "discounted_price": 192000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6190-b90a-fb90-2b62e9b8b9ca",
+              "price": 184000,
+              "discounted_price": 184000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6190-b90a-fb90-2b62e9b8b9ca",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6190-b90a-fb90-2b62e9b8b9ca",
+          "currency_code": "IDR",
+          "price": 184000,
+          "discounted_price": 184000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6191-6ae9-34de-3c9fd9f09f22",
+              "price": 206000,
+              "discounted_price": 206000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6191-6ae9-34de-3c9fd9f09f22",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6191-6ae9-34de-3c9fd9f09f22",
+          "currency_code": "IDR",
+          "price": 206000,
+          "discounted_price": 206000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6196-7901-cfa8-b847bda2a929",
+              "price": 337000,
+              "discounted_price": 337000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6196-7901-cfa8-b847bda2a929",
+              "price": 23,
+              "discounted_price": 23,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6196-7901-cfa8-b847bda2a929",
+          "currency_code": "IDR",
+          "price": 337000,
+          "discounted_price": 337000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6197-65f5-19ce-e5f175793f21",
+              "price": 321000,
+              "discounted_price": 321000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6197-65f5-19ce-e5f175793f21",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6197-65f5-19ce-e5f175793f21",
+          "currency_code": "IDR",
+          "price": 321000,
+          "discounted_price": 321000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6198-2032-e48d-5fe8fca17e46",
+              "price": 399000,
+              "discounted_price": 399000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6198-2032-e48d-5fe8fca17e46",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6198-2032-e48d-5fe8fca17e46",
+          "currency_code": "IDR",
+          "price": 399000,
+          "discounted_price": 399000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a3-375b-2e52-877df35d9438",
+              "price": 1233000,
+              "discounted_price": 1233000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a3-375b-2e52-877df35d9438",
+              "price": 82.5,
+              "discounted_price": 82.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a3-375b-2e52-877df35d9438",
+          "currency_code": "IDR",
+          "price": 1233000,
+          "discounted_price": 1233000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a4-7b65-8fa5-5992efe606cd",
+              "price": 1421000,
+              "discounted_price": 1421000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a4-7b65-8fa5-5992efe606cd",
+              "price": 95,
+              "discounted_price": 95,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a4-7b65-8fa5-5992efe606cd",
+          "currency_code": "IDR",
+          "price": 1421000,
+          "discounted_price": 1421000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a5-b177-bcde-369fe5e48ec6",
+              "price": 39000,
+              "discounted_price": 39000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a5-b177-bcde-369fe5e48ec6",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a5-b177-bcde-369fe5e48ec6",
+          "currency_code": "IDR",
+          "price": 39000,
+          "discounted_price": 39000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61aa-113a-86ef-e27fea779268",
+              "price": 468000,
+              "discounted_price": 468000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61aa-113a-86ef-e27fea779268",
+              "price": 31.5,
+              "discounted_price": 31.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61aa-113a-86ef-e27fea779268",
+          "currency_code": "IDR",
+          "price": 468000,
+          "discounted_price": 468000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61ab-3c55-98d6-c0a050b4f9bd",
+              "price": 912000,
+              "discounted_price": 912000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61ab-3c55-98d6-c0a050b4f9bd",
+              "price": 61.5,
+              "discounted_price": 61.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61ab-3c55-98d6-c0a050b4f9bd",
+          "currency_code": "IDR",
+          "price": 912000,
+          "discounted_price": 912000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61ac-3059-581a-c7c848cb8d74",
+              "price": 54000,
+              "discounted_price": 54000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61ac-3059-581a-c7c848cb8d74",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61ac-3059-581a-c7c848cb8d74",
+          "currency_code": "IDR",
+          "price": 54000,
+          "discounted_price": 54000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61ad-0e0f-ed15-42b82e27c4fc",
+              "price": 155000,
+              "discounted_price": 155000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61ad-0e0f-ed15-42b82e27c4fc",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61ad-0e0f-ed15-42b82e27c4fc",
+          "currency_code": "IDR",
+          "price": 155000,
+          "discounted_price": 155000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b0-c487-90f4-cc400c924031",
+              "price": 487000,
+              "discounted_price": 487000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b0-c487-90f4-cc400c924031",
+              "price": 33,
+              "discounted_price": 33,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b0-c487-90f4-cc400c924031",
+          "currency_code": "IDR",
+          "price": 487000,
+          "discounted_price": 487000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b1-669a-ff02-444ca17e8459",
+              "price": 728000,
+              "discounted_price": 728000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b1-669a-ff02-444ca17e8459",
+              "price": 49,
+              "discounted_price": 49,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b1-669a-ff02-444ca17e8459",
+          "currency_code": "IDR",
+          "price": 728000,
+          "discounted_price": 728000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b2-4d39-4cdb-4d53a1efb6dd",
+              "price": 1450000,
+              "discounted_price": 1450000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b2-4d39-4cdb-4d53a1efb6dd",
+              "price": 97,
+              "discounted_price": 97,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b2-4d39-4cdb-4d53a1efb6dd",
+          "currency_code": "IDR",
+          "price": 1450000,
+          "discounted_price": 1450000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b3-aac2-50c6-e271c5d933a6",
+              "price": 90000,
+              "discounted_price": 90000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b3-aac2-50c6-e271c5d933a6",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b3-aac2-50c6-e271c5d933a6",
+          "currency_code": "IDR",
+          "price": 90000,
+          "discounted_price": 90000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b4-c5ce-4fb9-b252b366a5bc",
+              "price": 259000,
+              "discounted_price": 259000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b4-c5ce-4fb9-b252b366a5bc",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b4-c5ce-4fb9-b252b366a5bc",
+          "currency_code": "IDR",
+          "price": 259000,
+          "discounted_price": 259000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b6-5e33-d00b-b7e88afcb4aa",
+              "price": 848000,
+              "discounted_price": 848000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b6-5e33-d00b-b7e88afcb4aa",
+              "price": 57,
+              "discounted_price": 57,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b6-5e33-d00b-b7e88afcb4aa",
+          "currency_code": "IDR",
+          "price": 848000,
+          "discounted_price": 848000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b7-5b67-859e-ca4fb971ab86",
+              "price": 1269000,
+              "discounted_price": 1269000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b7-5b67-859e-ca4fb971ab86",
+              "price": 85,
+              "discounted_price": 85,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b7-5b67-859e-ca4fb971ab86",
+          "currency_code": "IDR",
+          "price": 1269000,
+          "discounted_price": 1269000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b8-af28-ca7a-2093f55e0a36",
+              "price": 2171000,
+              "discounted_price": 2171000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61b8-af28-ca7a-2093f55e0a36",
+              "price": 145,
+              "discounted_price": 145,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61b8-af28-ca7a-2093f55e0a36",
+          "currency_code": "IDR",
+          "price": 2171000,
+          "discounted_price": 2171000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-61af-ad1c-2405-046fd0247c41",
+              "price": 343000,
+              "discounted_price": 343000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-61af-ad1c-2405-046fd0247c41",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-61af-ad1c-2405-046fd0247c41",
+          "currency_code": "IDR",
+          "price": 343000,
+          "discounted_price": 343000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-61b5-dcbc-44e9-861114dfe91d",
+              "price": 596000,
+              "discounted_price": 596000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-61b5-dcbc-44e9-861114dfe91d",
+              "price": 40,
+              "discounted_price": 40,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-61b5-dcbc-44e9-861114dfe91d",
+          "currency_code": "IDR",
+          "price": 596000,
+          "discounted_price": 596000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6187-655c-3258-28df5379776d",
+              "price": 52000,
+              "discounted_price": 52000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6187-655c-3258-28df5379776d",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6187-655c-3258-28df5379776d",
+          "currency_code": "IDR",
+          "price": 52000,
+          "discounted_price": 52000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-618c-5487-adde-d831a4e09146",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-618c-5487-adde-d831a4e09146",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-618c-5487-adde-d831a4e09146",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6193-60fe-be9a-b0175aa31c9a",
+              "price": 242000,
+              "discounted_price": 242000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6193-60fe-be9a-b0175aa31c9a",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6193-60fe-be9a-b0175aa31c9a",
+          "currency_code": "IDR",
+          "price": 242000,
+          "discounted_price": 242000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6194-878c-5a52-3fe5cd9b37bd",
+              "price": 302000,
+              "discounted_price": 302000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6194-878c-5a52-3fe5cd9b37bd",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6194-878c-5a52-3fe5cd9b37bd",
+          "currency_code": "IDR",
+          "price": 302000,
+          "discounted_price": 302000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-619c-c0c4-0aad-07d5d655c88e",
+              "price": 547000,
+              "discounted_price": 547000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-619c-c0c4-0aad-07d5d655c88e",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-619c-c0c4-0aad-07d5d655c88e",
+          "currency_code": "IDR",
+          "price": 547000,
+          "discounted_price": 547000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a6-de8c-71ef-16c293de170d",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a6-de8c-71ef-16c293de170d",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a6-de8c-71ef-16c293de170d",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a9-f3b0-ce88-9023475d48dc",
+              "price": 323000,
+              "discounted_price": 323000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-61a9-f3b0-ce88-9023475d48dc",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-61a9-f3b0-ce88-9023475d48dc",
+          "currency_code": "IDR",
+          "price": 323000,
+          "discounted_price": 323000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Guam 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-61a7-68da-5bd9-5b1134a20952",
+              "price": 225000,
+              "discounted_price": 225000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-61a7-68da-5bd9-5b1134a20952",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-61a7-68da-5bd9-5b1134a20952",
+          "currency_code": "IDR",
+          "price": 225000,
+          "discounted_price": 225000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-81fd-6e28-f748-91b1f6c3e55c",
+          "name": "Guam",
+          "name_id": "Guam",
+          "code_iso_2": "GU",
+          "code_iso_3": "GUM",
+          "networks": [
+            {
+              "id": "01982df3-3417-5eb5-248a-ff933040ba74",
+              "name": "Docomo Pacific",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-81fd-6e28-f748-91b1f6c3e55c",
+          "name": "Guam",
+          "name_id": "Guam",
+          "code_iso_2": "GU",
+          "code_iso_3": "GUM",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

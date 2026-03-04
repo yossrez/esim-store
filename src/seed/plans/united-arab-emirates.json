@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "01982ca2-4a17-e608-de5a-099388d29b1b",
+    "name": "United Arab Emirates",
+    "name_id": "Uni Emirat Arab",
+    "slug": "united-arab-emirates",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "AE",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "United Arab Emirates 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f253-0a8f-9fa4-a4dc37e715de",
+              "price": 209000,
+              "discounted_price": 209000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f253-0a8f-9fa4-a4dc37e715de",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f253-0a8f-9fa4-a4dc37e715de",
+          "currency_code": "IDR",
+          "price": 209000,
+          "discounted_price": 209000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f256-9ec1-9bae-dcfc9344cf62",
+              "price": 339000,
+              "discounted_price": 339000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f256-9ec1-9bae-dcfc9344cf62",
+              "price": 23,
+              "discounted_price": 23,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f256-9ec1-9bae-dcfc9344cf62",
+          "currency_code": "IDR",
+          "price": 339000,
+          "discounted_price": 339000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f257-def6-1dbe-8f9cf4d9bf58",
+              "price": 329000,
+              "discounted_price": 329000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f257-def6-1dbe-8f9cf4d9bf58",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f257-def6-1dbe-8f9cf4d9bf58",
+          "currency_code": "IDR",
+          "price": 329000,
+          "discounted_price": 329000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f258-2d6a-6338-85042d0bf884",
+              "price": 402000,
+              "discounted_price": 402000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f258-2d6a-6338-85042d0bf884",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f258-2d6a-6338-85042d0bf884",
+          "currency_code": "IDR",
+          "price": 402000,
+          "discounted_price": 402000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f259-ce93-fd68-41ff2e88ce04",
+              "price": 475000,
+              "discounted_price": 475000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f259-ce93-fd68-41ff2e88ce04",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f259-ce93-fd68-41ff2e88ce04",
+          "currency_code": "IDR",
+          "price": 475000,
+          "discounted_price": 475000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f252-467d-b5bd-b620e4597573",
+              "price": 182000,
+              "discounted_price": 182000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f252-467d-b5bd-b620e4597573",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f252-467d-b5bd-b620e4597573",
+          "currency_code": "IDR",
+          "price": 182000,
+          "discounted_price": 182000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25f-5430-7b18-e5ab698a748b",
+              "price": 1069000,
+              "discounted_price": 1069000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25f-5430-7b18-e5ab698a748b",
+              "price": 72,
+              "discounted_price": 72,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f25f-5430-7b18-e5ab698a748b",
+          "currency_code": "IDR",
+          "price": 1069000,
+          "discounted_price": 1069000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f260-5492-c962-f6e4b7651f23",
+              "price": 1179000,
+              "discounted_price": 1179000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f260-5492-c962-f6e4b7651f23",
+              "price": 79,
+              "discounted_price": 79,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f260-5492-c962-f6e4b7651f23",
+          "currency_code": "IDR",
+          "price": 1179000,
+          "discounted_price": 1179000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f261-c5b5-0884-a34698011781",
+              "price": 1233000,
+              "discounted_price": 1233000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f261-c5b5-0884-a34698011781",
+              "price": 82.5,
+              "discounted_price": 82.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f261-c5b5-0884-a34698011781",
+          "currency_code": "IDR",
+          "price": 1233000,
+          "discounted_price": 1233000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f262-4ae7-af5b-b3954eb1e79b",
+              "price": 1414000,
+              "discounted_price": 1414000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f262-4ae7-af5b-b3954eb1e79b",
+              "price": 95,
+              "discounted_price": 95,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f262-4ae7-af5b-b3954eb1e79b",
+          "currency_code": "IDR",
+          "price": 1414000,
+          "discounted_price": 1414000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f263-196d-3250-ba8db297114e",
+              "price": 40000,
+              "discounted_price": 40000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f263-196d-3250-ba8db297114e",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f263-196d-3250-ba8db297114e",
+          "currency_code": "IDR",
+          "price": 40000,
+          "discounted_price": 40000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f264-1d49-2ea1-a94488213774",
+              "price": 106000,
+              "discounted_price": 106000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f264-1d49-2ea1-a94488213774",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f264-1d49-2ea1-a94488213774",
+          "currency_code": "IDR",
+          "price": 106000,
+          "discounted_price": 106000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f266-55a0-c46f-d1689e2f5c5e",
+              "price": 318000,
+              "discounted_price": 318000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f266-55a0-c46f-d1689e2f5c5e",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f266-55a0-c46f-d1689e2f5c5e",
+          "currency_code": "IDR",
+          "price": 318000,
+          "discounted_price": 318000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f267-14f7-41c0-8bf80b6fa934",
+              "price": 475000,
+              "discounted_price": 475000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f267-14f7-41c0-8bf80b6fa934",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f267-14f7-41c0-8bf80b6fa934",
+          "currency_code": "IDR",
+          "price": 475000,
+          "discounted_price": 475000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25d-9f70-defd-dffb328c85be",
+              "price": 824000,
+              "discounted_price": 824000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25d-9f70-defd-dffb328c85be",
+              "price": 55.5,
+              "discounted_price": 55.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f25d-9f70-defd-dffb328c85be",
+          "currency_code": "IDR",
+          "price": 824000,
+          "discounted_price": 824000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25e-617f-bb61-d2dcd5c92c6d",
+              "price": 959000,
+              "discounted_price": 959000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25e-617f-bb61-d2dcd5c92c6d",
+              "price": 64.5,
+              "discounted_price": 64.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f25e-617f-bb61-d2dcd5c92c6d",
+          "currency_code": "IDR",
+          "price": 959000,
+          "discounted_price": 959000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26a-235b-5be9-b2e43bc0b7ed",
+              "price": 155000,
+              "discounted_price": 155000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26a-235b-5be9-b2e43bc0b7ed",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f26a-235b-5be9-b2e43bc0b7ed",
+          "currency_code": "IDR",
+          "price": 155000,
+          "discounted_price": 155000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f24c-91b4-fb3b-83db4861ee19",
+              "price": 58000,
+              "discounted_price": 58000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f24c-91b4-fb3b-83db4861ee19",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f24c-91b4-fb3b-83db4861ee19",
+          "currency_code": "IDR",
+          "price": 58000,
+          "discounted_price": 58000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f24d-91be-6582-899864d2a261",
+              "price": 68000,
+              "discounted_price": 68000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f24d-91be-6582-899864d2a261",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f24d-91be-6582-899864d2a261",
+          "currency_code": "IDR",
+          "price": 68000,
+          "discounted_price": 68000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26c-2998-34a2-3e77ab76e32d",
+              "price": 487000,
+              "discounted_price": 487000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26c-2998-34a2-3e77ab76e32d",
+              "price": 33,
+              "discounted_price": 33,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f26c-2998-34a2-3e77ab76e32d",
+          "currency_code": "IDR",
+          "price": 487000,
+          "discounted_price": 487000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26d-84ce-add9-6c5206832fa0",
+              "price": 728000,
+              "discounted_price": 728000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26d-84ce-add9-6c5206832fa0",
+              "price": 49,
+              "discounted_price": 49,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f26d-84ce-add9-6c5206832fa0",
+          "currency_code": "IDR",
+          "price": 728000,
+          "discounted_price": 728000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f24e-59d9-363f-121ef3358a6d",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f24e-59d9-363f-121ef3358a6d",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f24e-59d9-363f-121ef3358a6d",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f250-d13d-a952-07bcd8690cc2",
+              "price": 158000,
+              "discounted_price": 158000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f250-d13d-a952-07bcd8690cc2",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f250-d13d-a952-07bcd8690cc2",
+          "currency_code": "IDR",
+          "price": 158000,
+          "discounted_price": 158000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f251-214e-ef3c-32255a7c6363",
+              "price": 199000,
+              "discounted_price": 199000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f251-214e-ef3c-32255a7c6363",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f251-214e-ef3c-32255a7c6363",
+          "currency_code": "IDR",
+          "price": 199000,
+          "discounted_price": 199000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f268-7e8d-f66a-9a453575eb0f",
+              "price": 908000,
+              "discounted_price": 908000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f268-7e8d-f66a-9a453575eb0f",
+              "price": 61,
+              "discounted_price": 61,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f268-7e8d-f66a-9a453575eb0f",
+          "currency_code": "IDR",
+          "price": 908000,
+          "discounted_price": 908000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f269-6de7-ec97-f70e7f41add7",
+              "price": 54000,
+              "discounted_price": 54000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f269-6de7-ec97-f70e7f41add7",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f269-6de7-ec97-f70e7f41add7",
+          "currency_code": "IDR",
+          "price": 54000,
+          "discounted_price": 54000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26f-e153-936c-5f2d7d3fe720",
+              "price": 90000,
+              "discounted_price": 90000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26f-e153-936c-5f2d7d3fe720",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f26f-e153-936c-5f2d7d3fe720",
+          "currency_code": "IDR",
+          "price": 90000,
+          "discounted_price": 90000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f270-6fc9-55f2-44658018a6f4",
+              "price": 259000,
+              "discounted_price": 259000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f270-6fc9-55f2-44658018a6f4",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f270-6fc9-55f2-44658018a6f4",
+          "currency_code": "IDR",
+          "price": 259000,
+          "discounted_price": 259000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f271-3c2d-2eca-0f8afc53c95e",
+              "price": 848000,
+              "discounted_price": 848000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f271-3c2d-2eca-0f8afc53c95e",
+              "price": 57,
+              "discounted_price": 57,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f271-3c2d-2eca-0f8afc53c95e",
+          "currency_code": "IDR",
+          "price": 848000,
+          "discounted_price": 848000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f273-88e0-c6cf-598f61aaa4a5",
+              "price": 1269000,
+              "discounted_price": 1269000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f273-88e0-c6cf-598f61aaa4a5",
+              "price": 85,
+              "discounted_price": 85,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f273-88e0-c6cf-598f61aaa4a5",
+          "currency_code": "IDR",
+          "price": 1269000,
+          "discounted_price": 1269000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f273-88e0-c6cf-598f61aaa4aa",
+              "price": 2171000,
+              "discounted_price": 2171000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f273-88e0-c6cf-598f61aaa4aa",
+              "price": 145,
+              "discounted_price": 145,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f273-88e0-c6cf-598f61aaa4aa",
+          "currency_code": "IDR",
+          "price": 2171000,
+          "discounted_price": 2171000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26e-ea96-ad5d-c2b1c6bc9909",
+              "price": 1450000,
+              "discounted_price": 1450000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f26e-ea96-ad5d-c2b1c6bc9909",
+              "price": 97,
+              "discounted_price": 97,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f26e-ea96-ad5d-c2b1c6bc9909",
+          "currency_code": "IDR",
+          "price": 1450000,
+          "discounted_price": 1450000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25b-d9f0-0e60-0e99628179da",
+              "price": 608000,
+              "discounted_price": 608000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25b-d9f0-0e60-0e99628179da",
+              "price": 41,
+              "discounted_price": 41,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f25b-d9f0-0e60-0e99628179da",
+          "currency_code": "IDR",
+          "price": 608000,
+          "discounted_price": 608000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25c-84bc-6346-2278c2ed36a5",
+              "price": 668000,
+              "discounted_price": 668000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f25c-84bc-6346-2278c2ed36a5",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f25c-84bc-6346-2278c2ed36a5",
+          "currency_code": "IDR",
+          "price": 668000,
+          "discounted_price": 668000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f24b-4dd2-adaa-a1c4ead7df12",
+              "price": 52000,
+              "discounted_price": 52000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f24b-4dd2-adaa-a1c4ead7df12",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f24b-4dd2-adaa-a1c4ead7df12",
+          "currency_code": "IDR",
+          "price": 52000,
+          "discounted_price": 52000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f265-32bc-1158-066766d72a6a",
+              "price": 229000,
+              "discounted_price": 229000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f265-32bc-1158-066766d72a6a",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f265-32bc-1158-066766d72a6a",
+          "currency_code": "IDR",
+          "price": 229000,
+          "discounted_price": 229000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f271-3c2d-2eca-0f8afc53c959",
+              "price": 596000,
+              "discounted_price": 596000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f271-3c2d-2eca-0f8afc53c959",
+              "price": 40,
+              "discounted_price": 40,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f271-3c2d-2eca-0f8afc53c959",
+          "currency_code": "IDR",
+          "price": 596000,
+          "discounted_price": 596000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f255-f0cb-bf92-8a941744936c",
+              "price": 299000,
+              "discounted_price": 299000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f255-f0cb-bf92-8a941744936c",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f255-f0cb-bf92-8a941744936c",
+          "currency_code": "IDR",
+          "price": 299000,
+          "discounted_price": 299000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f25a-2a78-1dd6-c071a303986c",
+              "price": 547000,
+              "discounted_price": 547000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f25a-2a78-1dd6-c071a303986c",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f25a-2a78-1dd6-c071a303986c",
+          "currency_code": "IDR",
+          "price": 547000,
+          "discounted_price": 547000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f26b-a27d-f98e-e35c7e236643",
+              "price": 343000,
+              "discounted_price": 343000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f26b-a27d-f98e-e35c7e236643",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f26b-a27d-f98e-e35c7e236643",
+          "currency_code": "IDR",
+          "price": 343000,
+          "discounted_price": 343000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f24f-85ee-685f-f3b24cf95703",
+              "price": 141000,
+              "discounted_price": 141000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f24f-85ee-685f-f3b24cf95703",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f24f-85ee-685f-f3b24cf95703",
+          "currency_code": "IDR",
+          "price": 141000,
+          "discounted_price": 141000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "United Arab Emirates 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f254-951b-7752-578d9310ea82",
+              "price": 251000,
+              "discounted_price": 251000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f254-951b-7752-578d9310ea82",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f254-951b-7752-578d9310ea82",
+          "currency_code": "IDR",
+          "price": 251000,
+          "discounted_price": 251000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8667-4274-3074-f4a39aed4af5",
+          "name": "United Arab Emirates",
+          "name_id": "Uni Emirat Arab",
+          "code_iso_2": "AE",
+          "code_iso_3": "ARE",
+          "networks": [
+            {
+              "id": "01982df3-341e-153b-a274-5f465feba17d",
+              "name": "DU",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8667-4274-3074-f4a39aed4af5",
+          "name": "United Arab Emirates",
+          "name_id": "Uni Emirat Arab",
+          "code_iso_2": "AE",
+          "code_iso_3": "ARE",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

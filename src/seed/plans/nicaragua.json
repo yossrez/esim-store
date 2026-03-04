@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "0199a461-5f72-0673-fbee-05d4bbb6d6de",
+    "name": "Nicaragua",
+    "name_id": "Nikaragua",
+    "slug": "nicaragua",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "NI",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Nicaragua 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6320-4459-7698-fb59d07913a2",
+              "price": 70000,
+              "discounted_price": 70000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6320-4459-7698-fb59d07913a2",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6320-4459-7698-fb59d07913a2",
+          "currency_code": "IDR",
+          "price": 70000,
+          "discounted_price": 70000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6321-85b3-cb7b-77e1ed4d20f8",
+              "price": 81000,
+              "discounted_price": 81000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6321-85b3-cb7b-77e1ed4d20f8",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6321-85b3-cb7b-77e1ed4d20f8",
+          "currency_code": "IDR",
+          "price": 81000,
+          "discounted_price": 81000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6322-6f36-ec76-54c97ca5513a",
+              "price": 152000,
+              "discounted_price": 152000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6322-6f36-ec76-54c97ca5513a",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6322-6f36-ec76-54c97ca5513a",
+          "currency_code": "IDR",
+          "price": 152000,
+          "discounted_price": 152000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6325-4605-8685-d7d507623a88",
+              "price": 189000,
+              "discounted_price": 189000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6325-4605-8685-d7d507623a88",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6325-4605-8685-d7d507623a88",
+          "currency_code": "IDR",
+          "price": 189000,
+          "discounted_price": 189000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6326-c3d5-665d-c422cc78273f",
+              "price": 246000,
+              "discounted_price": 246000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6326-c3d5-665d-c422cc78273f",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6326-c3d5-665d-c422cc78273f",
+          "currency_code": "IDR",
+          "price": 246000,
+          "discounted_price": 246000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6327-2ff7-ff61-d54b214b127f",
+              "price": 207000,
+              "discounted_price": 207000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6327-2ff7-ff61-d54b214b127f",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6327-2ff7-ff61-d54b214b127f",
+          "currency_code": "IDR",
+          "price": 207000,
+          "discounted_price": 207000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6328-e75b-837e-1a8d0162c0f4",
+              "price": 245000,
+              "discounted_price": 245000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6328-e75b-837e-1a8d0162c0f4",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6328-e75b-837e-1a8d0162c0f4",
+          "currency_code": "IDR",
+          "price": 245000,
+          "discounted_price": 245000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-632b-dfc2-d18a-fbe25b97f72f",
+              "price": 408000,
+              "discounted_price": 408000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-632b-dfc2-d18a-fbe25b97f72f",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-632b-dfc2-d18a-fbe25b97f72f",
+          "currency_code": "IDR",
+          "price": 408000,
+          "discounted_price": 408000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-632d-6ca9-3388-e5c8196b236e",
+              "price": 396000,
+              "discounted_price": 396000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-632d-6ca9-3388-e5c8196b236e",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-632d-6ca9-3388-e5c8196b236e",
+          "currency_code": "IDR",
+          "price": 396000,
+          "discounted_price": 396000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-632f-d256-04f1-ad0dc7150898",
+              "price": 482000,
+              "discounted_price": 482000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-632f-d256-04f1-ad0dc7150898",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-632f-d256-04f1-ad0dc7150898",
+          "currency_code": "IDR",
+          "price": 482000,
+          "discounted_price": 482000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6330-90c7-3d93-5ddfcb9b8b35",
+              "price": 577000,
+              "discounted_price": 577000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6330-90c7-3d93-5ddfcb9b8b35",
+              "price": 39,
+              "discounted_price": 39,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6330-90c7-3d93-5ddfcb9b8b35",
+          "currency_code": "IDR",
+          "price": 577000,
+          "discounted_price": 577000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6332-ef33-3350-e6c1f44b8e45",
+              "price": 738000,
+              "discounted_price": 738000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6332-ef33-3350-e6c1f44b8e45",
+              "price": 49.5,
+              "discounted_price": 49.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6332-ef33-3350-e6c1f44b8e45",
+          "currency_code": "IDR",
+          "price": 738000,
+          "discounted_price": 738000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6333-9ff8-5202-ece7bb4c916b",
+              "price": 811000,
+              "discounted_price": 811000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6333-9ff8-5202-ece7bb4c916b",
+              "price": 54.5,
+              "discounted_price": 54.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6333-9ff8-5202-ece7bb4c916b",
+          "currency_code": "IDR",
+          "price": 811000,
+          "discounted_price": 811000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6334-fdca-6035-606a30bc7514",
+              "price": 999000,
+              "discounted_price": 999000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6334-fdca-6035-606a30bc7514",
+              "price": 67,
+              "discounted_price": 67,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6334-fdca-6035-606a30bc7514",
+          "currency_code": "IDR",
+          "price": 999000,
+          "discounted_price": 999000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6335-8a02-6753-de9861cfe181",
+              "price": 1167000,
+              "discounted_price": 1167000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6335-8a02-6753-de9861cfe181",
+              "price": 78.5,
+              "discounted_price": 78.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6335-8a02-6753-de9861cfe181",
+          "currency_code": "IDR",
+          "price": 1167000,
+          "discounted_price": 1167000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6337-2d12-bc7d-0803879f7b53",
+              "price": 1300000,
+              "discounted_price": 1300000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6337-2d12-bc7d-0803879f7b53",
+              "price": 87,
+              "discounted_price": 87,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6337-2d12-bc7d-0803879f7b53",
+          "currency_code": "IDR",
+          "price": 1300000,
+          "discounted_price": 1300000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6338-2e5f-c370-6d56e99a4b9a",
+              "price": 1434000,
+              "discounted_price": 1434000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6338-2e5f-c370-6d56e99a4b9a",
+              "price": 96,
+              "discounted_price": 96,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6338-2e5f-c370-6d56e99a4b9a",
+          "currency_code": "IDR",
+          "price": 1434000,
+          "discounted_price": 1434000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6339-20cd-4a23-8d43a954608e",
+              "price": 1500000,
+              "discounted_price": 1500000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6339-20cd-4a23-8d43a954608e",
+              "price": 100.5,
+              "discounted_price": 100.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6339-20cd-4a23-8d43a954608e",
+          "currency_code": "IDR",
+          "price": 1500000,
+          "discounted_price": 1500000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6339-20cd-4a23-8d43a9546093",
+              "price": 1719000,
+              "discounted_price": 1719000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6339-20cd-4a23-8d43a9546093",
+              "price": 115,
+              "discounted_price": 115,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6339-20cd-4a23-8d43a9546093",
+          "currency_code": "IDR",
+          "price": 1719000,
+          "discounted_price": 1719000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633b-0f13-c72e-fc131a10b716",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633b-0f13-c72e-fc131a10b716",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-633b-0f13-c72e-fc131a10b716",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633c-18b1-1f31-d8b90b1ef226",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633c-18b1-1f31-d8b90b1ef226",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-633c-18b1-1f31-d8b90b1ef226",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633e-f10a-fdea-850266eb5308",
+              "price": 397000,
+              "discounted_price": 397000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633e-f10a-fdea-850266eb5308",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-633e-f10a-fdea-850266eb5308",
+          "currency_code": "IDR",
+          "price": 397000,
+          "discounted_price": 397000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633f-f8ca-6554-1ecfe0ac427c",
+              "price": 578000,
+              "discounted_price": 578000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-633f-f8ca-6554-1ecfe0ac427c",
+              "price": 39,
+              "discounted_price": 39,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-633f-f8ca-6554-1ecfe0ac427c",
+          "currency_code": "IDR",
+          "price": 578000,
+          "discounted_price": 578000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6340-ca32-a0fe-a3f9b214f7a6",
+              "price": 1104000,
+              "discounted_price": 1104000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6340-ca32-a0fe-a3f9b214f7a6",
+              "price": 74,
+              "discounted_price": 74,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6340-ca32-a0fe-a3f9b214f7a6",
+          "currency_code": "IDR",
+          "price": 1104000,
+          "discounted_price": 1104000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6341-5de0-cfaa-c3654dfe4f89",
+              "price": 65000,
+              "discounted_price": 65000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6341-5de0-cfaa-c3654dfe4f89",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6341-5de0-cfaa-c3654dfe4f89",
+          "currency_code": "IDR",
+          "price": 65000,
+          "discounted_price": 65000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6342-8c95-7814-8abac64f5b82",
+              "price": 190000,
+              "discounted_price": 190000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6342-8c95-7814-8abac64f5b82",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6342-8c95-7814-8abac64f5b82",
+          "currency_code": "IDR",
+          "price": 190000,
+          "discounted_price": 190000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6344-3cff-cfc2-eba5f438e216",
+              "price": 592000,
+              "discounted_price": 592000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6344-3cff-cfc2-eba5f438e216",
+              "price": 40,
+              "discounted_price": 40,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6344-3cff-cfc2-eba5f438e216",
+          "currency_code": "IDR",
+          "price": 592000,
+          "discounted_price": 592000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6345-2382-1011-d3800f72f722",
+              "price": 865000,
+              "discounted_price": 865000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6345-2382-1011-d3800f72f722",
+              "price": 58,
+              "discounted_price": 58,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6345-2382-1011-d3800f72f722",
+          "currency_code": "IDR",
+          "price": 865000,
+          "discounted_price": 865000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6346-9d8f-d898-09d48b83feda",
+              "price": 1732000,
+              "discounted_price": 1732000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6346-9d8f-d898-09d48b83feda",
+              "price": 116,
+              "discounted_price": 116,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6346-9d8f-d898-09d48b83feda",
+          "currency_code": "IDR",
+          "price": 1732000,
+          "discounted_price": 1732000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6347-cbf7-0506-ef8d3242b66c",
+              "price": 98000,
+              "discounted_price": 98000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6347-cbf7-0506-ef8d3242b66c",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6347-cbf7-0506-ef8d3242b66c",
+          "currency_code": "IDR",
+          "price": 98000,
+          "discounted_price": 98000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6349-fb46-f7b3-5496a71a48d3",
+              "price": 304000,
+              "discounted_price": 304000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6349-fb46-f7b3-5496a71a48d3",
+              "price": 21,
+              "discounted_price": 21,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6349-fb46-f7b3-5496a71a48d3",
+          "currency_code": "IDR",
+          "price": 304000,
+          "discounted_price": 304000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-634b-dbbc-c99b-246122fb617f",
+              "price": 1031000,
+              "discounted_price": 1031000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-634b-dbbc-c99b-246122fb617f",
+              "price": 69,
+              "discounted_price": 69,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-634b-dbbc-c99b-246122fb617f",
+          "currency_code": "IDR",
+          "price": 1031000,
+          "discounted_price": 1031000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-634c-30d9-6221-e3cd892289bd",
+              "price": 1544000,
+              "discounted_price": 1544000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-634c-30d9-6221-e3cd892289bd",
+              "price": 103.5,
+              "discounted_price": 103.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-634c-30d9-6221-e3cd892289bd",
+          "currency_code": "IDR",
+          "price": 1544000,
+          "discounted_price": 1544000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-634d-d8fb-b3cc-1e804b64b77a",
+              "price": 2641000,
+              "discounted_price": 2641000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-634d-d8fb-b3cc-1e804b64b77a",
+              "price": 176.5,
+              "discounted_price": 176.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-634d-d8fb-b3cc-1e804b64b77a",
+          "currency_code": "IDR",
+          "price": 2641000,
+          "discounted_price": 2641000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-631f-7856-7ebf-cb9e38bb3e6f",
+              "price": 62000,
+              "discounted_price": 62000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-631f-7856-7ebf-cb9e38bb3e6f",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-631f-7856-7ebf-cb9e38bb3e6f",
+          "currency_code": "IDR",
+          "price": 62000,
+          "discounted_price": 62000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6323-9d88-81b6-02887c66b70d",
+              "price": 175000,
+              "discounted_price": 175000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6323-9d88-81b6-02887c66b70d",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6323-9d88-81b6-02887c66b70d",
+          "currency_code": "IDR",
+          "price": 175000,
+          "discounted_price": 175000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6329-4c86-0a1b-dfb02f0d3a0f",
+              "price": 298000,
+              "discounted_price": 298000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6329-4c86-0a1b-dfb02f0d3a0f",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6329-4c86-0a1b-dfb02f0d3a0f",
+          "currency_code": "IDR",
+          "price": 298000,
+          "discounted_price": 298000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-632a-14f3-e0a3-06e45ff383e4",
+              "price": 374000,
+              "discounted_price": 374000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-632a-14f3-e0a3-06e45ff383e4",
+              "price": 25.5,
+              "discounted_price": 25.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-632a-14f3-e0a3-06e45ff383e4",
+          "currency_code": "IDR",
+          "price": 374000,
+          "discounted_price": 374000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6331-2405-bd1a-524fd968cdc5",
+              "price": 665000,
+              "discounted_price": 665000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6331-2405-bd1a-524fd968cdc5",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6331-2405-bd1a-524fd968cdc5",
+          "currency_code": "IDR",
+          "price": 665000,
+          "discounted_price": 665000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-633d-838a-1f65-c8ddda9d7a95",
+              "price": 283000,
+              "discounted_price": 283000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-633d-838a-1f65-c8ddda9d7a95",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-633d-838a-1f65-c8ddda9d7a95",
+          "currency_code": "IDR",
+          "price": 283000,
+          "discounted_price": 283000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6343-37ba-377b-4369491fd899",
+              "price": 400000,
+              "discounted_price": 400000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6343-37ba-377b-4369491fd899",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6343-37ba-377b-4369491fd899",
+          "currency_code": "IDR",
+          "price": 400000,
+          "discounted_price": 400000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Nicaragua 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6349-fb46-f7b3-5496a71a48d8",
+              "price": 715000,
+              "discounted_price": 715000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6349-fb46-f7b3-5496a71a48d8",
+              "price": 48,
+              "discounted_price": 48,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6349-fb46-f7b3-5496a71a48d8",
+          "currency_code": "IDR",
+          "price": 715000,
+          "discounted_price": 715000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-83c6-3534-9bc7-f6358f7256cb",
+          "name": "Nicaragua",
+          "name_id": "Nikaragua",
+          "code_iso_2": "NI",
+          "code_iso_3": "NIC",
+          "networks": [
+            {
+              "id": "01982df3-3419-9852-a6fd-34ff1c4cd144",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-83c6-3534-9bc7-f6358f7256cb",
+          "name": "Nicaragua",
+          "name_id": "Nikaragua",
+          "code_iso_2": "NI",
+          "code_iso_3": "NIC",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

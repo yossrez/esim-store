@@ -1,0 +1,1708 @@
+{
+  "data": {
+    "id": "019ae39c-75dc-c8e1-aed1-c5478d1eb3a5",
+    "name": "Russia",
+    "name_id": "Rusia",
+    "slug": "russia",
+    "description": "Russia government regulations require identity verification before the internet can be used. This verification process must be completed upon arrival in Russia.",
+    "description_id": "Regulasi pemerintah mewajibkan verifikasi identitas sebelum internet dapat digunakan. Proses verifikasi ini harus dilakukan setelah tiba di Rusia.",
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "RU",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Russia 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbaf-f3bf-eef1-e65f68348461",
+              "price": 818000,
+              "discounted_price": 818000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbaf-f3bf-eef1-e65f68348461",
+              "price": 55,
+              "discounted_price": 55,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbaf-f3bf-eef1-e65f68348461",
+          "currency_code": "IDR",
+          "price": 818000,
+          "discounted_price": 818000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb0-58af-8c9e-c518f2ad0e96",
+              "price": 49000,
+              "discounted_price": 49000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb0-58af-8c9e-c518f2ad0e96",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbb0-58af-8c9e-c518f2ad0e96",
+          "currency_code": "IDR",
+          "price": 49000,
+          "discounted_price": 49000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb2-94b8-41c1-937c5aa0e9fd",
+              "price": 136000,
+              "discounted_price": 136000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb2-94b8-41c1-937c5aa0e9fd",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbb2-94b8-41c1-937c5aa0e9fd",
+          "currency_code": "IDR",
+          "price": 136000,
+          "discounted_price": 136000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbc1-fbe9-a0f7-94ca064c29c5",
+              "price": 1142000,
+              "discounted_price": 1142000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbc1-fbe9-a0f7-94ca064c29c5",
+              "price": 76.5,
+              "discounted_price": 76.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbc1-fbe9-a0f7-94ca064c29c5",
+          "currency_code": "IDR",
+          "price": 1142000,
+          "discounted_price": 1142000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb88-bfaf-dcc1-817dde5cf001",
+              "price": 112000,
+              "discounted_price": 112000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb88-bfaf-dcc1-817dde5cf001",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb88-bfaf-dcc1-817dde5cf001",
+          "currency_code": "IDR",
+          "price": 112000,
+          "discounted_price": 112000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8b-e494-459a-a32afe3a7425",
+              "price": 136000,
+              "discounted_price": 136000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8b-e494-459a-a32afe3a7425",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb8b-e494-459a-a32afe3a7425",
+          "currency_code": "IDR",
+          "price": 136000,
+          "discounted_price": 136000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8c-a9d0-e9d9-da813d28826c",
+              "price": 168000,
+              "discounted_price": 168000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8c-a9d0-e9d9-da813d28826c",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb8c-a9d0-e9d9-da813d28826c",
+          "currency_code": "IDR",
+          "price": 168000,
+          "discounted_price": 168000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8e-62b9-4a3f-943658a0490c",
+              "price": 155000,
+              "discounted_price": 155000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8e-62b9-4a3f-943658a0490c",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb8e-62b9-4a3f-943658a0490c",
+          "currency_code": "IDR",
+          "price": 155000,
+          "discounted_price": 155000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8f-441f-d3dd-8dc43718c96f",
+              "price": 168000,
+              "discounted_price": 168000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb8f-441f-d3dd-8dc43718c96f",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb8f-441f-d3dd-8dc43718c96f",
+          "currency_code": "IDR",
+          "price": 168000,
+          "discounted_price": 168000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb93-2e08-a29d-21a9eb396bdd",
+              "price": 277000,
+              "discounted_price": 277000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb93-2e08-a29d-21a9eb396bdd",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb93-2e08-a29d-21a9eb396bdd",
+          "currency_code": "IDR",
+          "price": 277000,
+          "discounted_price": 277000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb95-5351-881a-7672ff8edbef",
+              "price": 277000,
+              "discounted_price": 277000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb95-5351-881a-7672ff8edbef",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb95-5351-881a-7672ff8edbef",
+          "currency_code": "IDR",
+          "price": 277000,
+          "discounted_price": 277000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb96-74b3-af49-dd76f8c160fe",
+              "price": 358000,
+              "discounted_price": 358000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb96-74b3-af49-dd76f8c160fe",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb96-74b3-af49-dd76f8c160fe",
+          "currency_code": "IDR",
+          "price": 358000,
+          "discounted_price": 358000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9e-4629-4319-333be8015fca",
+              "price": 742000,
+              "discounted_price": 742000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9e-4629-4319-333be8015fca",
+              "price": 50,
+              "discounted_price": 50,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb9e-4629-4319-333be8015fca",
+          "currency_code": "IDR",
+          "price": 742000,
+          "discounted_price": 742000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9f-8c85-b81c-9ad7bd438aa1",
+              "price": 872000,
+              "discounted_price": 872000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9f-8c85-b81c-9ad7bd438aa1",
+              "price": 58.5,
+              "discounted_price": 58.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb9f-8c85-b81c-9ad7bd438aa1",
+          "currency_code": "IDR",
+          "price": 872000,
+          "discounted_price": 872000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba0-b242-f583-8d51f34c686c",
+              "price": 980000,
+              "discounted_price": 980000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba0-b242-f583-8d51f34c686c",
+              "price": 66,
+              "discounted_price": 66,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bba0-b242-f583-8d51f34c686c",
+          "currency_code": "IDR",
+          "price": 980000,
+          "discounted_price": 980000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba1-7b85-8cda-15166ecc8057",
+              "price": 1061000,
+              "discounted_price": 1061000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba1-7b85-8cda-15166ecc8057",
+              "price": 71,
+              "discounted_price": 71,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bba1-7b85-8cda-15166ecc8057",
+          "currency_code": "IDR",
+          "price": 1061000,
+          "discounted_price": 1061000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba3-a686-8522-edc76005103d",
+              "price": 1110000,
+              "discounted_price": 1110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba3-a686-8522-edc76005103d",
+              "price": 74.5,
+              "discounted_price": 74.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bba3-a686-8522-edc76005103d",
+          "currency_code": "IDR",
+          "price": 1110000,
+          "discounted_price": 1110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba6-b090-083c-8b5feecc775d",
+              "price": 1272000,
+              "discounted_price": 1272000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba6-b090-083c-8b5feecc775d",
+              "price": 85.5,
+              "discounted_price": 85.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bba6-b090-083c-8b5feecc775d",
+          "currency_code": "IDR",
+          "price": 1272000,
+          "discounted_price": 1272000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba7-b581-dd99-662eac7c6733",
+              "price": 33000,
+              "discounted_price": 33000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba7-b581-dd99-662eac7c6733",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bba7-b581-dd99-662eac7c6733",
+          "currency_code": "IDR",
+          "price": 33000,
+          "discounted_price": 33000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba9-a4d7-e90a-8ded38b9f40b",
+              "price": 87000,
+              "discounted_price": 87000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bba9-a4d7-e90a-8ded38b9f40b",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bba9-a4d7-e90a-8ded38b9f40b",
+          "currency_code": "IDR",
+          "price": 87000,
+          "discounted_price": 87000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbac-ee00-c848-51f4a32559f1",
+              "price": 277000,
+              "discounted_price": 277000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbac-ee00-c848-51f4a32559f1",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbac-ee00-c848-51f4a32559f1",
+          "currency_code": "IDR",
+          "price": 277000,
+          "discounted_price": 277000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbae-0bdd-ff00-7eac67f483c4",
+              "price": 412000,
+              "discounted_price": 412000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbae-0bdd-ff00-7eac67f483c4",
+              "price": 28,
+              "discounted_price": 28,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbae-0bdd-ff00-7eac67f483c4",
+          "currency_code": "IDR",
+          "price": 412000,
+          "discounted_price": 412000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb4-eb4b-2ed4-aeebc7d9ac13",
+              "price": 439000,
+              "discounted_price": 439000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb4-eb4b-2ed4-aeebc7d9ac13",
+              "price": 30,
+              "discounted_price": 30,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbb4-eb4b-2ed4-aeebc7d9ac13",
+          "currency_code": "IDR",
+          "price": 439000,
+          "discounted_price": 439000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb5-b2d3-55e8-583a8d826b93",
+              "price": 655000,
+              "discounted_price": 655000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb5-b2d3-55e8-583a8d826b93",
+              "price": 44,
+              "discounted_price": 44,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbb5-b2d3-55e8-583a8d826b93",
+          "currency_code": "IDR",
+          "price": 655000,
+          "discounted_price": 655000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb8-a35b-a6f8-e3a5ff1afafd",
+              "price": 1305000,
+              "discounted_price": 1305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbb8-a35b-a6f8-e3a5ff1afafd",
+              "price": 87.5,
+              "discounted_price": 87.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbb8-a35b-a6f8-e3a5ff1afafd",
+          "currency_code": "IDR",
+          "price": 1305000,
+          "discounted_price": 1305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbbb-e47a-94bc-ab8d0e24df69",
+              "price": 82000,
+              "discounted_price": 82000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbbb-e47a-94bc-ab8d0e24df69",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbbb-e47a-94bc-ab8d0e24df69",
+          "currency_code": "IDR",
+          "price": 82000,
+          "discounted_price": 82000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbbd-edb6-7c69-ba45083f4a20",
+              "price": 233000,
+              "discounted_price": 233000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbbd-edb6-7c69-ba45083f4a20",
+              "price": 16,
+              "discounted_price": 16,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbbd-edb6-7c69-ba45083f4a20",
+          "currency_code": "IDR",
+          "price": 233000,
+          "discounted_price": 233000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbc0-85ce-e145-b8110166e485",
+              "price": 764000,
+              "discounted_price": 764000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbc0-85ce-e145-b8110166e485",
+              "price": 51.5,
+              "discounted_price": 51.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbc0-85ce-e145-b8110166e485",
+          "currency_code": "IDR",
+          "price": 764000,
+          "discounted_price": 764000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbc3-b305-1a35-19a03a8eb0df",
+              "price": 1954000,
+              "discounted_price": 1954000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bbc3-b305-1a35-19a03a8eb0df",
+              "price": 131,
+              "discounted_price": 131,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bbc3-b305-1a35-19a03a8eb0df",
+          "currency_code": "IDR",
+          "price": 1954000,
+          "discounted_price": 1954000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb85-334b-df63-73ed7090e0da",
+              "price": 52000,
+              "discounted_price": 52000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb85-334b-df63-73ed7090e0da",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb85-334b-df63-73ed7090e0da",
+          "currency_code": "IDR",
+          "price": 52000,
+          "discounted_price": 52000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb87-c4ec-b11f-e6fe4745e2a4",
+              "price": 60000,
+              "discounted_price": 60000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb87-c4ec-b11f-e6fe4745e2a4",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb87-c4ec-b11f-e6fe4745e2a4",
+          "currency_code": "IDR",
+          "price": 60000,
+          "discounted_price": 60000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb98-553d-7b63-1e7a9fee1c21",
+              "price": 428000,
+              "discounted_price": 428000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb98-553d-7b63-1e7a9fee1c21",
+              "price": 29,
+              "discounted_price": 29,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb98-553d-7b63-1e7a9fee1c21",
+          "currency_code": "IDR",
+          "price": 428000,
+          "discounted_price": 428000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9b-70ee-26af-3d7a3b8d72f9",
+              "price": 547000,
+              "discounted_price": 547000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9b-70ee-26af-3d7a3b8d72f9",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb9b-70ee-26af-3d7a3b8d72f9",
+          "currency_code": "IDR",
+          "price": 547000,
+          "discounted_price": 547000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9c-ceb4-7a18-9c463d045e08",
+              "price": 601000,
+              "discounted_price": 601000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "019ae528-bb9c-ceb4-7a18-9c463d045e08",
+              "price": 40.5,
+              "discounted_price": 40.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "019ae528-bb9c-ceb4-7a18-9c463d045e08",
+          "currency_code": "IDR",
+          "price": 601000,
+          "discounted_price": 601000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb83-4358-2687-1d56b289fc6e",
+              "price": 47000,
+              "discounted_price": 47000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb83-4358-2687-1d56b289fc6e",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bb83-4358-2687-1d56b289fc6e",
+          "currency_code": "IDR",
+          "price": 47000,
+          "discounted_price": 47000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb8a-508d-9e82-eb8dc65a64e0",
+              "price": 120000,
+              "discounted_price": 120000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb8a-508d-9e82-eb8dc65a64e0",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bb8a-508d-9e82-eb8dc65a64e0",
+          "currency_code": "IDR",
+          "price": 120000,
+          "discounted_price": 120000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb90-4d13-c552-1c683d6a07e7",
+              "price": 209000,
+              "discounted_price": 209000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb90-4d13-c552-1c683d6a07e7",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bb90-4d13-c552-1c683d6a07e7",
+          "currency_code": "IDR",
+          "price": 209000,
+          "discounted_price": 209000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb91-3d67-64b8-2d6710fcd32b",
+              "price": 263000,
+              "discounted_price": 263000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb91-3d67-64b8-2d6710fcd32b",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bb91-3d67-64b8-2d6710fcd32b",
+          "currency_code": "IDR",
+          "price": 263000,
+          "discounted_price": 263000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb99-621c-6db3-b45d68551765",
+              "price": 493000,
+              "discounted_price": 493000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bb99-621c-6db3-b45d68551765",
+              "price": 33.5,
+              "discounted_price": 33.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bb99-621c-6db3-b45d68551765",
+          "currency_code": "IDR",
+          "price": 493000,
+          "discounted_price": 493000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bbbe-ffd7-7a33-0c0c07ba69a1",
+              "price": 536000,
+              "discounted_price": 536000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bbbe-ffd7-7a33-0c0c07ba69a1",
+              "price": 36,
+              "discounted_price": 36,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bbbe-ffd7-7a33-0c0c07ba69a1",
+          "currency_code": "IDR",
+          "price": 536000,
+          "discounted_price": 536000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bbaa-79fb-a295-e1f0936f6f20",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bbaa-79fb-a295-e1f0936f6f20",
+              "price": 13.5,
+              "discounted_price": 13.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bbaa-79fb-a295-e1f0936f6f20",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Russia 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bbb3-5cf3-fc11-5c7e045b5dae",
+              "price": 309000,
+              "discounted_price": 309000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "019ae528-bbb3-5cf3-fc11-5c7e045b5dae",
+              "price": 21,
+              "discounted_price": 21,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "019ae528-bbb3-5cf3-fc11-5c7e045b5dae",
+          "currency_code": "IDR",
+          "price": 309000,
+          "discounted_price": 309000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-848c-860a-b07e-b3d05cda5b20",
+          "name": "Russia",
+          "name_id": "Rusia",
+          "code_iso_2": "RU",
+          "code_iso_3": "RUS",
+          "networks": [
+            {
+              "id": "019ae52c-5f95-1494-083a-2e1c95fbdb66",
+              "name": "MTS",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-848c-860a-b07e-b3d05cda5b20",
+          "name": "Russia",
+          "name_id": "Rusia",
+          "code_iso_2": "RU",
+          "code_iso_3": "RUS",
+          "networks": []
+        }
+      ]
+    }
+  }
+}

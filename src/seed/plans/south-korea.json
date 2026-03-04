@@ -1,0 +1,1712 @@
+{
+  "data": {
+    "id": "01982ca2-4a6b-67bf-4e17-36e6a9778411",
+    "name": "South Korea",
+    "name_id": "Korea Selatan",
+    "slug": "south-korea",
+    "description": null,
+    "description_id": null,
+    "scale": "local",
+    "is_saleable": true,
+    "area_color": "E1C9FF",
+    "area_code": "KR",
+    "total_countries": 1,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "South Korea 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20b-49f9-da67-57c291fdc39f",
+              "price": 312000,
+              "discounted_price": 312000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20b-49f9-da67-57c291fdc39f",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f20b-49f9-da67-57c291fdc39f",
+          "currency_code": "IDR",
+          "price": 312000,
+          "discounted_price": 312000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20c-b36a-c174-efb2170f8b0e",
+              "price": 367000,
+              "discounted_price": 367000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20c-b36a-c174-efb2170f8b0e",
+              "price": 25,
+              "discounted_price": 25,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f20c-b36a-c174-efb2170f8b0e",
+          "currency_code": "IDR",
+          "price": 367000,
+          "discounted_price": 367000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 01D 03GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1f9-ca65-d379-3144d8a8db71",
+              "price": 46000,
+              "discounted_price": 46000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1f9-ca65-d379-3144d8a8db71",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f1f9-ca65-d379-3144d8a8db71",
+          "currency_code": "IDR",
+          "price": 46000,
+          "discounted_price": 46000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fa-d685-c875-10f3475590a6",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fa-d685-c875-10f3475590a6",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f1fa-d685-c875-10f3475590a6",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D 03GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fb-d08b-c7ef-fb17acf7f66d",
+              "price": 65000,
+              "discounted_price": 65000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fb-d08b-c7ef-fb17acf7f66d",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f1fb-d08b-c7ef-fb17acf7f66d",
+          "currency_code": "IDR",
+          "price": 65000,
+          "discounted_price": 65000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 01D 05GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fc-3d0c-3ed5-d82b906308dc",
+              "price": 57000,
+              "discounted_price": 57000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fc-3d0c-3ed5-d82b906308dc",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f1fc-3d0c-3ed5-d82b906308dc",
+          "currency_code": "IDR",
+          "price": 57000,
+          "discounted_price": 57000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 03D 05GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fd-90c1-15bf-25565e3a8682",
+              "price": 65000,
+              "discounted_price": 65000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1fd-90c1-15bf-25565e3a8682",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f1fd-90c1-15bf-25565e3a8682",
+          "currency_code": "IDR",
+          "price": 65000,
+          "discounted_price": 65000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f200-11da-ef8d-c2a632584243",
+              "price": 107000,
+              "discounted_price": 107000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f200-11da-ef8d-c2a632584243",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f200-11da-ef8d-c2a632584243",
+          "currency_code": "IDR",
+          "price": 107000,
+          "discounted_price": 107000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 03D 10GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f201-8709-2911-220a5e1a4afa",
+              "price": 103000,
+              "discounted_price": 103000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f201-8709-2911-220a5e1a4afa",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f201-8709-2911-220a5e1a4afa",
+          "currency_code": "IDR",
+          "price": 103000,
+          "discounted_price": 103000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f202-6f10-2c47-d5daee79ffc8",
+              "price": 116000,
+              "discounted_price": 116000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f202-6f10-2c47-d5daee79ffc8",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f202-6f10-2c47-d5daee79ffc8",
+          "currency_code": "IDR",
+          "price": 116000,
+          "discounted_price": 116000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D 10GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f203-e3ba-f2a8-23556598affb",
+              "price": 126000,
+              "discounted_price": 126000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f203-e3ba-f2a8-23556598affb",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f203-e3ba-f2a8-23556598affb",
+          "currency_code": "IDR",
+          "price": 126000,
+          "discounted_price": 126000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f205-56ac-15d3-8c60326ea172",
+              "price": 175000,
+              "discounted_price": 175000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f205-56ac-15d3-8c60326ea172",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f205-56ac-15d3-8c60326ea172",
+          "currency_code": "IDR",
+          "price": 175000,
+          "discounted_price": 175000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 01D FUP0.5GB BASIC",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20d-f586-5732-aaced5383cab",
+              "price": 20000,
+              "discounted_price": 20000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20d-f586-5732-aaced5383cab",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f20d-f586-5732-aaced5383cab",
+          "currency_code": "IDR",
+          "price": 20000,
+          "discounted_price": 20000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 03D FUP0.5GB BASIC",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20d-f586-5732-aaced5383cb0",
+              "price": 30000,
+              "discounted_price": 30000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20d-f586-5732-aaced5383cb0",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f20d-f586-5732-aaced5383cb0",
+          "currency_code": "IDR",
+          "price": 30000,
+          "discounted_price": 30000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D FUP0.5GB BASIC",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20f-45e5-ca18-316449a62d44",
+              "price": 98000,
+              "discounted_price": 98000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20f-45e5-ca18-316449a62d44",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f20f-45e5-ca18-316449a62d44",
+          "currency_code": "IDR",
+          "price": 98000,
+          "discounted_price": 98000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f210-3e8f-d638-ed0388b7ef7f",
+              "price": 122000,
+              "discounted_price": 122000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f210-3e8f-d638-ed0388b7ef7f",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f210-3e8f-d638-ed0388b7ef7f",
+          "currency_code": "IDR",
+          "price": 122000,
+          "discounted_price": 122000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f211-4e73-a314-f726a88b4879",
+              "price": 237000,
+              "discounted_price": 237000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f211-4e73-a314-f726a88b4879",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f211-4e73-a314-f726a88b4879",
+          "currency_code": "IDR",
+          "price": 237000,
+          "discounted_price": 237000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 01D FUP1GB PRO",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f212-f511-a3df-824b432bcacb",
+              "price": 25000,
+              "discounted_price": 25000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f212-f511-a3df-824b432bcacb",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f212-f511-a3df-824b432bcacb",
+          "currency_code": "IDR",
+          "price": 25000,
+          "discounted_price": 25000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 03D FUP1GB PRO",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f213-26f5-20a4-f72000dfb1ae",
+              "price": 54000,
+              "discounted_price": 54000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f213-26f5-20a4-f72000dfb1ae",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f213-26f5-20a4-f72000dfb1ae",
+          "currency_code": "IDR",
+          "price": 54000,
+          "discounted_price": 54000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D FUP1GB PRO",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f216-adb2-d248-0b16970ab62d",
+              "price": 131000,
+              "discounted_price": 131000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f216-adb2-d248-0b16970ab62d",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f216-adb2-d248-0b16970ab62d",
+          "currency_code": "IDR",
+          "price": 131000,
+          "discounted_price": 131000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f217-9f16-1feb-70e9898cfff7",
+              "price": 187000,
+              "discounted_price": 187000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f217-9f16-1feb-70e9898cfff7",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f217-9f16-1feb-70e9898cfff7",
+          "currency_code": "IDR",
+          "price": 187000,
+          "discounted_price": 187000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f219-a8c8-fafc-70202a65079e",
+              "price": 376000,
+              "discounted_price": 376000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f219-a8c8-fafc-70202a65079e",
+              "price": 25.5,
+              "discounted_price": 25.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f219-a8c8-fafc-70202a65079e",
+          "currency_code": "IDR",
+          "price": 376000,
+          "discounted_price": 376000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 01D FUP2GB ELITE",
+        "validity_days": 1,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21a-c2dd-f8a9-fe27c58b4f61",
+              "price": 30000,
+              "discounted_price": 30000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21a-c2dd-f8a9-fe27c58b4f61",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f21a-c2dd-f8a9-fe27c58b4f61",
+          "currency_code": "IDR",
+          "price": 30000,
+          "discounted_price": 30000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 03D FUP2GB ELITE",
+        "validity_days": 3,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21b-86cf-3abd-96143634dad3",
+              "price": 71000,
+              "discounted_price": 71000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21b-86cf-3abd-96143634dad3",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f21b-86cf-3abd-96143634dad3",
+          "currency_code": "IDR",
+          "price": 71000,
+          "discounted_price": 71000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D FUP2GB ELITE",
+        "validity_days": 10,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21e-876f-2a3a-587bb0e54e76",
+              "price": 222000,
+              "discounted_price": 222000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21e-876f-2a3a-587bb0e54e76",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f21e-876f-2a3a-587bb0e54e76",
+          "currency_code": "IDR",
+          "price": 222000,
+          "discounted_price": 222000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21f-4ef2-3506-b4ad05c35b9b",
+              "price": 330000,
+              "discounted_price": 330000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f21f-4ef2-3506-b4ad05c35b9b",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f21f-4ef2-3506-b4ad05c35b9b",
+          "currency_code": "IDR",
+          "price": 330000,
+          "discounted_price": 330000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f220-a145-43ca-8f71e95d5732",
+              "price": 546000,
+              "discounted_price": 546000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f220-a145-43ca-8f71e95d5732",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f220-a145-43ca-8f71e95d5732",
+          "currency_code": "IDR",
+          "price": 546000,
+          "discounted_price": 546000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 03D 03GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1fa-d685-c875-10f3475590a1",
+              "price": 50000,
+              "discounted_price": 50000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1fa-d685-c875-10f3475590a1",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f1fa-d685-c875-10f3475590a1",
+          "currency_code": "IDR",
+          "price": 50000,
+          "discounted_price": 50000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1fe-a33e-0d4f-7fe66204b7f6",
+              "price": 75000,
+              "discounted_price": 75000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1fe-a33e-0d4f-7fe66204b7f6",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f1fe-a33e-0d4f-7fe66204b7f6",
+          "currency_code": "IDR",
+          "price": 75000,
+          "discounted_price": 75000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 03D 01GB",
+        "validity_days": 3,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1f7-5bc9-ef2b-363a7409c8df",
+              "price": 28000,
+              "discounted_price": 28000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1f7-5bc9-ef2b-363a7409c8df",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f1f7-5bc9-ef2b-363a7409c8df",
+          "currency_code": "IDR",
+          "price": 28000,
+          "discounted_price": 28000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1f8-5e48-2e6e-8cc689b00e71",
+              "price": 32000,
+              "discounted_price": 32000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f1f8-5e48-2e6e-8cc689b00e71",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f1f8-5e48-2e6e-8cc689b00e71",
+          "currency_code": "IDR",
+          "price": 32000,
+          "discounted_price": 32000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f206-7f6f-217d-37db543f2c58",
+              "price": 173000,
+              "discounted_price": 173000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f206-7f6f-217d-37db543f2c58",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f206-7f6f-217d-37db543f2c58",
+          "currency_code": "IDR",
+          "price": 173000,
+          "discounted_price": 173000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D 20GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f207-a321-eb5a-8b4c33e786fd",
+              "price": 216000,
+              "discounted_price": 216000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f207-a321-eb5a-8b4c33e786fd",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f207-a321-eb5a-8b4c33e786fd",
+          "currency_code": "IDR",
+          "price": 216000,
+          "discounted_price": 216000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f208-d50f-0bbd-f7de46086413",
+              "price": 253000,
+              "discounted_price": 253000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f208-d50f-0bbd-f7de46086413",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f208-d50f-0bbd-f7de46086413",
+          "currency_code": "IDR",
+          "price": 253000,
+          "discounted_price": 253000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f209-9289-ae3b-05bccb0180de",
+              "price": 284000,
+              "discounted_price": 284000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f209-9289-ae3b-05bccb0180de",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f209-9289-ae3b-05bccb0180de",
+          "currency_code": "IDR",
+          "price": 284000,
+          "discounted_price": 284000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D 30GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20a-361a-018d-b959c4ff40e5",
+              "price": 295000,
+              "discounted_price": 295000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f20a-361a-018d-b959c4ff40e5",
+              "price": 20,
+              "discounted_price": 20,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f20a-361a-018d-b959c4ff40e5",
+          "currency_code": "IDR",
+          "price": 295000,
+          "discounted_price": 295000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f20e-951c-d264-19614b325d8d",
+              "price": 62000,
+              "discounted_price": 62000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f20e-951c-d264-19614b325d8d",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f20e-951c-d264-19614b325d8d",
+          "currency_code": "IDR",
+          "price": 62000,
+          "discounted_price": 62000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f215-299c-a91d-fbdcac25e7a5",
+              "price": 92000,
+              "discounted_price": 92000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f215-299c-a91d-fbdcac25e7a5",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f215-299c-a91d-fbdcac25e7a5",
+          "currency_code": "IDR",
+          "price": 92000,
+          "discounted_price": 92000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f21d-2022-5ad5-1f92b2c88ba7",
+              "price": 157000,
+              "discounted_price": 157000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f21d-2022-5ad5-1f92b2c88ba7",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f21d-2022-5ad5-1f92b2c88ba7",
+          "currency_code": "IDR",
+          "price": 157000,
+          "discounted_price": 157000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 01D 01GB",
+        "validity_days": 1,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1f6-9cbb-52dd-34095b1bb5c2",
+              "price": 23000,
+              "discounted_price": 23000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1f6-9cbb-52dd-34095b1bb5c2",
+              "price": 2,
+              "discounted_price": 2,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f1f6-9cbb-52dd-34095b1bb5c2",
+          "currency_code": "IDR",
+          "price": 23000,
+          "discounted_price": 23000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 10D 05GB",
+        "validity_days": 10,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1ff-03de-6614-17b7745adf42",
+              "price": 93000,
+              "discounted_price": 93000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f1ff-03de-6614-17b7745adf42",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f1ff-03de-6614-17b7745adf42",
+          "currency_code": "IDR",
+          "price": 93000,
+          "discounted_price": 93000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "South Korea 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f204-7c7e-d6c3-d344e0f769da",
+              "price": 145000,
+              "discounted_price": 145000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f204-7c7e-d6c3-d344e0f769da",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f204-7c7e-d6c3-d344e0f769da",
+          "currency_code": "IDR",
+          "price": 145000,
+          "discounted_price": 145000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8563-a625-0676-f8d22e1b2818",
+          "name": "South Korea",
+          "name_id": "Korea Selatan",
+          "code_iso_2": "KR",
+          "code_iso_3": "KOR",
+          "networks": [
+            {
+              "id": "01982df3-341a-224b-e6b4-4ae4209223e7",
+              "name": "SKTelecom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8563-a625-0676-f8d22e1b2818",
+          "name": "South Korea",
+          "name_id": "Korea Selatan",
+          "code_iso_2": "KR",
+          "code_iso_3": "KOR",
+          "networks": []
+        }
+      ]
+    }
+  }
+}
