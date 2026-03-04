@@ -5,6 +5,10 @@
 Run the development server:
 
 ```bash
+# install deps
+pnpm i
+
+# run app
 pnpm dev
 ```
 
@@ -13,42 +17,43 @@ result.
 
 ## Requirement
 
-[x] Next JS 14 – Pages Router
+- [x] Next JS 14 – Pages Router
 
-[x] React Hook Form
+- [x] React Hook Form
 
-[x] React Query (now known as TanstackQuery)
+- [x] React Query (now known as TanstackQuery)
 
-[x] Yup Form Validation
+- [x] Yup Form Validation
 
-[x] Typescript
+- [x] Typescript
 
-[ ] Vanilla Extract Styles – optional
+- [ ] Vanilla Extract Styles – optional
 
-[ ] Mantine CSS Components – optional
+- [ ] Mantine CSS Components – optional
 
-[x] ESLint & Prettier
+- [x] ESLint & Prettier
 
 ### Added Tech
 
-[x] TailwindCSS v4
+- [x] TailwindCSS v4
 
-[x] Shadcn/ui
+- [x] Shadcn/ui
 
 ## Features
 
 ### Must Have
 
-[ ] List all data plans available.
+- [ ] List all data plans available.
 
-[ ] Add data plans to cart along with the settings (e.g. plan activation date, quantity).
+- [ ] Add data plans to cart along with the settings
+  (e.g. plan activation date, quantity).
 
-[ ] Place an order for items in the cart.
+- [ ] Place an order for items in the cart.
 
-[ ] List all placed orders.
+- [ ] List all placed orders.
 
-[ ] View details of the placed order.
+- [ ] View details of the placed order.
 
 ### New Feature
 
-[] asdf
+- [ ] asdf
