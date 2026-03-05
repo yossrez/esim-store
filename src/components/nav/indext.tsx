@@ -46,9 +46,10 @@ const geistMono = localFont({
 
 export default function Nav() {
   const pathname = usePathname();
+
   return (
     <nav
-      className={`container mx-auto sticky top-0 bg-background ${geistSans.className} ${geistMono.className}`}
+      className={`container mx-auto sticky top-0 bg-background ${geistSans.variable} ${geistMono.variable} font-(family-name:--font-geist-mono)`}
     >
       <div className="flex max-md:justify-end justify-between items-center p-5 mx-5">
         <DesktopNav menu={navLinks} />

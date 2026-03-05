@@ -1,13 +1,16 @@
-import { AppRouterInstance } from "next/dist/shared/lib/app-router-context.shared-runtime";
-import { ReadonlyURLSearchParams } from "next/navigation";
-
-export default function setSearchParams(
+export function setSearchParams(
+  window: Window & typeof globalThis,
   key: string,
   value: string,
-  searchParams: ReadonlyURLSearchParams,
-  router: AppRouterInstance,
 ) {
-  const params = new URLSearchParams(searchParams.toString());
-  params.set(key, value);
-  router.push(`?${params.toString()}`);
+  const url = new URL(window.location.href);
+  url.searchParams.set(key, value);
+  window.history.pushState(null, "", url.toString());
+}
+
+export function getSearchParam(
+  window: Window & typeof globalThis,
+  key: string,
+) {
+  return new URL(window.location.href).searchParams.get(key);
 }

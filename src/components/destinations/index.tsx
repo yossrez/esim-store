@@ -1,19 +1,15 @@
-// "use client";
-
+import useCustomSearchParams from "@/lib/hooks/search-params-hook";
 import { useDestinationsQuery } from "@/network/api-hooks/query";
-import { useSearchParams } from "next/navigation";
-import DestinationFilter from "../filters/destination-filter";
 
 export default function Destinations() {
-  const searchParams = useSearchParams();
-  const filter = searchParams.get("filter");
+  const filter = useCustomSearchParams("filter");
+
   const { data, isLoading, isError } = useDestinationsQuery(filter);
 
-  if (isLoading) return <div>Loading...</div>;
-  if (isError) return <div>Error</div>;
   return (
     <div>
-      <DestinationFilter />
+      {isLoading && "Loading ..."}
+      {isError && "Error!"}
       {data?.data[filter ?? "populars"].map((dest) => (
         <div key={dest.id}>{dest.name}</div>
       ))}

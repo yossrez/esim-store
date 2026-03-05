@@ -32,7 +32,7 @@ export default function BottomDockPortal({ children }: BottomDockPortalProps) {
   return createPortal(
     <div
       style={styles.container}
-      className={`md:hidden ${geistSans.className} ${geistMono.className}`}
+      className={`md:hidden ${geistSans.variable} ${geistMono.variable} font-(family-name:--font-geist-mono)`}
     >
       {children}
     </div>,
