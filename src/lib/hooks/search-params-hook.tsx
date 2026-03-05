@@ -1,14 +1,18 @@
 import { useEffect, useState } from "react";
 import { getSearchParam } from "../search-params";
 
-export default function useCustomSearchParams(key: string): string | null {
+export default function useCustomSearchParams(
+  key: string,
+  fallback: string,
+): string {
   const [filter, setFilter] = useState<string | null>(null);
 
   useEffect(() => {
-    if (filter === null) setFilter(getSearchParam(window, key));
+    setFilter(getSearchParam(window, key) ?? fallback);
 
     const onLocationChange = () => {
-      setFilter(getSearchParam(window, key));
+      const param = getSearchParam(window, key);
+      if (param !== null) setFilter(param);
     };
 
     const pushState = history.pushState;
@@ -33,7 +37,7 @@ export default function useCustomSearchParams(key: string): string | null {
     return () => {
       window.removeEventListener("locationchange", onLocationChange);
     };
-  }, [key]);
+  }, [key, fallback]);
 
-  return filter;
+  return filter as string;
 }
