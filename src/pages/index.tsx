@@ -1,13 +1,11 @@
+import Destinations from "@/components/destinations";
 import BaseLayout from "@/components/layout/base-layout";
 import ContentLayout from "@/components/layout/content-layout";
 import Nav from "@/components/nav/indext";
 import { Button } from "@/components/ui/button";
-import { useProducts } from "@/network/api-hooks/query";
 import { Search } from "lucide-react";
 
 export default function PageMain() {
-  const { data, isLoading, isError } = useProducts();
-  console.log(isLoading, data, isError);
   return (
     <BaseLayout title="Home">
       <Nav />
@@ -16,7 +14,7 @@ export default function PageMain() {
           <div className="flex items-center justify-center mt-10 rounded-lg h-96 aspect-video w-full bg-[linear-gradient(to_bottom,rgba(15,23,42,0.95),rgba(15,23,42,0.6)),url('/assets/images/hero/hero-bg.jpg')] bg-cover bg-center bg-no-repeat">
             <div className="flex flex-col items-center justify-center gap-12 h-full w-full p-5">
               <h1 className="lg:text-5xl sm:text-4xl text-2xl text-center font-semibold text-white">
-                Find the best trave eSIM
+                Find the best travel eSIM
                 <br />
                 for your next trip
               </h1>
@@ -32,7 +30,7 @@ export default function PageMain() {
             </div>
           </div>
           <section>
-            <div></div>
+            <Destinations />
           </section>
         </main>
       </ContentLayout>

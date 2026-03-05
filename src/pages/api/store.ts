@@ -1,9 +1,10 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import fs from "fs";
-import { ProductResponse } from "../../types";
+import { PayloadJson } from "@/seed/types";
 
-const products: ProductResponse = { data: undefined };
+const products: PayloadJson = { data: undefined };
 
-function getInMemProducts(): ProductResponse {
+function getInMemProducts(): PayloadJson {
   if (products.data === undefined) {
     const data = JSON.parse(fs.readFileSync("src/seed/products.json", "utf8"));
     products.data = data.data;
