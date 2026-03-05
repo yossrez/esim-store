@@ -1,24 +1,29 @@
-import localFont from "next/font/local";
 import { Button } from "@/components/ui/button";
+import Image from "next/image";
+import vn from "@/assets/images/flags/vn.webp";
+import { useEffect, useState } from "react";
+import BaseLayout from "@/components/layout/base-layout";
+import ContentLayout from "@/components/layout/content-layout";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+export default function PageMain() {
+  const [data, setData] = useState();
+  useEffect(() => {
+    async function loadData() {
+      const res = await fetch("/api/products");
+      const json = await res.json();
+      setData(json);
+    }
 
-export default function Home() {
+    loadData();
+  }, []);
+  console.log(data);
   return (
-    <div
-      className={`${geistSans.variable} ${geistMono.variable} grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-(family-name:--font-geist-sans)`}
-    >
-      asdf
-      <Button onClick={() => console.log("shadcn")}>Click me</Button>
-    </div>
+    <BaseLayout title="Home">
+      <ContentLayout>
+        <div>asdf</div>
+        <Image alt="vn" src={vn} width={vn.width} priority={false} />
+        <Button onClick={() => console.log("shadcn")}>Click me</Button>
+      </ContentLayout>
+    </BaseLayout>
   );
 }

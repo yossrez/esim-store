@@ -38,12 +38,12 @@ async function getData(url, filepath) {
 
 // eslint-disable-next-line
 async function getProductPlans() {
-  const data = JSON.parse(fs.readFileSync("./products.json", "utf8"));
+  const data = JSON.parse(fs.readFileSync("src/seed/products.json", "utf8"));
   const total = data.data.countries.length;
   const countries = data.data.countries;
   while (success < total) {
     const v = countries[success];
-    await getData(apis.plans(v.slug), `./plans/${v.slug}.json`);
+    await getData(apis.plans(v.slug), `src/seed/plans/${v.slug}.json`);
     console.log(`Success --- ${success}/${total}`);
     console.log(`Retried --- ${retried}/${total}`);
     await randomWait(3_000, 10_000);

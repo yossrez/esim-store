@@ -46,7 +46,7 @@ result.
 - [ ] List all data plans available.
 
 - [ ] Add data plans to cart along with the settings
-  (e.g. plan activation date, quantity).
+      (e.g. plan activation date, quantity).
 
 - [ ] Place an order for items in the cart.
 

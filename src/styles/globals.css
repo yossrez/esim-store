@@ -135,3 +135,9 @@
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
 }
+
+#content-container {
+  display: grid;
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+  min-height: 93vh;
+}
