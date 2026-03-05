@@ -1,3 +1,9 @@
+import BaseLayout from "@/components/layout/base-layout";
+
 export default function PageCheckout() {
-  return <div></div>;
+  return (
+    <BaseLayout title="Checkout">
+      <div>Checkout</div>
+    </BaseLayout>
+  );
 }

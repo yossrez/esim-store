@@ -1,3 +1,9 @@
+import BaseLayout from "@/components/layout/base-layout";
+
 export default function PageCart() {
-  return <div></div>;
+  return (
+    <BaseLayout title="My Cart">
+      <div>Cart</div>
+    </BaseLayout>
+  );
 }

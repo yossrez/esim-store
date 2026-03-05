@@ -1,3 +1,9 @@
+import BaseLayout from "@/components/layout/base-layout";
+
 export default function PageStore() {
-  return <div>Store</div>;
+  return (
+    <BaseLayout title="Store">
+      <div>Store</div>;
+    </BaseLayout>
+  );
 }
