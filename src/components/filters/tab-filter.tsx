@@ -1,7 +1,7 @@
 import { Button } from "../ui/button";
 import { setSearchParams } from "@/lib/search-params";
 import { useRouter } from "next/router";
-import { useSearchParams } from "next/navigation";
+import { usePathname, useSearchParams } from "next/navigation";
 import useCustomSearchParams from "@/lib/hooks/custom-search-params";
 import { TabFilterProps } from "@/types/prop-types";
 
@@ -11,6 +11,7 @@ export default function TabFilter({
   fallback,
 }: TabFilterProps) {
   const searchParams = useSearchParams();
+  const pathname = usePathname();
   const router = useRouter();
   const active = useCustomSearchParams(paramKey, fallback);
 
@@ -18,16 +19,16 @@ export default function TabFilter({
     <div className="flex justify-center mt-9 mb-6">
       <div className="flex gap-3 px-5 bg-secondary py-1.5 rounded-lg">
         {filters.map((v) => {
-          const q = v.toLowerCase();
+          const val: string = v.toLowerCase().split(" ").join("-");
           return (
             <Button
-              key={q}
+              key={val}
               variant="ghost"
               onClick={() => {
-                setSearchParams(paramKey, q, searchParams, router);
+                setSearchParams(paramKey, val, pathname, searchParams, router);
               }}
               className={`hover:bg-accent-foreground hover:text-white
-                ${active === q ? "bg-accent-foreground text-white" : ""}`}
+                ${active === val ? "bg-accent-foreground text-white" : ""}`}
             >
               {v}
             </Button>

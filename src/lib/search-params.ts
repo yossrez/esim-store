@@ -4,12 +4,13 @@ import { NextRouter } from "next/router";
 export function setSearchParams(
   key: string,
   value: string,
+  pathname: string,
   searchParams: ReadonlyURLSearchParams,
   router: NextRouter,
 ) {
   const params = new URLSearchParams(searchParams.toString());
   params.set(key, value);
-  router.push(`?${params.toString()}`, undefined, {
+  router.push(`${pathname}?${params.toString()}`, undefined, {
     shallow: true,
     scroll: false,
   });

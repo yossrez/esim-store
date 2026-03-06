@@ -3,7 +3,7 @@ import fs from "fs";
 const token = process.env.KTOKEN;
 const origin = process.env.KORIGIN;
 const apis = {
-  products: `${origin}/api/user/products?token=${token}`,
+  destinations: `${origin}/api/user/products?token=${token}`,
   plans: (slug) => `${origin}/api/user/products/${slug}?token=${token}`,
 };
 
@@ -38,7 +38,9 @@ async function getData(url, filepath) {
 
 // eslint-disable-next-line
 async function getProductPlans() {
-  const data = JSON.parse(fs.readFileSync("src/seed/products.json", "utf8"));
+  const data = JSON.parse(
+    fs.readFileSync("src/seed/destinations.json", "utf8"),
+  );
   const total = data.data.countries.length;
   const countries = data.data.countries;
   while (success < total) {
@@ -57,7 +59,7 @@ const randomWait = (min, max) => {
 };
 
 async function main() {
-  // await getData(api.products, "./products.json");
+  // await getData(api.destinations, "src/seed/destinations.json");
   // await getProductPlans();
 }
 

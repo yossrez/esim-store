@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { getInMemProducts } from "./store";
+import { getInMemDestinations } from "./store";
 import {
   CountryDestination,
   DestinationData,
@@ -8,19 +8,20 @@ import {
 } from "../../types";
 import parseAliases from "@/lib/parse-aliases";
 
+const destFilters = ["regionals", "countries", "populars"];
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<HttpResponse<DestinationData> | HttpResponseError>,
 ) {
   try {
     const { filter } = req.query;
-    const data = getInMemProducts();
+    const data = getInMemDestinations();
     const resp: HttpResponse<DestinationData> = {
       data: {},
     };
 
     switch (filter) {
-      case "regionals":
+      case destFilters[0]:
         resp.data[filter] = [];
         // eslint-disable-next-line
         data.data[filter as keyof typeof data.data].forEach((v: any) => {
@@ -35,33 +36,24 @@ export default function handler(
           });
         });
         break;
-      case "countries":
-        resp.data[filter] = [];
-        // eslint-disable-next-line
-        data.data[filter as keyof typeof data.data].forEach((v: any) => {
-          const c_dest: CountryDestination = {
-            id: v.id,
-            is_saleable: v.is_saleable,
-            name: v.name,
-            slug: v.slug,
-            aliases: v.aliases,
-          };
-          resp.data.countries.push(c_dest);
-        });
-        break;
-      case "populars":
-        resp.data["populars"] = [];
-        // eslint-disable-next-line
-        data.data["populars" as keyof typeof data.data].forEach((v: any) => {
-          const c_dest: CountryDestination = {
-            id: v.id,
-            is_saleable: v.is_saleable,
-            name: v.name,
-            slug: v.slug,
-            aliases: v.aliases,
-          };
-          resp.data.populars.push(c_dest);
-        });
+      case destFilters[1]:
+      case destFilters[2]:
+        for (const dest of destFilters) {
+          if (filter !== dest) continue;
+
+          resp.data[dest] = [];
+          // eslint-disable-next-line
+          data.data[dest as keyof typeof data.data].forEach((v: any) => {
+            const c_dest: CountryDestination = {
+              id: v.id,
+              is_saleable: v.is_saleable,
+              name: v.name,
+              slug: v.slug,
+              aliases: v.aliases,
+            };
+            resp.data[dest].push(c_dest);
+          });
+        }
         break;
       default:
         return res.status(404).json({ error: "Not Found" });

@@ -30,3 +30,19 @@ export type CountryDestination = {
 export type ProductData = {
   name: string;
 };
+
+export type CartData = {
+  [key: string]: Cart[];
+};
+
+export type Cart = {
+  id: string;
+};
+
+export type OrderData = {
+  [key: string]: Order[];
+};
+
+export type Order = {
+  id: string;
+};
