@@ -12,7 +12,7 @@ export default function useCustomSearchParams(
 
     const onLocationChange = () => {
       const param = getSearchParam(window, key);
-      if (param !== null) setFilter(param);
+      setFilter(param === null ? fallback : param);
     };
 
     const pushState = history.pushState;

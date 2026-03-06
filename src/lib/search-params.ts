@@ -1,11 +1,17 @@
+import { ReadonlyURLSearchParams } from "next/navigation";
+import { NextRouter } from "next/router";
+
 export function setSearchParams(
-  window: Window & typeof globalThis,
   key: string,
   value: string,
+  searchParams: ReadonlyURLSearchParams,
+  router: NextRouter,
 ) {
-  const url = new URL(window.location.href);
-  url.searchParams.set(key, value);
-  window.history.pushState(null, "", url.toString());
+  const params = new URLSearchParams(searchParams.toString());
+  params.set(key, value);
+  router.push(`?${params.toString()}`, undefined, {
+    shallow: true,
+  });
 }
 
 export function getSearchParam(

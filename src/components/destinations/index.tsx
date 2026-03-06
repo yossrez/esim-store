@@ -1,4 +1,4 @@
-import useCustomSearchParams from "@/lib/hooks/search-params-hook";
+import useCustomSearchParams from "@/lib/hooks/custom-search-params";
 import { useDestinationsQuery } from "@/network/api-hooks/query";
 import { CountryDestination, RegionDestination } from "@/types";
 import Link from "next/link";
@@ -9,11 +9,17 @@ export default function Destinations() {
 
   const { data, isLoading, isError } = useDestinationsQuery(filter);
 
+  // useEffect(() => {
+  //   if (isError && (error as HTTPError).response.status === 404) {
+  //     router.replace("/not-found");
+  //   }
+  // }, [isError, error, router]);
+
   return (
     <div className="grid md:grid-cols-2 grid-cols-1 gap-3.5">
       {isLoading && "Loading ..."}
       {isError && "Error!"}
-      {data?.data[filter].map((dest) => (
+      {data?.data[filter]?.map((dest) => (
         <DestinationLink key={dest.id} data={dest} />
       ))}
     </div>

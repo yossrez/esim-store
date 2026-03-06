@@ -49,7 +49,7 @@ export default function handler(
           resp.data.countries.push(c_dest);
         });
         break;
-      default:
+      case "populars":
         resp.data["populars"] = [];
         // eslint-disable-next-line
         data.data["populars" as keyof typeof data.data].forEach((v: any) => {
@@ -63,6 +63,8 @@ export default function handler(
           resp.data.populars.push(c_dest);
         });
         break;
+      default:
+        return res.status(404).json({ error: "Not Found" });
     }
     res.status(200).json(resp);
     // eslint-disable-next-line

@@ -1,10 +1,14 @@
 import { Button } from "../ui/button";
 import { setSearchParams } from "@/lib/search-params";
-import useCustomSearchParams from "@/lib/hooks/search-params-hook";
+import { useRouter } from "next/router";
+import { useSearchParams } from "next/navigation";
+import useCustomSearchParams from "@/lib/hooks/custom-search-params";
 
 const filters = ["Populars", "Countries", "Regionals"];
 
 export default function DestinationFilter() {
+  const searchParams = useSearchParams();
+  const router = useRouter();
   const active = useCustomSearchParams("filter", filters[0].toLowerCase());
 
   return (
@@ -17,7 +21,7 @@ export default function DestinationFilter() {
               key={q}
               variant="ghost"
               onClick={() => {
-                setSearchParams(window, "filter", q);
+                setSearchParams("filter", q, searchParams, router);
               }}
               className={`hover:bg-accent-foreground hover:text-white
                 ${active === q ? "bg-accent-foreground text-white" : ""}`}
