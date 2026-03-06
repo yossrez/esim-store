@@ -38,7 +38,9 @@ export default function PageMain() {
             </div>
           </div>
           <section>
-            <TabFilter {...destinationTab} />
+            <div className="flex justify-center mt-9 mb-6">
+              <TabFilter {...destinationTab} />
+            </div>
             <Destinations
               paramKey={destinationTab.paramKey}
               fallback={destinationTab.fallback}

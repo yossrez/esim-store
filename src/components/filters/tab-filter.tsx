@@ -17,32 +17,30 @@ export default function TabFilter({
   const active = useCustomSearchParams(paramKey, fallback);
 
   return (
-    <div className="flex justify-center mt-9 mb-6">
-      <div className="flex gap-3 px-5 bg-secondary py-1.5 rounded-lg">
-        {filters.map((v) => {
-          const val: string = v.toLowerCase().split(" ").join("-");
-          return (
-            <Button
-              key={val}
-              variant="ghost"
-              onClick={() => {
-                setSearchParams(
-                  paramKey,
-                  val,
-                  pathname,
-                  searchParams,
-                  router,
-                  replace,
-                );
-              }}
-              className={`hover:bg-accent-foreground hover:text-white
+    <div className="flex gap-3 px-5 bg-secondary py-1.5 rounded-lg">
+      {filters.map((v) => {
+        const val: string = v.toLowerCase().split(" ").join("-");
+        return (
+          <Button
+            key={val}
+            variant="ghost"
+            onClick={() => {
+              setSearchParams(
+                paramKey,
+                val,
+                pathname,
+                searchParams,
+                router,
+                replace,
+              );
+            }}
+            className={`hover:bg-accent-foreground hover:text-white
                 ${active === val ? "bg-accent-foreground text-white" : ""}`}
-            >
-              {v}
-            </Button>
-          );
-        })}
-      </div>
+          >
+            {v}
+          </Button>
+        );
+      })}
     </div>
   );
 }

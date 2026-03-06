@@ -1,12 +1,16 @@
 import kyClient from "@/lib/ky-client";
-import { DestinationData, HttpResponse, ProductData } from "@/types";
+import { ApiFilter, DestinationData, HttpResponse, ProductData } from "@/types";
 import { useQuery } from "@tanstack/react-query";
 import { HTTPError } from "ky";
 
-async function getProducts(): Promise<HttpResponse<ProductData>> {
+async function getProducts(
+  filter?: ApiFilter,
+): Promise<HttpResponse<ProductData>> {
   try {
     const res = await kyClient
-      .get<HttpResponse<ProductData>>("products")
+      .get<
+        HttpResponse<ProductData>
+      >("products", { searchParams: filter !== null && typeof filter === "object" ? filter : {} })
       .json();
     return res;
   } catch (err) {
@@ -16,10 +20,18 @@ async function getProducts(): Promise<HttpResponse<ProductData>> {
     throw new Error(`Client Error: ${String(err)}`);
   }
 }
-export function useProductsQuery() {
+export function useProductsQuery(filter?: ApiFilter) {
   return useQuery<HttpResponse<ProductData>>({
-    queryKey: ["products"],
-    queryFn: getProducts,
+    queryKey: ["products", JSON.stringify(filter)],
+    queryFn: () => getProducts(filter),
+    enabled: () => {
+      if (filter !== null && typeof filter === "object") {
+        if (filter?.day || filter?.dataplan) {
+          return true;
+        }
+      }
+      return false;
+    },
   });
 }
 
@@ -27,10 +39,14 @@ async function getDestinations(
   filter?: string,
 ): Promise<HttpResponse<DestinationData>> {
   try {
+    const params: { [key: string]: string } = {};
+    if (filter) {
+      params["destination"] = filter;
+    }
     const res = await kyClient
       .get<
         HttpResponse<DestinationData>
-      >(`destinations${filter ? `?filter=${filter}` : null}`)
+      >("destinations", { searchParams: params })
       .json();
     return res;
   } catch (err) {
@@ -40,7 +56,7 @@ async function getDestinations(
     throw new Error(`Client Error: ${String(err)}`);
   }
 }
-export function useDestinationsQuery(filter?: string | null) {
+export function useDestinationsQuery(filter?: ApiFilter) {
   return useQuery<HttpResponse<DestinationData>>({
     queryKey: ["destinations", filter],
     queryFn: ({ queryKey }) => getDestinations(queryKey[1] as string),

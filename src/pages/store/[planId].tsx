@@ -7,22 +7,27 @@ import DataPlans from "@/components/plan/data-plans";
 import ActivationPolicy from "@/components/plan/activation-policy";
 import InfoSnackBar from "@/components/snacks/info-snack-bar";
 import PlanDetails from "@/components/plan/plan-details";
-import { TabFilterProps } from "@/types/prop-types";
 import TabFilter from "@/components/filters/tab-filter";
 import CartNav from "@/components/nav/cart-nav";
 import BottomDockPortal from "@/components/portal/bottom-dock-portal";
 import { Button } from "@/components/ui/button";
 import { PackagePlus } from "lucide-react";
-
-const dayTab: TabFilterProps = {
-  filters: ["Recommended", "1 Day", "3 Day"],
-  paramKey: "day",
-  fallback: "recommended",
-  replace: true,
-};
+import { useProductsQuery } from "@/network/api-hooks/query";
+import useFilterMemo from "@/lib/hooks/filter-memo";
+import {
+  dayTab,
+  fallbackPageDataPlanFilter,
+  pageDataPlanFilterKeys,
+} from "@/lib/const/dataplan-filter";
 
 export default function PageDataPlan() {
   const router = useRouter();
+  const filterMemo = useFilterMemo(
+    pageDataPlanFilterKeys,
+    fallbackPageDataPlanFilter,
+  );
+
+  const {} = useProductsQuery(filterMemo);
 
   return (
     <BaseLayout title="Choose Plan">
@@ -31,7 +36,13 @@ export default function PageDataPlan() {
           <div className="flex items-center gap-3 p-5">
             <button
               type="button"
-              onClick={router.back}
+              onClick={() => {
+                if (window.history.length > 1) {
+                  router.back();
+                } else {
+                  router.replace("/store");
+                }
+              }}
               className="cursor-pointer hover:bg-primary rounded-sm py-1 px-1.5 hover:text-white"
             >
               <ArrowLeft size={20} />
@@ -43,7 +54,9 @@ export default function PageDataPlan() {
           <CartNav />
         </div>
         <main>
-          <TabFilter {...dayTab} />
+          <div className="flex justify-center mt-9 mb-6">
+            <TabFilter {...dayTab} />
+          </div>
           <DataPlans />
           <ActivationPolicy />
           <PlanDetails />
@@ -54,7 +67,9 @@ export default function PageDataPlan() {
             <Button className="w-12">
               <PackagePlus />
             </Button>
-            <Button className="w-[calc(100%-50px)]">Buy Now</Button>
+            <Button className="w-[calc(100%-50px)] bg-active/90 hover:bg-active">
+              Buy Now
+            </Button>
           </div>
         </BottomDockPortal>
       </ContentLayout>

@@ -1,3 +1,9 @@
+import Title from "../ui/title";
+
 export default function ActivationPolicy() {
-  return <div>Activation Policy</div>;
+  return (
+    <div>
+      <Title>Activation Policy</Title>
+    </div>
+  );
 }

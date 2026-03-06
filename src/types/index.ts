@@ -6,6 +6,8 @@ export type HttpResponseError = {
   error: string;
 };
 
+export type ApiFilter = string | Record<string, string> | null;
+
 export type DestinationData = {
   [key: string]: (RegionDestination | CountryDestination)[];
 };

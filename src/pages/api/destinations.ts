@@ -14,17 +14,17 @@ export default function handler(
   res: NextApiResponse<HttpResponse<DestinationData> | HttpResponseError>,
 ) {
   try {
-    const { filter } = req.query;
+    const { destination } = req.query;
     const data = getInMemDestinations();
     const resp: HttpResponse<DestinationData> = {
       data: {},
     };
 
-    switch (filter) {
+    switch (destination) {
       case destFilters[0]:
-        resp.data[filter] = [];
+        resp.data[destination] = [];
         // eslint-disable-next-line
-        data.data[filter as keyof typeof data.data].forEach((v: any) => {
+        data.data[destination as keyof typeof data.data].forEach((v: any) => {
           const countries = parseAliases(v.aliases);
           resp.data.regionals.push({
             id: v.id,
@@ -39,7 +39,7 @@ export default function handler(
       case destFilters[1]:
       case destFilters[2]:
         for (const dest of destFilters) {
-          if (filter !== dest) continue;
+          if (destination !== dest) continue;
 
           resp.data[dest] = [];
           // eslint-disable-next-line
