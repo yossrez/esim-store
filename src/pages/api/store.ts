@@ -24,29 +24,34 @@ export function getInMemDestinations(): PayloadJson {
 }
 
 export function getInMemPlans(type: string, dest: string) {
-  let refData = undefined;
-  let valid = false;
-  switch (type) {
-    case "local":
-      valid = true;
-      refData = localPlans;
-      break;
-    case "regional":
-      valid = true;
-      refData = regionalPlans;
-      break;
+  try {
+    let refData = undefined;
+    let valid = false;
+    switch (type) {
+      case "local":
+        valid = true;
+        refData = localPlans;
+        break;
+      case "regional":
+        valid = true;
+        refData = regionalPlans;
+        break;
+    }
+
+    if (!valid) return null;
+
+    if (refData![dest] !== undefined) {
+      return refData![dest];
+    }
+
+    const json = JSON.parse(
+      fs.readFileSync(`src/seed/plans/${type}/${dest}.json`, "utf8"),
+    );
+    refData![dest] = json;
+
+    return json;
+  } catch (e) {
+    console.log(e);
+    return null;
   }
-
-  if (!valid) return null;
-
-  if (refData![dest] !== undefined) {
-    return refData![dest];
-  }
-
-  const json = JSON.parse(
-    fs.readFileSync(`src/seed/plans/${type}/${dest}.json`, "utf8"),
-  );
-  refData![dest] = json;
-
-  return json;
 }

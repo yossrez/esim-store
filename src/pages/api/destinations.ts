@@ -9,7 +9,7 @@ import {
 import parseAliases from "@/lib/parse-aliases";
 import { destinationTab } from "@/lib/const/destination-filter";
 
-const destFilters = destinationTab.filters;
+const destFilters = destinationTab.filters.map((v) => v.toLowerCase());
 
 export default function handler(
   req: NextApiRequest,
@@ -23,7 +23,7 @@ export default function handler(
     };
 
     switch (destination) {
-      case destFilters[0]:
+      case destFilters[2]:
         resp.data[destination] = [];
         // eslint-disable-next-line
         data.data[destination as keyof typeof data.data].forEach((v: any) => {
@@ -35,11 +35,12 @@ export default function handler(
             slug: v.slug,
             total_countries: v.total_countries,
             countries: countries,
+            scale: v.scale,
           });
         });
         break;
+      case destFilters[0]:
       case destFilters[1]:
-      case destFilters[2]:
         for (const dest of destFilters) {
           if (destination !== dest) continue;
 
@@ -52,6 +53,7 @@ export default function handler(
               name: v.name,
               slug: v.slug,
               aliases: v.aliases,
+              scale: v.scale,
             };
             resp.data[dest].push(c_dest);
           });

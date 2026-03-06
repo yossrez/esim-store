@@ -35,7 +35,9 @@ function DestinationLink({
   data: CountryDestination | RegionDestination;
 }) {
   return (
-    <Link href={`/store/${data.slug}`}>
+    <Link
+      href={`/store/${data.scale === "regional" ? "region-" + data.slug : data.slug}`}
+    >
       <div className="px-4 py-3.5 outline rounded-lg">{data.name}</div>
     </Link>
   );

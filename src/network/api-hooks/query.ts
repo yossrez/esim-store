@@ -4,13 +4,14 @@ import { useQuery } from "@tanstack/react-query";
 import { HTTPError } from "ky";
 
 async function getProducts(
+  slug: string,
   filter?: ApiFilter,
 ): Promise<HttpResponse<ProductData>> {
   try {
     const res = await kyClient
       .get<
         HttpResponse<ProductData>
-      >("products", { searchParams: filter !== null && typeof filter === "object" ? filter : {} })
+      >(`products/${slug}`, { searchParams: filter !== null && typeof filter === "object" ? filter : {} })
       .json();
     return res;
   } catch (err) {
@@ -20,11 +21,12 @@ async function getProducts(
     throw new Error(`Client Error: ${String(err)}`);
   }
 }
-export function useProductsQuery(filter?: ApiFilter) {
+export function useProductsQuery(slug: string, filter?: ApiFilter) {
   return useQuery<HttpResponse<ProductData>>({
-    queryKey: ["products", JSON.stringify(filter)],
-    queryFn: () => getProducts(filter),
+    queryKey: ["products", slug, JSON.stringify(filter)],
+    queryFn: () => getProducts(slug, filter),
     enabled: () => {
+      if (!slug) return false;
       if (filter !== null && typeof filter === "object") {
         if (filter?.day || filter?.dataplan) {
           return true;

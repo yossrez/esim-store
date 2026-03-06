@@ -1,6 +1,5 @@
 import BaseLayout from "@/components/layout/base-layout";
 import ContentLayout from "@/components/layout/content-layout";
-import { capitalizeFirstLetter } from "@/lib/utils";
 import { useRouter } from "next/router";
 import { ArrowLeft } from "lucide-react";
 import DataPlans from "@/components/plan/data-plans";
@@ -19,6 +18,8 @@ import {
   fallbackPageDataPlanFilter,
   pageDataPlanFilterKeys,
 } from "@/lib/const/dataplan-filter";
+import { useMemo } from "react";
+import { destNameMap } from "@/lib/const/dest-name-map";
 
 export default function PageDataPlan() {
   const router = useRouter();
@@ -27,7 +28,16 @@ export default function PageDataPlan() {
     fallbackPageDataPlanFilter,
   );
 
-  const {} = useProductsQuery(filterMemo);
+  const title = useMemo(() => {
+    if (router.query.planId === undefined) return "";
+    const r = (router.query.planId as string).split("region-");
+    if (r.length > 1) {
+      return destNameMap[r[1] as keyof typeof destNameMap];
+    }
+    return destNameMap[r[0] as keyof typeof destNameMap];
+  }, [router]);
+
+  const {} = useProductsQuery(router.query.planId as string, filterMemo);
 
   return (
     <BaseLayout title="Choose Plan">
@@ -47,9 +57,7 @@ export default function PageDataPlan() {
             >
               <ArrowLeft size={20} />
             </button>
-            <span className="text-xl font-semibold">
-              {capitalizeFirstLetter(router.query.planId as string)}
-            </span>
+            <span className="text-xl font-semibold">{title}</span>
           </div>
           <CartNav />
         </div>
