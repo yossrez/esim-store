@@ -4,13 +4,8 @@ import BaseLayout from "@/components/layout/base-layout";
 import ContentLayout from "@/components/layout/content-layout";
 import Nav from "@/components/nav/indext";
 import { Button } from "@/components/ui/button";
+import { destinationTab } from "@/lib/const/destination-filter";
 import { Search } from "lucide-react";
-
-const destinationTab = {
-  filters: ["Populars", "Countries", "Regionals"],
-  paramKey: "destination",
-  fallback: "populars",
-};
 
 export default function PageMain() {
   return (
@@ -41,10 +36,7 @@ export default function PageMain() {
             <div className="flex justify-center mt-9 mb-6">
               <TabFilter {...destinationTab} />
             </div>
-            <Destinations
-              paramKey={destinationTab.paramKey}
-              fallback={destinationTab.fallback}
-            />
+            <Destinations />
           </section>
         </main>
       </ContentLayout>

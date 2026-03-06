@@ -1,16 +1,14 @@
+import { destinationTab } from "@/lib/const/destination-filter";
 import useCustomSearchParams from "@/lib/hooks/custom-search-params";
 import { useDestinationsQuery } from "@/network/api-hooks/query";
 import { CountryDestination, RegionDestination } from "@/types";
 import Link from "next/link";
 
-export default function Destinations({
-  paramKey,
-  fallback,
-}: {
-  paramKey: string;
-  fallback: string;
-}) {
-  const filter = useCustomSearchParams(paramKey, fallback);
+export default function Destinations() {
+  const filter = useCustomSearchParams(
+    destinationTab.paramKey,
+    destinationTab.fallback,
+  );
 
   const { data, isLoading, isError } = useDestinationsQuery(filter);
 

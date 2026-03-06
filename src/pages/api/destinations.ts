@@ -7,8 +7,10 @@ import {
   HttpResponse,
 } from "../../types";
 import parseAliases from "@/lib/parse-aliases";
+import { destinationTab } from "@/lib/const/destination-filter";
 
-const destFilters = ["regionals", "countries", "populars"];
+const destFilters = destinationTab.filters;
+
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<HttpResponse<DestinationData> | HttpResponseError>,
