@@ -1,0 +1,1744 @@
+{
+  "data": {
+    "id": "019000de-f78e-c822-4bdd-754dd79780cb",
+    "name": "Latin America",
+    "name_id": "Amerika Latin",
+    "slug": "latin-america",
+    "description": "",
+    "description_id": "",
+    "scale": "regional",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "LATAM",
+    "total_countries": 12,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G and 4G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Latin America 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-1117-e817-c0af-360b11c4fbc7",
+              "price": 702000,
+              "discounted_price": 702000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-1117-e817-c0af-360b11c4fbc7",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-1117-e817-c0af-360b11c4fbc7",
+          "currency_code": "IDR",
+          "price": 702000,
+          "discounted_price": 702000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-13d9-9429-5cc8-d21c20cda3e5",
+              "price": 702000,
+              "discounted_price": 702000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-13d9-9429-5cc8-d21c20cda3e5",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-13d9-9429-5cc8-d21c20cda3e5",
+          "currency_code": "IDR",
+          "price": 702000,
+          "discounted_price": 702000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-21a6-d4b5-15fd-1c20883be41a",
+              "price": 437000,
+              "discounted_price": 437000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-21a6-d4b5-15fd-1c20883be41a",
+              "price": 28,
+              "discounted_price": 28,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-21a6-d4b5-15fd-1c20883be41a",
+          "currency_code": "IDR",
+          "price": 437000,
+          "discounted_price": 437000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-2890-a949-2c75-1db6e4784f75",
+              "price": 1373000,
+              "discounted_price": 1373000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-2890-a949-2c75-1db6e4784f75",
+              "price": 88,
+              "discounted_price": 88,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-2890-a949-2c75-1db6e4784f75",
+          "currency_code": "IDR",
+          "price": 1373000,
+          "discounted_price": 1373000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D FUP0.5GB BASIC",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-7b28-aef2-270c-013be0b86059",
+              "price": 258000,
+              "discounted_price": 258000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-7b28-aef2-270c-013be0b86059",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-7b28-aef2-270c-013be0b86059",
+          "currency_code": "IDR",
+          "price": 258000,
+          "discounted_price": 258000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D FUP1GB PRO",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-9120-088b-85b2-6b8134b445f6",
+              "price": 414000,
+              "discounted_price": 414000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-9120-088b-85b2-6b8134b445f6",
+              "price": 26.5,
+              "discounted_price": 26.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-9120-088b-85b2-6b8134b445f6",
+          "currency_code": "IDR",
+          "price": 414000,
+          "discounted_price": 414000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D FUP2GB ELITE",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-9f28-551e-3bb8-0366e851d157",
+              "price": 702000,
+              "discounted_price": 702000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-9f28-551e-3bb8-0366e851d157",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-9f28-551e-3bb8-0366e851d157",
+          "currency_code": "IDR",
+          "price": 702000,
+          "discounted_price": 702000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D 03GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-b6ab-d82f-fa38-20acb9c400f3",
+              "price": 234000,
+              "discounted_price": 234000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-b6ab-d82f-fa38-20acb9c400f3",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-b6ab-d82f-fa38-20acb9c400f3",
+          "currency_code": "IDR",
+          "price": 234000,
+          "discounted_price": 234000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D 05GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-c877-c12a-cdec-ac53348d7d09",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-c877-c12a-cdec-ac53348d7d09",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-c877-c12a-cdec-ac53348d7d09",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D 10GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-cf3d-3be3-19cc-14b915e25396",
+              "price": 523000,
+              "discounted_price": 523000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-cf3d-3be3-19cc-14b915e25396",
+              "price": 33.5,
+              "discounted_price": 33.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-cf3d-3be3-19cc-14b915e25396",
+          "currency_code": "IDR",
+          "price": 523000,
+          "discounted_price": 523000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D 20GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-dafa-4b15-94a2-78c8b0e368c6",
+              "price": 929000,
+              "discounted_price": 929000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-dafa-4b15-94a2-78c8b0e368c6",
+              "price": 59.5,
+              "discounted_price": 59.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-dafa-4b15-94a2-78c8b0e368c6",
+          "currency_code": "IDR",
+          "price": 929000,
+          "discounted_price": 929000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D 30GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-e1d0-9b31-175b-92dfa7e4678e",
+              "price": 1241000,
+              "discounted_price": 1241000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-e1d0-9b31-175b-92dfa7e4678e",
+              "price": 79.5,
+              "discounted_price": 79.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-e1d0-9b31-175b-92dfa7e4678e",
+          "currency_code": "IDR",
+          "price": 1241000,
+          "discounted_price": 1241000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-e712-c4e6-310f-45603ecc9427",
+              "price": 125000,
+              "discounted_price": 125000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-e712-c4e6-310f-45603ecc9427",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-e712-c4e6-310f-45603ecc9427",
+          "currency_code": "IDR",
+          "price": 125000,
+          "discounted_price": 125000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-eaf3-94f6-d145-1c07a73da39c",
+              "price": 266000,
+              "discounted_price": 266000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-eaf3-94f6-d145-1c07a73da39c",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-eaf3-94f6-d145-1c07a73da39c",
+          "currency_code": "IDR",
+          "price": 266000,
+          "discounted_price": 266000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-f1e9-e3d0-69d6-0a83c176a3f8",
+              "price": 1280000,
+              "discounted_price": 1280000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-f1e9-e3d0-69d6-0a83c176a3f8",
+              "price": 82,
+              "discounted_price": 82,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-f1e9-e3d0-69d6-0a83c176a3f8",
+          "currency_code": "IDR",
+          "price": 1280000,
+          "discounted_price": 1280000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D 03GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-06c0-61f9-8cbe-79e57f10859b",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-06c0-61f9-8cbe-79e57f10859b",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-06c0-61f9-8cbe-79e57f10859b",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-0f31-a7bc-3bf8-d45019a8a4f8",
+              "price": 2036000,
+              "discounted_price": 2036000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-0f31-a7bc-3bf8-d45019a8a4f8",
+              "price": 130.5,
+              "discounted_price": 130.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-0f31-a7bc-3bf8-d45019a8a4f8",
+          "currency_code": "IDR",
+          "price": 2036000,
+          "discounted_price": 2036000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-33e7-e29a-ef46-e47f890bb2b1",
+              "price": 1724000,
+              "discounted_price": 1724000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-33e7-e29a-ef46-e47f890bb2b1",
+              "price": 110.5,
+              "discounted_price": 110.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-33e7-e29a-ef46-e47f890bb2b1",
+          "currency_code": "IDR",
+          "price": 1724000,
+          "discounted_price": 1724000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-41e9-e5e4-6b87-717c95666849",
+              "price": 2442000,
+              "discounted_price": 2442000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-41e9-e5e4-6b87-717c95666849",
+              "price": 156.5,
+              "discounted_price": 156.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-41e9-e5e4-6b87-717c95666849",
+          "currency_code": "IDR",
+          "price": 2442000,
+          "discounted_price": 2442000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-1aac-a239-1e29-2fab0727d5e7",
+              "price": 1170000,
+              "discounted_price": 1170000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-1aac-a239-1e29-2fab0727d5e7",
+              "price": 75,
+              "discounted_price": 75,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-1aac-a239-1e29-2fab0727d5e7",
+          "currency_code": "IDR",
+          "price": 1170000,
+          "discounted_price": 1170000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-1c97-eef3-dca7-4148d542c3db",
+              "price": 2036000,
+              "discounted_price": 2036000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-1c97-eef3-dca7-4148d542c3db",
+              "price": 130.5,
+              "discounted_price": 130.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-1c97-eef3-dca7-4148d542c3db",
+          "currency_code": "IDR",
+          "price": 2036000,
+          "discounted_price": 2036000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-2ea2-66cc-1bd6-1c4bc6b5938c",
+              "price": 4041000,
+              "discounted_price": 4041000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-2ea2-66cc-1bd6-1c4bc6b5938c",
+              "price": 259,
+              "discounted_price": 259,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-2ea2-66cc-1bd6-1c4bc6b5938c",
+          "currency_code": "IDR",
+          "price": 4041000,
+          "discounted_price": 4041000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 30D 05GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-328f-7c95-4e20-839f5896bb46",
+              "price": 484000,
+              "discounted_price": 484000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-328f-7c95-4e20-839f5896bb46",
+              "price": 31,
+              "discounted_price": 31,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-328f-7c95-4e20-839f5896bb46",
+          "currency_code": "IDR",
+          "price": 484000,
+          "discounted_price": 484000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-36b0-9749-50c0-76b8e3551a38",
+              "price": 929000,
+              "discounted_price": 929000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-36b0-9749-50c0-76b8e3551a38",
+              "price": 59.5,
+              "discounted_price": 59.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-36b0-9749-50c0-76b8e3551a38",
+          "currency_code": "IDR",
+          "price": 929000,
+          "discounted_price": 929000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-fd6b-8528-bf47-77e2e87c2e42",
+              "price": 968000,
+              "discounted_price": 968000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-fd6b-8528-bf47-77e2e87c2e42",
+              "price": 62,
+              "discounted_price": 62,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd8-fd6b-8528-bf47-77e2e87c2e42",
+          "currency_code": "IDR",
+          "price": 968000,
+          "discounted_price": 968000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-ff5c-7136-d8d8-d53445412cea",
+              "price": 390000,
+              "discounted_price": 390000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-ff5c-7136-d8d8-d53445412cea",
+              "price": 25,
+              "discounted_price": 25,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd8-ff5c-7136-d8d8-d53445412cea",
+          "currency_code": "IDR",
+          "price": 390000,
+          "discounted_price": 390000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-23a9-619d-2a64-ce61f986d58e",
+              "price": 796000,
+              "discounted_price": 796000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-23a9-619d-2a64-ce61f986d58e",
+              "price": 51,
+              "discounted_price": 51,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd9-23a9-619d-2a64-ce61f986d58e",
+          "currency_code": "IDR",
+          "price": 796000,
+          "discounted_price": 796000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-f575-5cc5-849c-19035ff003dd",
+              "price": 351000,
+              "discounted_price": 351000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-f575-5cc5-849c-19035ff003dd",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd8-f575-5cc5-849c-19035ff003dd",
+          "currency_code": "IDR",
+          "price": 351000,
+          "discounted_price": 351000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-f968-0752-9dc1-8b7424edd881",
+              "price": 570000,
+              "discounted_price": 570000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd8-f968-0752-9dc1-8b7424edd881",
+              "price": 36.5,
+              "discounted_price": 36.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd8-f968-0752-9dc1-8b7424edd881",
+          "currency_code": "IDR",
+          "price": 570000,
+          "discounted_price": 570000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 07D 30GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-f56e-a38f-dae0-b1f1b912950f",
+              "price": 1771000,
+              "discounted_price": 1771000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-f56e-a38f-dae0-b1f1b912950f",
+              "price": 113.5,
+              "discounted_price": 113.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-f56e-a38f-dae0-b1f1b912950f",
+          "currency_code": "IDR",
+          "price": 1771000,
+          "discounted_price": 1771000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-0a67-1f6a-bb8c-a4cb93a0e73a",
+              "price": 1459000,
+              "discounted_price": 1459000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-0a67-1f6a-bb8c-a4cb93a0e73a",
+              "price": 93.5,
+              "discounted_price": 93.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-0a67-1f6a-bb8c-a4cb93a0e73a",
+          "currency_code": "IDR",
+          "price": 1459000,
+          "discounted_price": 1459000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 05D 01GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-92c6-7f24-edd0-d159b4303aa5",
+              "price": 117000,
+              "discounted_price": 117000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-92c6-7f24-edd0-d159b4303aa5",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-92c6-7f24-edd0-d159b4303aa5",
+          "currency_code": "IDR",
+          "price": 117000,
+          "discounted_price": 117000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Latin America 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-2a88-02cf-7be4-1096ec4f1603",
+              "price": 2301000,
+              "discounted_price": 2301000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-2a88-02cf-7be4-1096ec4f1603",
+              "price": 147.5,
+              "discounted_price": 147.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-2a88-02cf-7be4-1096ec4f1603",
+          "currency_code": "IDR",
+          "price": 2301000,
+          "discounted_price": 2301000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8090-1100-15f0-d1a4a3c40bf6",
+          "name": "Argentina",
+          "name_id": "Argentina",
+          "code_iso_2": "AR",
+          "code_iso_3": "ARG",
+          "networks": [
+            {
+              "id": "01907c58-2bf4-e016-adfa-cb843be6e8d2",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80c4-9487-1486-186860cd8e78",
+          "name": "Brazil",
+          "name_id": "Brasil",
+          "code_iso_2": "BR",
+          "code_iso_3": "BRA",
+          "networks": [
+            {
+              "id": "01907c58-2d00-01fd-b616-2fa7abdb22b2",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8102-2863-28e6-88b15b84e725",
+          "name": "Chile",
+          "name_id": "Chili",
+          "code_iso_2": "CL",
+          "code_iso_3": "CHL",
+          "networks": [
+            {
+              "id": "01907c58-2de5-b641-3172-fcb663fbd467",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-812e-d995-82b5-54eb0ab13add",
+          "name": "Colombia",
+          "name_id": "Kolombia",
+          "code_iso_2": "CO",
+          "code_iso_3": "COL",
+          "networks": [
+            {
+              "id": "01907c58-2e14-5f26-06c8-0fca03b4c656",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8151-2cc2-85c3-4dbb3b165f15",
+          "name": "Costa Rica",
+          "name_id": "Kosta Rika",
+          "code_iso_2": "CR",
+          "code_iso_3": "CRI",
+          "networks": [
+            {
+              "id": "01907c58-2e31-7973-1192-4dd4adaa5ad1",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81be-a382-5b41-74d78c3808ad",
+          "name": "French Guiana",
+          "name_id": "Guyana Prancis",
+          "code_iso_2": "GF",
+          "code_iso_3": "GUF",
+          "networks": [
+            {
+              "id": "01907c58-cffc-57ac-5595-6596b6bab485",
+              "name": "Digicel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8203-8026-9fb3-11f1d7f18011",
+          "name": "Guatemala",
+          "name_id": "Guatemala",
+          "code_iso_2": "GT",
+          "code_iso_3": "GTM",
+          "networks": [
+            {
+              "id": "01907c58-2feb-5521-4f9a-06d67e706fa8",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-822d-2d96-7d92-612cfafd6004",
+          "name": "Honduras",
+          "name_id": "Honduras",
+          "code_iso_2": "HN",
+          "code_iso_3": "HND",
+          "networks": [
+            {
+              "id": "01907c58-3071-b21d-0463-dd4bddbc3346",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8346-1041-951b-ea8d556ea797",
+          "name": "Mexico",
+          "name_id": "Meksiko",
+          "code_iso_2": "MX",
+          "code_iso_3": "MEX",
+          "networks": [
+            {
+              "id": "01907c58-33f4-ef1a-cf86-703629f5c902",
+              "name": "Telcel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-843b-8887-91d7-87e578bf1deb",
+          "name": "Paraguay",
+          "name_id": "Paraguay",
+          "code_iso_2": "PY",
+          "code_iso_3": "PRY",
+          "networks": [
+            {
+              "id": "01907c58-356b-2802-d874-182d453e5e64",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8444-7383-7837-dcd5c1eac4db",
+          "name": "Peru",
+          "name_id": "Peru",
+          "code_iso_2": "PE",
+          "code_iso_3": "PER",
+          "networks": [
+            {
+              "id": "01907c58-357f-b5db-98c2-f7af3841dafc",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8693-fa17-5399-af381cbe603a",
+          "name": "Uruguay",
+          "name_id": "Uruguay",
+          "code_iso_2": "UY",
+          "code_iso_3": "URY",
+          "networks": [
+            {
+              "id": "01907c58-38c3-d706-0881-7fb175a2412c",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8090-1100-15f0-d1a4a3c40bf6",
+          "name": "Argentina",
+          "name_id": "Argentina",
+          "code_iso_2": "AR",
+          "code_iso_3": "ARG",
+          "networks": [
+            {
+              "id": "01907c58-2bf4-e016-adfa-cb843be6e8d2",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80c4-9487-1486-186860cd8e78",
+          "name": "Brazil",
+          "name_id": "Brasil",
+          "code_iso_2": "BR",
+          "code_iso_3": "BRA",
+          "networks": [
+            {
+              "id": "01907c58-2d00-01fd-b616-2fa7abdb22b2",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8102-2863-28e6-88b15b84e725",
+          "name": "Chile",
+          "name_id": "Chili",
+          "code_iso_2": "CL",
+          "code_iso_3": "CHL",
+          "networks": [
+            {
+              "id": "01907c58-2de5-b641-3172-fcb663fbd467",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-812e-d995-82b5-54eb0ab13add",
+          "name": "Colombia",
+          "name_id": "Kolombia",
+          "code_iso_2": "CO",
+          "code_iso_3": "COL",
+          "networks": [
+            {
+              "id": "01907c58-2e14-5f26-06c8-0fca03b4c656",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8151-2cc2-85c3-4dbb3b165f15",
+          "name": "Costa Rica",
+          "name_id": "Kosta Rika",
+          "code_iso_2": "CR",
+          "code_iso_3": "CRI",
+          "networks": [
+            {
+              "id": "01907c58-2e31-7973-1192-4dd4adaa5ad1",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81be-a382-5b41-74d78c3808ad",
+          "name": "French Guiana",
+          "name_id": "Guyana Prancis",
+          "code_iso_2": "GF",
+          "code_iso_3": "GUF",
+          "networks": [
+            {
+              "id": "01907c58-cffc-57ac-5595-6596b6bab485",
+              "name": "Digicel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8203-8026-9fb3-11f1d7f18011",
+          "name": "Guatemala",
+          "name_id": "Guatemala",
+          "code_iso_2": "GT",
+          "code_iso_3": "GTM",
+          "networks": [
+            {
+              "id": "01907c58-2feb-5521-4f9a-06d67e706fa8",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-822d-2d96-7d92-612cfafd6004",
+          "name": "Honduras",
+          "name_id": "Honduras",
+          "code_iso_2": "HN",
+          "code_iso_3": "HND",
+          "networks": [
+            {
+              "id": "01907c58-3071-b21d-0463-dd4bddbc3346",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8346-1041-951b-ea8d556ea797",
+          "name": "Mexico",
+          "name_id": "Meksiko",
+          "code_iso_2": "MX",
+          "code_iso_3": "MEX",
+          "networks": [
+            {
+              "id": "01907c58-33f4-ef1a-cf86-703629f5c902",
+              "name": "Telcel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-843b-8887-91d7-87e578bf1deb",
+          "name": "Paraguay",
+          "name_id": "Paraguay",
+          "code_iso_2": "PY",
+          "code_iso_3": "PRY",
+          "networks": [
+            {
+              "id": "01907c58-356b-2802-d874-182d453e5e64",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8444-7383-7837-dcd5c1eac4db",
+          "name": "Peru",
+          "name_id": "Peru",
+          "code_iso_2": "PE",
+          "code_iso_3": "PER",
+          "networks": [
+            {
+              "id": "01907c58-357f-b5db-98c2-f7af3841dafc",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8693-fa17-5399-af381cbe603a",
+          "name": "Uruguay",
+          "name_id": "Uruguay",
+          "code_iso_2": "UY",
+          "code_iso_3": "URY",
+          "networks": [
+            {
+              "id": "01907c58-38c3-d706-0881-7fb175a2412c",
+              "name": "Claro",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

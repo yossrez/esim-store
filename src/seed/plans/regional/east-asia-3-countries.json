@@ -1,0 +1,1438 @@
+{
+  "data": {
+    "id": "0199a461-5f77-1768-011a-b68cd92e2541",
+    "name": "East Asia (3 Countries)",
+    "name_id": "Asia Timur (3 Negara)",
+    "slug": "east-asia-3-countries",
+    "description": null,
+    "description_id": null,
+    "scale": "regional",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "EASTASIA",
+    "total_countries": 3,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "East Asia (3 Countries) 07D 30GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662b-aa6d-e87f-0c95c00e6519",
+              "price": 280000,
+              "discounted_price": 280000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662b-aa6d-e87f-0c95c00e6519",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-662b-aa6d-e87f-0c95c00e6519",
+          "currency_code": "IDR",
+          "price": 280000,
+          "discounted_price": 280000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D 03GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662c-24bd-07c3-d6744a4a71a4",
+              "price": 60000,
+              "discounted_price": 60000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662c-24bd-07c3-d6744a4a71a4",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-662c-24bd-07c3-d6744a4a71a4",
+          "currency_code": "IDR",
+          "price": 60000,
+          "discounted_price": 60000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662d-2fe1-d30b-65bdc6b4237f",
+              "price": 89000,
+              "discounted_price": 89000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662d-2fe1-d30b-65bdc6b4237f",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-662d-2fe1-d30b-65bdc6b4237f",
+          "currency_code": "IDR",
+          "price": 89000,
+          "discounted_price": 89000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662f-bd53-a844-c79efd45849e",
+              "price": 286000,
+              "discounted_price": 286000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662f-bd53-a844-c79efd45849e",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-662f-bd53-a844-c79efd45849e",
+          "currency_code": "IDR",
+          "price": 286000,
+          "discounted_price": 286000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6630-3c96-f118-cffbbbc67cd1",
+              "price": 363000,
+              "discounted_price": 363000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6630-3c96-f118-cffbbbc67cd1",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6630-3c96-f118-cffbbbc67cd1",
+          "currency_code": "IDR",
+          "price": 363000,
+          "discounted_price": 363000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663d-daee-0731-f35ca88371d3",
+              "price": 268000,
+              "discounted_price": 268000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663d-daee-0731-f35ca88371d3",
+              "price": 18.5,
+              "discounted_price": 18.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-663d-daee-0731-f35ca88371d3",
+          "currency_code": "IDR",
+          "price": 268000,
+          "discounted_price": 268000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663e-f22d-019e-f51852fd59bf",
+              "price": 426000,
+              "discounted_price": 426000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663e-f22d-019e-f51852fd59bf",
+              "price": 29,
+              "discounted_price": 29,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-663e-f22d-019e-f51852fd59bf",
+          "currency_code": "IDR",
+          "price": 426000,
+          "discounted_price": 426000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663f-991c-c1c9-b28f6e2d046d",
+              "price": 741000,
+              "discounted_price": 741000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663f-991c-c1c9-b28f6e2d046d",
+              "price": 50,
+              "discounted_price": 50,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-663f-991c-c1c9-b28f6e2d046d",
+          "currency_code": "IDR",
+          "price": 741000,
+          "discounted_price": 741000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 30D 05GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6631-a274-c635-0e3231d8d4b4",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6631-a274-c635-0e3231d8d4b4",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6631-a274-c635-0e3231d8d4b4",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6632-2ca5-fea4-60bad7c45fc1",
+              "price": 164000,
+              "discounted_price": 164000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6632-2ca5-fea4-60bad7c45fc1",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6632-2ca5-fea4-60bad7c45fc1",
+          "currency_code": "IDR",
+          "price": 164000,
+          "discounted_price": 164000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6633-e540-b4e9-06d8f9853a62",
+              "price": 303000,
+              "discounted_price": 303000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6633-e540-b4e9-06d8f9853a62",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6633-e540-b4e9-06d8f9853a62",
+          "currency_code": "IDR",
+          "price": 303000,
+          "discounted_price": 303000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6634-5b45-9ce8-0b677f146c31",
+              "price": 400000,
+              "discounted_price": 400000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6634-5b45-9ce8-0b677f146c31",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6634-5b45-9ce8-0b677f146c31",
+          "currency_code": "IDR",
+          "price": 400000,
+          "discounted_price": 400000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D FUP0.5GB BASIC",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6635-c807-9609-cfcdfebffd3b",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6635-c807-9609-cfcdfebffd3b",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6635-c807-9609-cfcdfebffd3b",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D FUP1GB PRO",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6636-4a77-17a1-0c6f61d96bc9",
+              "price": 78000,
+              "discounted_price": 78000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6636-4a77-17a1-0c6f61d96bc9",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6636-4a77-17a1-0c6f61d96bc9",
+          "currency_code": "IDR",
+          "price": 78000,
+          "discounted_price": 78000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D FUP2GB ELITE",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6637-89cb-f093-e74b379a1edc",
+              "price": 129000,
+              "discounted_price": 129000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6637-89cb-f093-e74b379a1edc",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6637-89cb-f093-e74b379a1edc",
+          "currency_code": "IDR",
+          "price": 129000,
+          "discounted_price": 129000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6629-c3e8-ab3a-78ac3fd580bf",
+              "price": 77000,
+              "discounted_price": 77000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6629-c3e8-ab3a-78ac3fd580bf",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6629-c3e8-ab3a-78ac3fd580bf",
+          "currency_code": "IDR",
+          "price": 77000,
+          "discounted_price": 77000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-662e-2196-c284-76d9adb19fe1",
+              "price": 155000,
+              "discounted_price": 155000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-662e-2196-c284-76d9adb19fe1",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-662e-2196-c284-76d9adb19fe1",
+          "currency_code": "IDR",
+          "price": 155000,
+          "discounted_price": 155000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D 01GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6621-72d7-b2b8-5c6756073384",
+              "price": 30000,
+              "discounted_price": 30000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6621-72d7-b2b8-5c6756073384",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6621-72d7-b2b8-5c6756073384",
+          "currency_code": "IDR",
+          "price": 30000,
+          "discounted_price": 30000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D 03GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6622-cedf-9088-e402fb4e0d0c",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6622-cedf-9088-e402fb4e0d0c",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6622-cedf-9088-e402fb4e0d0c",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D 05GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6623-b2ba-89ea-c1a9799f176c",
+              "price": 74000,
+              "discounted_price": 74000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6623-b2ba-89ea-c1a9799f176c",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6623-b2ba-89ea-c1a9799f176c",
+          "currency_code": "IDR",
+          "price": 74000,
+          "discounted_price": 74000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D 10GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6624-e6b6-5e1e-2525e7b8d191",
+              "price": 136000,
+              "discounted_price": 136000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6624-e6b6-5e1e-2525e7b8d191",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6624-e6b6-5e1e-2525e7b8d191",
+          "currency_code": "IDR",
+          "price": 136000,
+          "discounted_price": 136000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D 20GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6625-7fc5-f0c6-275a4ece2f18",
+              "price": 199000,
+              "discounted_price": 199000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6625-7fc5-f0c6-275a4ece2f18",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6625-7fc5-f0c6-275a4ece2f18",
+          "currency_code": "IDR",
+          "price": 199000,
+          "discounted_price": 199000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 05D 30GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6626-6015-854c-2ee1f2d8e0ae",
+              "price": 278000,
+              "discounted_price": 278000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6626-6015-854c-2ee1f2d8e0ae",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6626-6015-854c-2ee1f2d8e0ae",
+          "currency_code": "IDR",
+          "price": 278000,
+          "discounted_price": 278000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6627-8058-d158-bb4c6f3cdf2e",
+              "price": 32000,
+              "discounted_price": 32000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6627-8058-d158-bb4c6f3cdf2e",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6627-8058-d158-bb4c6f3cdf2e",
+          "currency_code": "IDR",
+          "price": 32000,
+          "discounted_price": 32000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6628-7322-feb1-d69c6d2a2c07",
+              "price": 58000,
+              "discounted_price": 58000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6628-7322-feb1-d69c6d2a2c07",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6628-7322-feb1-d69c6d2a2c07",
+          "currency_code": "IDR",
+          "price": 58000,
+          "discounted_price": 58000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662a-53fb-7fb5-8b4083b11382",
+              "price": 139000,
+              "discounted_price": 139000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662a-53fb-7fb5-8b4083b11382",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-662a-53fb-7fb5-8b4083b11382",
+          "currency_code": "IDR",
+          "price": 139000,
+          "discounted_price": 139000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662b-aa6d-e87f-0c95c00e6514",
+              "price": 210000,
+              "discounted_price": 210000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-662b-aa6d-e87f-0c95c00e6514",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-662b-aa6d-e87f-0c95c00e6514",
+          "currency_code": "IDR",
+          "price": 210000,
+          "discounted_price": 210000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6638-edd7-b1f3-4379ba692b2b",
+              "price": 67000,
+              "discounted_price": 67000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6638-edd7-b1f3-4379ba692b2b",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6638-edd7-b1f3-4379ba692b2b",
+          "currency_code": "IDR",
+          "price": 67000,
+          "discounted_price": 67000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6638-edd7-b1f3-4379ba692b30",
+              "price": 104000,
+              "discounted_price": 104000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6638-edd7-b1f3-4379ba692b30",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6638-edd7-b1f3-4379ba692b30",
+          "currency_code": "IDR",
+          "price": 104000,
+          "discounted_price": 104000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663b-8692-bc5f-f3f2075197ae",
+              "price": 137000,
+              "discounted_price": 137000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663b-8692-bc5f-f3f2075197ae",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-663b-8692-bc5f-f3f2075197ae",
+          "currency_code": "IDR",
+          "price": 137000,
+          "discounted_price": 137000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663b-8692-bc5f-f3f2075197b3",
+              "price": 216000,
+              "discounted_price": 216000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663b-8692-bc5f-f3f2075197b3",
+              "price": 15,
+              "discounted_price": 15,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-663b-8692-bc5f-f3f2075197b3",
+          "currency_code": "IDR",
+          "price": 216000,
+          "discounted_price": 216000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663c-4131-712f-3eab557a71c8",
+              "price": 373000,
+              "discounted_price": 373000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-663c-4131-712f-3eab557a71c8",
+              "price": 25.5,
+              "discounted_price": 25.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-663c-4131-712f-3eab557a71c8",
+          "currency_code": "IDR",
+          "price": 373000,
+          "discounted_price": 373000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "East Asia (3 Countries) 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6639-a8b9-795f-7c90c49685f1",
+              "price": 178000,
+              "discounted_price": 178000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6639-a8b9-795f-7c90c49685f1",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6639-a8b9-795f-7c90c49685f1",
+          "currency_code": "IDR",
+          "price": 178000,
+          "discounted_price": 178000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8111-e6e7-ccff-cfdf28c97499",
+          "name": "China",
+          "name_id": "Cina",
+          "code_iso_2": "CN",
+          "code_iso_3": "CHN",
+          "networks": [
+            {
+              "id": "0199a619-c666-ada0-817a-5949b5c5465b",
+              "name": "CMCC",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8278-f040-595c-2e4a200071dc",
+          "name": "Japan",
+          "name_id": "Jepang",
+          "code_iso_2": "JP",
+          "code_iso_3": "JPN",
+          "networks": [
+            {
+              "id": "0199a619-c667-1453-adb8-7f2befb49ed7",
+              "name": "KDDI",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8563-a625-0676-f8d22e1b2818",
+          "name": "South Korea",
+          "name_id": "Korea Selatan",
+          "code_iso_2": "KR",
+          "code_iso_3": "KOR",
+          "networks": [
+            {
+              "id": "0199a619-c667-1453-adb8-7f2befb49ed8",
+              "name": "SKTelecom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8111-e6e7-ccff-cfdf28c97499",
+          "name": "China",
+          "name_id": "Cina",
+          "code_iso_2": "CN",
+          "code_iso_3": "CHN",
+          "networks": [
+            {
+              "id": "0199a619-c666-ada0-817a-5949b5c5465b",
+              "name": "CMCC",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8278-f040-595c-2e4a200071dc",
+          "name": "Japan",
+          "name_id": "Jepang",
+          "code_iso_2": "JP",
+          "code_iso_3": "JPN",
+          "networks": [
+            {
+              "id": "0199a619-c667-1453-adb8-7f2befb49ed7",
+              "name": "KDDI",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8563-a625-0676-f8d22e1b2818",
+          "name": "South Korea",
+          "name_id": "Korea Selatan",
+          "code_iso_2": "KR",
+          "code_iso_3": "KOR",
+          "networks": [
+            {
+              "id": "0199a619-c667-1453-adb8-7f2befb49ed8",
+              "name": "SKTelecom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

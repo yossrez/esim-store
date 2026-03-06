@@ -1,0 +1,1776 @@
+{
+  "data": {
+    "id": "019000de-f7ad-22b1-94bc-0f6211065384",
+    "name": "Middle East & North Africa",
+    "name_id": "Timur Tengah & Afrika Utara",
+    "slug": "middle-east-and-north-africa",
+    "description": "",
+    "description_id": "",
+    "scale": "regional",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "MENA",
+    "total_countries": 12,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Middle East & North Africa 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-6285-92c0-eb08-f165d6aa37dc",
+              "price": 320000,
+              "discounted_price": 320000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-6285-92c0-eb08-f165d6aa37dc",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-6285-92c0-eb08-f165d6aa37dc",
+          "currency_code": "IDR",
+          "price": 320000,
+          "discounted_price": 320000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-b6d6-ab43-2d08-7392fc17b4f1",
+              "price": 1443000,
+              "discounted_price": 1443000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-b6d6-ab43-2d08-7392fc17b4f1",
+              "price": 92.5,
+              "discounted_price": 92.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-b6d6-ab43-2d08-7392fc17b4f1",
+          "currency_code": "IDR",
+          "price": 1443000,
+          "discounted_price": 1443000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-694f-6ae6-d1e8-840dbded5551",
+              "price": 975000,
+              "discounted_price": 975000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-694f-6ae6-d1e8-840dbded5551",
+              "price": 62.5,
+              "discounted_price": 62.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-694f-6ae6-d1e8-840dbded5551",
+          "currency_code": "IDR",
+          "price": 975000,
+          "discounted_price": 975000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-6d34-6108-7988-2ad768950559",
+              "price": 1631000,
+              "discounted_price": 1631000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-6d34-6108-7988-2ad768950559",
+              "price": 104.5,
+              "discounted_price": 104.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-6d34-6108-7988-2ad768950559",
+          "currency_code": "IDR",
+          "price": 1631000,
+          "discounted_price": 1631000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-780b-39d1-a267-1f6661cb1032",
+              "price": 2847000,
+              "discounted_price": 2847000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-780b-39d1-a267-1f6661cb1032",
+              "price": 182.5,
+              "discounted_price": 182.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-780b-39d1-a267-1f6661cb1032",
+          "currency_code": "IDR",
+          "price": 2847000,
+          "discounted_price": 2847000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 30D 05GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-7bd7-51b8-6b4e-59f5fd6dae62",
+              "price": 351000,
+              "discounted_price": 351000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-7bd7-51b8-6b4e-59f5fd6dae62",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-7bd7-51b8-6b4e-59f5fd6dae62",
+          "currency_code": "IDR",
+          "price": 351000,
+          "discounted_price": 351000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-7d7f-32bb-06a2-61c322149203",
+              "price": 663000,
+              "discounted_price": 663000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-7d7f-32bb-06a2-61c322149203",
+              "price": 42.5,
+              "discounted_price": 42.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-7d7f-32bb-06a2-61c322149203",
+          "currency_code": "IDR",
+          "price": 663000,
+          "discounted_price": 663000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-e05f-0b82-d7af-b8e6ea585fda",
+              "price": 1225000,
+              "discounted_price": 1225000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-e05f-0b82-d7af-b8e6ea585fda",
+              "price": 78.5,
+              "discounted_price": 78.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-e05f-0b82-d7af-b8e6ea585fda",
+          "currency_code": "IDR",
+          "price": 1225000,
+          "discounted_price": 1225000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-e2cc-cda1-2428-4a1d995dd873",
+              "price": 1724000,
+              "discounted_price": 1724000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-e2cc-cda1-2428-4a1d995dd873",
+              "price": 110.5,
+              "discounted_price": 110.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-e2cc-cda1-2428-4a1d995dd873",
+          "currency_code": "IDR",
+          "price": 1724000,
+          "discounted_price": 1724000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D FUP1GB PRO",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-5c60-b4d8-6d1b-09f46bbff52c",
+              "price": 305000,
+              "discounted_price": 305000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-5c60-b4d8-6d1b-09f46bbff52c",
+              "price": 19.5,
+              "discounted_price": 19.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-5c60-b4d8-6d1b-09f46bbff52c",
+          "currency_code": "IDR",
+          "price": 305000,
+          "discounted_price": 305000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D FUP2GB ELITE",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-65cf-79ef-6986-a034dc825bb0",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-65cf-79ef-6986-a034dc825bb0",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-65cf-79ef-6986-a034dc825bb0",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D 03GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-6845-ab8f-5449-bc413b65cb36",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-6845-ab8f-5449-bc413b65cb36",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-6845-ab8f-5449-bc413b65cb36",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D 05GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-6ab8-fef4-9bf5-38f42aa8e21f",
+              "price": 227000,
+              "discounted_price": 227000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-6ab8-fef4-9bf5-38f42aa8e21f",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-6ab8-fef4-9bf5-38f42aa8e21f",
+          "currency_code": "IDR",
+          "price": 227000,
+          "discounted_price": 227000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-959d-73ae-93e7-3ca645fb712e",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-959d-73ae-93e7-3ca645fb712e",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-959d-73ae-93e7-3ca645fb712e",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-9814-90c4-6985-cb12d4e80ca5",
+              "price": 913000,
+              "discounted_price": 913000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-9814-90c4-6985-cb12d4e80ca5",
+              "price": 58.5,
+              "discounted_price": 58.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-9814-90c4-6985-cb12d4e80ca5",
+          "currency_code": "IDR",
+          "price": 913000,
+          "discounted_price": 913000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D 30GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-a076-d099-5bab-cdd17218e6bd",
+              "price": 1256000,
+              "discounted_price": 1256000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-a076-d099-5bab-cdd17218e6bd",
+              "price": 80.5,
+              "discounted_price": 80.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-a076-d099-5bab-cdd17218e6bd",
+          "currency_code": "IDR",
+          "price": 1256000,
+          "discounted_price": 1256000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-4b4f-c823-139b-03a2999dbc5e",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-4b4f-c823-139b-03a2999dbc5e",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-4b4f-c823-139b-03a2999dbc5e",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-5783-d11e-f176-10dcbacc97e3",
+              "price": 835000,
+              "discounted_price": 835000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-5783-d11e-f176-10dcbacc97e3",
+              "price": 53.5,
+              "discounted_price": 53.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-5783-d11e-f176-10dcbacc97e3",
+          "currency_code": "IDR",
+          "price": 835000,
+          "discounted_price": 835000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-5e52-cc2d-0f64-1c0242afb39f",
+              "price": 1443000,
+              "discounted_price": 1443000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-5e52-cc2d-0f64-1c0242afb39f",
+              "price": 92.5,
+              "discounted_price": 92.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-5e52-cc2d-0f64-1c0242afb39f",
+          "currency_code": "IDR",
+          "price": 1443000,
+          "discounted_price": 1443000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 15D 03GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-a5ba-3447-4386-01238c04b399",
+              "price": 227000,
+              "discounted_price": 227000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-a5ba-3447-4386-01238c04b399",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-a5ba-3447-4386-01238c04b399",
+          "currency_code": "IDR",
+          "price": 227000,
+          "discounted_price": 227000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-3878-cd69-15c8-5a8b727a4edd",
+              "price": 258000,
+              "discounted_price": 258000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-3878-cd69-15c8-5a8b727a4edd",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd9-3878-cd69-15c8-5a8b727a4edd",
+          "currency_code": "IDR",
+          "price": 258000,
+          "discounted_price": 258000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-8eec-7ebb-410a-52d2d1c1b52a",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-8eec-7ebb-410a-52d2d1c1b52a",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-8eec-7ebb-410a-52d2d1c1b52a",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-4674-5e4a-039c-d445d3b06552",
+              "price": 507000,
+              "discounted_price": 507000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd9-4674-5e4a-039c-d445d3b06552",
+              "price": 32.5,
+              "discounted_price": 32.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd9-4674-5e4a-039c-d445d3b06552",
+          "currency_code": "IDR",
+          "price": 507000,
+          "discounted_price": 507000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D 01GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-5edd-7984-e206-cc020199e06c",
+              "price": 94000,
+              "discounted_price": 94000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-5edd-7984-e206-cc020199e06c",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-5edd-7984-e206-cc020199e06c",
+          "currency_code": "IDR",
+          "price": 94000,
+          "discounted_price": 94000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D 30GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-8680-ac87-51de-b01912d7a0fb",
+              "price": 882000,
+              "discounted_price": 882000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-8680-ac87-51de-b01912d7a0fb",
+              "price": 56.5,
+              "discounted_price": 56.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-8680-ac87-51de-b01912d7a0fb",
+          "currency_code": "IDR",
+          "price": 882000,
+          "discounted_price": 882000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D 20GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-741b-f4fd-9225-eb63aee5fbb4",
+              "price": 663000,
+              "discounted_price": 663000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-741b-f4fd-9225-eb63aee5fbb4",
+              "price": 42.5,
+              "discounted_price": 42.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-741b-f4fd-9225-eb63aee5fbb4",
+          "currency_code": "IDR",
+          "price": 663000,
+          "discounted_price": 663000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-6799-836d-849c-3dfc9309f417",
+              "price": 570000,
+              "discounted_price": 570000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-6799-836d-849c-3dfc9309f417",
+              "price": 36.5,
+              "discounted_price": 36.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd9-6799-836d-849c-3dfc9309f417",
+          "currency_code": "IDR",
+          "price": 570000,
+          "discounted_price": 570000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D FUP0.5GB BASIC",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-52a7-2c7d-8df8-5a899a5ef945",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-52a7-2c7d-8df8-5a899a5ef945",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-52a7-2c7d-8df8-5a899a5ef945",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 05D 10GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-71ab-9c16-0713-a77f183acf75",
+              "price": 383000,
+              "discounted_price": 383000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-71ab-9c16-0713-a77f183acf75",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-71ab-9c16-0713-a77f183acf75",
+          "currency_code": "IDR",
+          "price": 383000,
+          "discounted_price": 383000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-a877-97b7-6234-8d09b4c76c6d",
+              "price": 1038000,
+              "discounted_price": 1038000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2b-a877-97b7-6234-8d09b4c76c6d",
+              "price": 66.5,
+              "discounted_price": 66.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2b-a877-97b7-6234-8d09b4c76c6d",
+          "currency_code": "IDR",
+          "price": 1038000,
+          "discounted_price": 1038000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-3c87-90eb-984d-4ad8a7821f34",
+              "price": 406000,
+              "discounted_price": 406000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-3c87-90eb-984d-4ad8a7821f34",
+              "price": 26,
+              "discounted_price": 26,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd9-3c87-90eb-984d-4ad8a7821f34",
+          "currency_code": "IDR",
+          "price": 406000,
+          "discounted_price": 406000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-3e7c-72e8-1b9e-eb210a73bb08",
+              "price": 695000,
+              "discounted_price": 695000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-3e7c-72e8-1b9e-eb210a73bb08",
+              "price": 44.5,
+              "discounted_price": 44.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd9-3e7c-72e8-1b9e-eb210a73bb08",
+          "currency_code": "IDR",
+          "price": 695000,
+          "discounted_price": 695000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East & North Africa 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-4272-af88-da5c-131f1ec6898d",
+              "price": 289000,
+              "discounted_price": 289000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01921fd9-4272-af88-da5c-131f1ec6898d",
+              "price": 18.5,
+              "discounted_price": 18.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01921fd9-4272-af88-da5c-131f1ec6898d",
+          "currency_code": "IDR",
+          "price": 289000,
+          "discounted_price": 289000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-807f-5a55-78c4-4fb061324c8b",
+          "name": "Algeria",
+          "name_id": "Aljazair",
+          "code_iso_2": "DZ",
+          "code_iso_3": "DZA",
+          "networks": [
+            {
+              "id": "01907c58-42c9-1f99-e334-d91d07d64f6f",
+              "name": "Mobilis",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-818c-0190-0499-d12ef518d3e2",
+          "name": "Egypt",
+          "name_id": "Mesir",
+          "code_iso_2": "EG",
+          "code_iso_3": "EGY",
+          "networks": [
+            {
+              "id": "01907c58-2efb-68a0-e4d9-8c9f8ed791e1",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81de-75ed-9da0-63f04b27aa39",
+          "name": "Ghana",
+          "name_id": "Ghana",
+          "code_iso_2": "GH",
+          "code_iso_3": "GHA",
+          "networks": [
+            {
+              "id": "01907c58-d08c-13fe-0de7-624142eaca9b",
+              "name": "Telecel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-825c-8268-adfe-7b354dcaeaa2",
+          "name": "Iraq",
+          "name_id": "Irak",
+          "code_iso_2": "IQ",
+          "code_iso_3": "IRQ",
+          "networks": [
+            {
+              "id": "01907c58-32aa-8c11-63bd-1ad51bf2850b",
+              "name": "Korek",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": false,
+              "support_2g": false
+            },
+            {
+              "id": "01907c58-32b8-c0d6-d1be-922c85da7a7b",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8267-5ce2-26e4-b56deec70231",
+          "name": "Israel",
+          "name_id": "Israel",
+          "code_iso_2": "IL",
+          "code_iso_3": "ISR",
+          "networks": [
+            {
+              "id": "01907c58-d5c3-b48f-bd1b-f72a4f941a05",
+              "name": "Hot Mobile",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01907c58-d5d7-7834-3dd5-a970b31c39e0",
+              "name": "Pelephone",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8284-28a7-303e-8a3f70629d67",
+          "name": "Jordan",
+          "name_id": "Yordania",
+          "code_iso_2": "JO",
+          "code_iso_3": "JOR",
+          "networks": [
+            {
+              "id": "01907c58-3336-83f1-3e65-5ded6798837a",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82a7-cc3e-ef37-39283962f2cb",
+          "name": "Kuwait",
+          "name_id": "Kuwait",
+          "code_iso_2": "KW",
+          "code_iso_3": "KWT",
+          "networks": [
+            {
+              "id": "01907c58-3362-58ec-7485-1d3df008f13b",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-837e-7a0c-417d-74929d3485eb",
+          "name": "Morocco",
+          "name_id": "Maroko",
+          "code_iso_2": "MA",
+          "code_iso_3": "MAR",
+          "networks": [
+            {
+              "id": "01907c58-344a-9c20-74e4-7d58b58c8931",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-840a-dae1-92cf-e360dfc3a01f",
+          "name": "Oman",
+          "name_id": "Oman",
+          "code_iso_2": "OM",
+          "code_iso_3": "OMN",
+          "networks": [
+            {
+              "id": "01907c58-34f4-ba63-22cf-a5f29186e9d2",
+              "name": "Omantel",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8473-aa93-2b7e-91033708958a",
+          "name": "Qatar",
+          "name_id": "Qatar",
+          "code_iso_2": "QA",
+          "code_iso_3": "QAT",
+          "networks": [
+            {
+              "id": "01907c58-35e4-ee82-c244-aaabdde82227",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-84f2-465a-3cb5-128666dd609e",
+          "name": "Saudi Arabia",
+          "name_id": "Arab Saudi",
+          "code_iso_2": "SA",
+          "code_iso_3": "SAU",
+          "networks": [
+            {
+              "id": "01907c58-36b5-4271-bf15-b21f76690fdb",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8624-1e5d-6862-098494cecf5e",
+          "name": "Tunisia",
+          "name_id": "Tunisia",
+          "code_iso_2": "TN",
+          "code_iso_3": "TUN",
+          "networks": [
+            {
+              "id": "01907c58-380a-3441-57fc-37f41980fd65",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-807f-5a55-78c4-4fb061324c8b",
+          "name": "Algeria",
+          "name_id": "Aljazair",
+          "code_iso_2": "DZ",
+          "code_iso_3": "DZA",
+          "networks": [
+            {
+              "id": "01907c58-42c9-1f99-e334-d91d07d64f6f",
+              "name": "Mobilis",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-818c-0190-0499-d12ef518d3e2",
+          "name": "Egypt",
+          "name_id": "Mesir",
+          "code_iso_2": "EG",
+          "code_iso_3": "EGY",
+          "networks": [
+            {
+              "id": "01907c58-2efb-68a0-e4d9-8c9f8ed791e1",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81de-75ed-9da0-63f04b27aa39",
+          "name": "Ghana",
+          "name_id": "Ghana",
+          "code_iso_2": "GH",
+          "code_iso_3": "GHA",
+          "networks": [
+            {
+              "id": "01907c58-d08c-13fe-0de7-624142eaca9b",
+              "name": "Telecel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-825c-8268-adfe-7b354dcaeaa2",
+          "name": "Iraq",
+          "name_id": "Irak",
+          "code_iso_2": "IQ",
+          "code_iso_3": "IRQ",
+          "networks": [
+            {
+              "id": "01907c58-32aa-8c11-63bd-1ad51bf2850b",
+              "name": "Korek",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": false,
+              "support_2g": false
+            },
+            {
+              "id": "01907c58-32b8-c0d6-d1be-922c85da7a7b",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8267-5ce2-26e4-b56deec70231",
+          "name": "Israel",
+          "name_id": "Israel",
+          "code_iso_2": "IL",
+          "code_iso_3": "ISR",
+          "networks": [
+            {
+              "id": "01907c58-d5c3-b48f-bd1b-f72a4f941a05",
+              "name": "Hot Mobile",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01907c58-d5d7-7834-3dd5-a970b31c39e0",
+              "name": "Pelephone",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8284-28a7-303e-8a3f70629d67",
+          "name": "Jordan",
+          "name_id": "Yordania",
+          "code_iso_2": "JO",
+          "code_iso_3": "JOR",
+          "networks": [
+            {
+              "id": "01907c58-3336-83f1-3e65-5ded6798837a",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82a7-cc3e-ef37-39283962f2cb",
+          "name": "Kuwait",
+          "name_id": "Kuwait",
+          "code_iso_2": "KW",
+          "code_iso_3": "KWT",
+          "networks": [
+            {
+              "id": "01907c58-3362-58ec-7485-1d3df008f13b",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-837e-7a0c-417d-74929d3485eb",
+          "name": "Morocco",
+          "name_id": "Maroko",
+          "code_iso_2": "MA",
+          "code_iso_3": "MAR",
+          "networks": [
+            {
+              "id": "01907c58-344a-9c20-74e4-7d58b58c8931",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-840a-dae1-92cf-e360dfc3a01f",
+          "name": "Oman",
+          "name_id": "Oman",
+          "code_iso_2": "OM",
+          "code_iso_3": "OMN",
+          "networks": [
+            {
+              "id": "01907c58-34f4-ba63-22cf-a5f29186e9d2",
+              "name": "Omantel",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8473-aa93-2b7e-91033708958a",
+          "name": "Qatar",
+          "name_id": "Qatar",
+          "code_iso_2": "QA",
+          "code_iso_3": "QAT",
+          "networks": [
+            {
+              "id": "01907c58-35e4-ee82-c244-aaabdde82227",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-84f2-465a-3cb5-128666dd609e",
+          "name": "Saudi Arabia",
+          "name_id": "Arab Saudi",
+          "code_iso_2": "SA",
+          "code_iso_3": "SAU",
+          "networks": [
+            {
+              "id": "01907c58-36b5-4271-bf15-b21f76690fdb",
+              "name": "Zain",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8624-1e5d-6862-098494cecf5e",
+          "name": "Tunisia",
+          "name_id": "Tunisia",
+          "code_iso_2": "TN",
+          "code_iso_3": "TUN",
+          "networks": [
+            {
+              "id": "01907c58-380a-3441-57fc-37f41980fd65",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1454 @@
+{
+  "data": {
+    "id": "01982ca2-4ac5-524a-501e-0c3a8eb256a5",
+    "name": "SEA (MY, SG, TH)",
+    "name_id": "SEA (MY, SG, TH)",
+    "slug": "sea-my-sg-th",
+    "description": null,
+    "description_id": null,
+    "scale": "regional",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "SEATRIO",
+    "total_countries": 3,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D 05GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f336-d092-cd8d-925f58eb79a6",
+              "price": 90000,
+              "discounted_price": 90000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f336-d092-cd8d-925f58eb79a6",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f336-d092-cd8d-925f58eb79a6",
+          "currency_code": "IDR",
+          "price": 90000,
+          "discounted_price": 90000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D 10GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f337-88f7-5cf1-f7ce76103005",
+              "price": 172000,
+              "discounted_price": 172000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f337-88f7-5cf1-f7ce76103005",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f337-88f7-5cf1-f7ce76103005",
+          "currency_code": "IDR",
+          "price": 172000,
+          "discounted_price": 172000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D 20GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f338-1911-bb5b-dfaec67933a1",
+              "price": 256000,
+              "discounted_price": 256000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f338-1911-bb5b-dfaec67933a1",
+              "price": 17.5,
+              "discounted_price": 17.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f338-1911-bb5b-dfaec67933a1",
+          "currency_code": "IDR",
+          "price": 256000,
+          "discounted_price": 256000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D 01GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f335-d19f-a1ea-65b8837efbcf",
+              "price": 32000,
+              "discounted_price": 32000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f335-d19f-a1ea-65b8837efbcf",
+              "price": 2.5,
+              "discounted_price": 2.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f335-d19f-a1ea-65b8837efbcf",
+          "currency_code": "IDR",
+          "price": 32000,
+          "discounted_price": 32000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D 03GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f335-d19f-a1ea-65b8837efbd4",
+              "price": 68000,
+              "discounted_price": 68000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f335-d19f-a1ea-65b8837efbd4",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f335-d19f-a1ea-65b8837efbd4",
+          "currency_code": "IDR",
+          "price": 68000,
+          "discounted_price": 68000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33b-0098-2c65-e7171e7c9150",
+              "price": 70000,
+              "discounted_price": 70000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33b-0098-2c65-e7171e7c9150",
+              "price": 5.5,
+              "discounted_price": 5.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f33b-0098-2c65-e7171e7c9150",
+          "currency_code": "IDR",
+          "price": 70000,
+          "discounted_price": 70000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33c-293d-b733-68b9e1c3c4ba",
+              "price": 180000,
+              "discounted_price": 180000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33c-293d-b733-68b9e1c3c4ba",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f33c-293d-b733-68b9e1c3c4ba",
+          "currency_code": "IDR",
+          "price": 180000,
+          "discounted_price": 180000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33d-6634-d8fd-24cf14081ff4",
+              "price": 280000,
+              "discounted_price": 280000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33d-6634-d8fd-24cf14081ff4",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f33d-6634-d8fd-24cf14081ff4",
+          "currency_code": "IDR",
+          "price": 280000,
+          "discounted_price": 280000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D 30GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33e-fb65-e1b4-5dbaf1214144",
+              "price": 354000,
+              "discounted_price": 354000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33e-fb65-e1b4-5dbaf1214144",
+              "price": 24,
+              "discounted_price": 24,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f33e-fb65-e1b4-5dbaf1214144",
+          "currency_code": "IDR",
+          "price": 354000,
+          "discounted_price": 354000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D 03GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33f-bea1-243f-fdf9f16a0e8b",
+              "price": 76000,
+              "discounted_price": 76000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33f-bea1-243f-fdf9f16a0e8b",
+              "price": 6,
+              "discounted_price": 6,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f33f-bea1-243f-fdf9f16a0e8b",
+          "currency_code": "IDR",
+          "price": 76000,
+          "discounted_price": 76000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33f-bea1-243f-fdf9f16a0e90",
+              "price": 109000,
+              "discounted_price": 109000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33f-bea1-243f-fdf9f16a0e90",
+              "price": 8,
+              "discounted_price": 8,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f33f-bea1-243f-fdf9f16a0e90",
+          "currency_code": "IDR",
+          "price": 109000,
+          "discounted_price": 109000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f341-ec18-6e00-935d0d6b6e22",
+              "price": 299000,
+              "discounted_price": 299000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f341-ec18-6e00-935d0d6b6e22",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f341-ec18-6e00-935d0d6b6e22",
+          "currency_code": "IDR",
+          "price": 299000,
+          "discounted_price": 299000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f342-b2b4-d4b6-aa58c9a96b5c",
+              "price": 365000,
+              "discounted_price": 365000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f342-b2b4-d4b6-aa58c9a96b5c",
+              "price": 25,
+              "discounted_price": 25,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f342-b2b4-d4b6-aa58c9a96b5c",
+          "currency_code": "IDR",
+          "price": 365000,
+          "discounted_price": 365000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 30D 05GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f343-b81f-e6d6-b38a2bc00ebe",
+              "price": 116000,
+              "discounted_price": 116000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f343-b81f-e6d6-b38a2bc00ebe",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f343-b81f-e6d6-b38a2bc00ebe",
+          "currency_code": "IDR",
+          "price": 116000,
+          "discounted_price": 116000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f344-db1c-cfa0-6ac7102a4594",
+              "price": 200000,
+              "discounted_price": 200000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f344-db1c-cfa0-6ac7102a4594",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f344-db1c-cfa0-6ac7102a4594",
+          "currency_code": "IDR",
+          "price": 200000,
+          "discounted_price": 200000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f34f-738f-6314-9f09e5763e23",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f34f-738f-6314-9f09e5763e23",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f34f-738f-6314-9f09e5763e23",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f350-96ac-6cc5-d274b0f5b886",
+              "price": 395000,
+              "discounted_price": 395000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f350-96ac-6cc5-d274b0f5b886",
+              "price": 27,
+              "discounted_price": 27,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f350-96ac-6cc5-d274b0f5b886",
+          "currency_code": "IDR",
+          "price": 395000,
+          "discounted_price": 395000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f351-0662-2676-d2e273907ee1",
+              "price": 321000,
+              "discounted_price": 321000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f351-0662-2676-d2e273907ee1",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f351-0662-2676-d2e273907ee1",
+          "currency_code": "IDR",
+          "price": 321000,
+          "discounted_price": 321000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f352-89c8-4d52-724232b15901",
+              "price": 476000,
+              "discounted_price": 476000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f352-89c8-4d52-724232b15901",
+              "price": 32,
+              "discounted_price": 32,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f352-89c8-4d52-724232b15901",
+          "currency_code": "IDR",
+          "price": 476000,
+          "discounted_price": 476000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f352-89c8-4d52-724232b15906",
+              "price": 769000,
+              "discounted_price": 769000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f352-89c8-4d52-724232b15906",
+              "price": 52,
+              "discounted_price": 52,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f352-89c8-4d52-724232b15906",
+          "currency_code": "IDR",
+          "price": 769000,
+          "discounted_price": 769000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D 30GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f339-5544-c990-b120b6f3452a",
+              "price": 321000,
+              "discounted_price": 321000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f339-5544-c990-b120b6f3452a",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f339-5544-c990-b120b6f3452a",
+          "currency_code": "IDR",
+          "price": 321000,
+          "discounted_price": 321000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33a-9580-a548-d9872ed981f8",
+              "price": 35000,
+              "discounted_price": 35000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f33a-9580-a548-d9872ed981f8",
+              "price": 3,
+              "discounted_price": 3,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f33a-9580-a548-d9872ed981f8",
+          "currency_code": "IDR",
+          "price": 35000,
+          "discounted_price": 35000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f345-1da9-3a5e-02b3d0d49b25",
+              "price": 346000,
+              "discounted_price": 346000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f345-1da9-3a5e-02b3d0d49b25",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f345-1da9-3a5e-02b3d0d49b25",
+          "currency_code": "IDR",
+          "price": 346000,
+          "discounted_price": 346000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f346-1aa2-98b6-41c3cbd92ec2",
+              "price": 439000,
+              "discounted_price": 439000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f346-1aa2-98b6-41c3cbd92ec2",
+              "price": 30,
+              "discounted_price": 30,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f346-1aa2-98b6-41c3cbd92ec2",
+          "currency_code": "IDR",
+          "price": 439000,
+          "discounted_price": 439000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D FUP0.5GB BASIC",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f347-594a-773a-4d3d10d0e18a",
+              "price": 67000,
+              "discounted_price": 67000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f347-594a-773a-4d3d10d0e18a",
+              "price": 5,
+              "discounted_price": 5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f347-594a-773a-4d3d10d0e18a",
+          "currency_code": "IDR",
+          "price": 67000,
+          "discounted_price": 67000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D FUP1GB PRO",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f348-a420-da7f-c907fad8df32",
+              "price": 93000,
+              "discounted_price": 93000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f348-a420-da7f-c907fad8df32",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f348-a420-da7f-c907fad8df32",
+          "currency_code": "IDR",
+          "price": 93000,
+          "discounted_price": 93000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 05D FUP2GB ELITE",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f34a-3f91-96d0-de54526db190",
+              "price": 150000,
+              "discounted_price": 150000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f34a-3f91-96d0-de54526db190",
+              "price": 10.5,
+              "discounted_price": 10.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f34a-3f91-96d0-de54526db190",
+          "currency_code": "IDR",
+          "price": 150000,
+          "discounted_price": 150000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f34e-22c5-e5b2-ca8c10cd473f",
+              "price": 175000,
+              "discounted_price": 175000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f34e-22c5-e5b2-ca8c10cd473f",
+              "price": 12,
+              "discounted_price": 12,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f34e-22c5-e5b2-ca8c10cd473f",
+          "currency_code": "IDR",
+          "price": 175000,
+          "discounted_price": 175000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f340-0e46-da11-90bf17174f85",
+              "price": 190000,
+              "discounted_price": 190000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f340-0e46-da11-90bf17174f85",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f340-0e46-da11-90bf17174f85",
+          "currency_code": "IDR",
+          "price": 190000,
+          "discounted_price": 190000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f33b-0098-2c65-e7171e7c9155",
+              "price": 104000,
+              "discounted_price": 104000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f33b-0098-2c65-e7171e7c9155",
+              "price": 7.5,
+              "discounted_price": 7.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f33b-0098-2c65-e7171e7c9155",
+          "currency_code": "IDR",
+          "price": 104000,
+          "discounted_price": 104000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f34a-3f91-96d0-de54526db195",
+              "price": 88000,
+              "discounted_price": 88000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f34a-3f91-96d0-de54526db195",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f34a-3f91-96d0-de54526db195",
+          "currency_code": "IDR",
+          "price": 88000,
+          "discounted_price": 88000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f34b-97bd-78fa-4d567c3510c2",
+              "price": 124000,
+              "discounted_price": 124000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f34b-97bd-78fa-4d567c3510c2",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f34b-97bd-78fa-4d567c3510c2",
+          "currency_code": "IDR",
+          "price": 124000,
+          "discounted_price": 124000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "SEA (MY, SG, TH) 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f34d-2ecd-3590-b7d0461963c9",
+              "price": 200000,
+              "discounted_price": 200000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f34d-2ecd-3590-b7d0461963c9",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f34d-2ecd-3590-b7d0461963c9",
+          "currency_code": "IDR",
+          "price": 200000,
+          "discounted_price": 200000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8300-477d-d4da-29aef216d790",
+          "name": "Malaysia",
+          "name_id": "Malaysia",
+          "code_iso_2": "MY",
+          "code_iso_3": "MYS",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac9",
+              "name": "Celcom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01982df3-341c-1ee4-180e-b35dce8acb11",
+              "name": "Digi",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-851c-a91a-9301-61f55988790b",
+          "name": "Singapore",
+          "name_id": "Singapura",
+          "code_iso_2": "SG",
+          "code_iso_3": "SGP",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceaca",
+              "name": "Singtel",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-85ea-f1a1-b599-a6c2a672c7c9",
+          "name": "Thailand",
+          "name_id": "Thailand",
+          "code_iso_2": "TH",
+          "code_iso_3": "THA",
+          "networks": [
+            {
+              "id": "01982df3-341c-1ee4-180e-b35dce8acb10",
+              "name": "Real Future (Truemove)",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8300-477d-d4da-29aef216d790",
+          "name": "Malaysia",
+          "name_id": "Malaysia",
+          "code_iso_2": "MY",
+          "code_iso_3": "MYS",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac9",
+              "name": "Celcom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01982df3-341c-1ee4-180e-b35dce8acb11",
+              "name": "Digi",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-851c-a91a-9301-61f55988790b",
+          "name": "Singapore",
+          "name_id": "Singapura",
+          "code_iso_2": "SG",
+          "code_iso_3": "SGP",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceaca",
+              "name": "Singtel",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-85ea-f1a1-b599-a6c2a672c7c9",
+          "name": "Thailand",
+          "name_id": "Thailand",
+          "code_iso_2": "TH",
+          "code_iso_3": "THA",
+          "networks": [
+            {
+              "id": "01982df3-341c-1ee4-180e-b35dce8acb10",
+              "name": "Real Future (Truemove)",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

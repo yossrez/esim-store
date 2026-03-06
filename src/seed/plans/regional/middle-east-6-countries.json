@@ -1,0 +1,1540 @@
+{
+  "data": {
+    "id": "0199a461-5f7e-55fe-516e-73e7bff8b57f",
+    "name": "Middle East (6 Countries)",
+    "name_id": "Timur Tengah (6 Negara)",
+    "slug": "middle-east-6-countries",
+    "description": null,
+    "description_id": null,
+    "scale": "regional",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "MIDDLEEAST",
+    "total_countries": 6,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Middle East (4 Countries) 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6646-2149-91dd-44ab26aaf084",
+              "price": 123000,
+              "discounted_price": 123000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6646-2149-91dd-44ab26aaf084",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6646-2149-91dd-44ab26aaf084",
+          "currency_code": "IDR",
+          "price": 123000,
+          "discounted_price": 123000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6648-607c-579c-92255818ccef",
+              "price": 323000,
+              "discounted_price": 323000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6648-607c-579c-92255818ccef",
+              "price": 22,
+              "discounted_price": 22,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6648-607c-579c-92255818ccef",
+          "currency_code": "IDR",
+          "price": 323000,
+          "discounted_price": 323000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6649-2adb-8f79-3aa6919f6ba9",
+              "price": 546000,
+              "discounted_price": 546000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6649-2adb-8f79-3aa6919f6ba9",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6649-2adb-8f79-3aa6919f6ba9",
+          "currency_code": "IDR",
+          "price": 546000,
+          "discounted_price": 546000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D 30GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6649-2adb-8f79-3aa6919f6bae",
+              "price": 753000,
+              "discounted_price": 753000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6649-2adb-8f79-3aa6919f6bae",
+              "price": 50.5,
+              "discounted_price": 50.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6649-2adb-8f79-3aa6919f6bae",
+          "currency_code": "IDR",
+          "price": 753000,
+          "discounted_price": 753000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6652-5a70-b4c5-990e10c36aae",
+              "price": 1105000,
+              "discounted_price": 1105000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6652-5a70-b4c5-990e10c36aae",
+              "price": 74,
+              "discounted_price": 74,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6652-5a70-b4c5-990e10c36aae",
+          "currency_code": "IDR",
+          "price": 1105000,
+          "discounted_price": 1105000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D FUP0.5GB BASIC",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6653-5f1d-a480-983a92d81cf5",
+              "price": 128000,
+              "discounted_price": 128000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6653-5f1d-a480-983a92d81cf5",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6653-5f1d-a480-983a92d81cf5",
+          "currency_code": "IDR",
+          "price": 128000,
+          "discounted_price": 128000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6659-4bfd-3a21-ca0797e8fd33",
+              "price": 592000,
+              "discounted_price": 592000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6659-4bfd-3a21-ca0797e8fd33",
+              "price": 40,
+              "discounted_price": 40,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6659-4bfd-3a21-ca0797e8fd33",
+          "currency_code": "IDR",
+          "price": 592000,
+          "discounted_price": 592000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665a-3471-d520-98db9c08c2cf",
+              "price": 1031000,
+              "discounted_price": 1031000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665a-3471-d520-98db9c08c2cf",
+              "price": 69,
+              "discounted_price": 69,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-665a-3471-d520-98db9c08c2cf",
+          "currency_code": "IDR",
+          "price": 1031000,
+          "discounted_price": 1031000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665b-749b-e73d-5a94f1053709",
+              "price": 670000,
+              "discounted_price": 670000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665b-749b-e73d-5a94f1053709",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-665b-749b-e73d-5a94f1053709",
+          "currency_code": "IDR",
+          "price": 670000,
+          "discounted_price": 670000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665c-3945-2910-ce2fcd1430e9",
+              "price": 1178000,
+              "discounted_price": 1178000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665c-3945-2910-ce2fcd1430e9",
+              "price": 79,
+              "discounted_price": 79,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-665c-3945-2910-ce2fcd1430e9",
+          "currency_code": "IDR",
+          "price": 1178000,
+          "discounted_price": 1178000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665d-1d68-3222-f3458df8670d",
+              "price": 1999000,
+              "discounted_price": 1999000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-665d-1d68-3222-f3458df8670d",
+              "price": 134,
+              "discounted_price": 134,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-665d-1d68-3222-f3458df8670d",
+          "currency_code": "IDR",
+          "price": 1999000,
+          "discounted_price": 1999000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D 01GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6640-fc14-df88-25d64b93a52d",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6640-fc14-df88-25d64b93a52d",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6640-fc14-df88-25d64b93a52d",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D 03GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6641-3df8-081b-2219e487c528",
+              "price": 119000,
+              "discounted_price": 119000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6641-3df8-081b-2219e487c528",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6641-3df8-081b-2219e487c528",
+          "currency_code": "IDR",
+          "price": 119000,
+          "discounted_price": 119000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 30D 05GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664f-4442-5a42-90d0001a18c4",
+              "price": 250000,
+              "discounted_price": 250000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664f-4442-5a42-90d0001a18c4",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-664f-4442-5a42-90d0001a18c4",
+          "currency_code": "IDR",
+          "price": 250000,
+          "discounted_price": 250000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6650-7056-6c2c-534775512d55",
+              "price": 449000,
+              "discounted_price": 449000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6650-7056-6c2c-534775512d55",
+              "price": 30.5,
+              "discounted_price": 30.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6650-7056-6c2c-534775512d55",
+          "currency_code": "IDR",
+          "price": 449000,
+          "discounted_price": 449000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6655-a2e8-4108-7890250dae15",
+              "price": 177000,
+              "discounted_price": 177000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6655-a2e8-4108-7890250dae15",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6655-a2e8-4108-7890250dae15",
+          "currency_code": "IDR",
+          "price": 177000,
+          "discounted_price": 177000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6656-77cd-a656-bf0c82533d62",
+              "price": 279000,
+              "discounted_price": 279000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6656-77cd-a656-bf0c82533d62",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6656-77cd-a656-bf0c82533d62",
+          "currency_code": "IDR",
+          "price": 279000,
+          "discounted_price": 279000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6657-733d-b9cc-45f349206fb3",
+              "price": 485000,
+              "discounted_price": 485000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6657-733d-b9cc-45f349206fb3",
+              "price": 33,
+              "discounted_price": 33,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6657-733d-b9cc-45f349206fb3",
+          "currency_code": "IDR",
+          "price": 485000,
+          "discounted_price": 485000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D 05GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6641-3df8-081b-2219e487c52d",
+              "price": 177000,
+              "discounted_price": 177000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6641-3df8-081b-2219e487c52d",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6641-3df8-081b-2219e487c52d",
+          "currency_code": "IDR",
+          "price": 177000,
+          "discounted_price": 177000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D 10GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6642-7499-d562-cbee247b50e8",
+              "price": 302000,
+              "discounted_price": 302000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6642-7499-d562-cbee247b50e8",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6642-7499-d562-cbee247b50e8",
+          "currency_code": "IDR",
+          "price": 302000,
+          "discounted_price": 302000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D 20GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6643-1987-9a35-650493af9fed",
+              "price": 524000,
+              "discounted_price": 524000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6643-1987-9a35-650493af9fed",
+              "price": 35.5,
+              "discounted_price": 35.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6643-1987-9a35-650493af9fed",
+          "currency_code": "IDR",
+          "price": 524000,
+          "discounted_price": 524000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D 30GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6644-7191-4875-53207ec1eb5a",
+              "price": 698000,
+              "discounted_price": 698000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6644-7191-4875-53207ec1eb5a",
+              "price": 47,
+              "discounted_price": 47,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6644-7191-4875-53207ec1eb5a",
+          "currency_code": "IDR",
+          "price": 698000,
+          "discounted_price": 698000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6645-5a8e-7de2-6a5be2fdbf60",
+              "price": 59000,
+              "discounted_price": 59000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6645-5a8e-7de2-6a5be2fdbf60",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6645-5a8e-7de2-6a5be2fdbf60",
+          "currency_code": "IDR",
+          "price": 59000,
+          "discounted_price": 59000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D 03GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664a-d384-1c4a-516ad8face18",
+              "price": 154000,
+              "discounted_price": 154000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664a-d384-1c4a-516ad8face18",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-664a-d384-1c4a-516ad8face18",
+          "currency_code": "IDR",
+          "price": 154000,
+          "discounted_price": 154000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664b-3192-a9db-e25ac4413a6c",
+              "price": 238000,
+              "discounted_price": 238000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664b-3192-a9db-e25ac4413a6c",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-664b-3192-a9db-e25ac4413a6c",
+          "currency_code": "IDR",
+          "price": 238000,
+          "discounted_price": 238000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664d-9a50-ba42-909cbfd9358d",
+              "price": 787000,
+              "discounted_price": 787000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664d-9a50-ba42-909cbfd9358d",
+              "price": 53,
+              "discounted_price": 53,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-664d-9a50-ba42-909cbfd9358d",
+          "currency_code": "IDR",
+          "price": 787000,
+          "discounted_price": 787000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664e-e360-1713-554593df37ff",
+              "price": 1002000,
+              "discounted_price": 1002000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-664e-e360-1713-554593df37ff",
+              "price": 67.5,
+              "discounted_price": 67.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-664e-e360-1713-554593df37ff",
+          "currency_code": "IDR",
+          "price": 1002000,
+          "discounted_price": 1002000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6651-2fe2-4816-0565cbaebb04",
+              "price": 836000,
+              "discounted_price": 836000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6651-2fe2-4816-0565cbaebb04",
+              "price": 56,
+              "discounted_price": 56,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6651-2fe2-4816-0565cbaebb04",
+          "currency_code": "IDR",
+          "price": 836000,
+          "discounted_price": 836000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D FUP1GB PRO",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6654-1387-966b-935809bda374",
+              "price": 201000,
+              "discounted_price": 201000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6654-1387-966b-935809bda374",
+              "price": 14,
+              "discounted_price": 14,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6654-1387-966b-935809bda374",
+          "currency_code": "IDR",
+          "price": 201000,
+          "discounted_price": 201000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 05D FUP2GB ELITE",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6654-1387-966b-935809bda379",
+              "price": 348000,
+              "discounted_price": 348000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6654-1387-966b-935809bda379",
+              "price": 23.5,
+              "discounted_price": 23.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6654-1387-966b-935809bda379",
+          "currency_code": "IDR",
+          "price": 348000,
+          "discounted_price": 348000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6658-f74d-a3f0-39bc00729e7e",
+              "price": 360000,
+              "discounted_price": 360000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0199a616-6658-f74d-a3f0-39bc00729e7e",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0199a616-6658-f74d-a3f0-39bc00729e7e",
+          "currency_code": "IDR",
+          "price": 360000,
+          "discounted_price": 360000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6647-6ab3-38ac-4e14ff542f18",
+              "price": 189000,
+              "discounted_price": 189000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-6647-6ab3-38ac-4e14ff542f18",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-6647-6ab3-38ac-4e14ff542f18",
+          "currency_code": "IDR",
+          "price": 189000,
+          "discounted_price": 189000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Middle East (4 Countries) 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-664c-b81b-3570-3cb91a6cb67d",
+              "price": 421000,
+              "discounted_price": 421000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0199a616-664c-b81b-3570-3cb91a6cb67d",
+              "price": 28.5,
+              "discounted_price": 28.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0199a616-664c-b81b-3570-3cb91a6cb67d",
+          "currency_code": "IDR",
+          "price": 421000,
+          "discounted_price": 421000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-818c-0190-0499-d12ef518d3e2",
+          "name": "Egypt",
+          "name_id": "Mesir",
+          "code_iso_2": "EG",
+          "code_iso_3": "EGY",
+          "networks": [
+            {
+              "id": "0199a619-c666-ada0-817a-5949b5c5465a",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-82a7-cc3e-ef37-39283962f2cb",
+          "name": "Kuwait",
+          "name_id": "Kuwait",
+          "code_iso_2": "KW",
+          "code_iso_3": "KWT",
+          "networks": [
+            {
+              "id": "019a9d12-e6e4-c1b8-4478-aae1ce775e23",
+              "name": "Ooredoo (Wataniya)",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8473-aa93-2b7e-91033708958a",
+          "name": "Qatar",
+          "name_id": "Qatar",
+          "code_iso_2": "QA",
+          "code_iso_3": "QAT",
+          "networks": [
+            {
+              "id": "019a9d12-e6e4-c1b8-4478-aae1ce775e22",
+              "name": "Ooredoo (Qtel)",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-84f2-465a-3cb5-128666dd609e",
+          "name": "Saudi Arabia",
+          "name_id": "Arab Saudi",
+          "code_iso_2": "SA",
+          "code_iso_3": "SAU",
+          "networks": [
+            {
+              "id": "0199a619-c665-0e1f-cdd2-14f828e73160",
+              "name": "Mobily",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-862d-b38a-7e14-d1956aab6fc5",
+          "name": "Turkey",
+          "name_id": "Turki",
+          "code_iso_2": "TR",
+          "code_iso_3": "TUR",
+          "networks": [
+            {
+              "id": "0199a619-c664-aaaa-e1a1-b1a49d714e44",
+              "name": "Turkcell",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8667-4274-3074-f4a39aed4af5",
+          "name": "United Arab Emirates",
+          "name_id": "Uni Emirat Arab",
+          "code_iso_2": "AE",
+          "code_iso_3": "ARE",
+          "networks": [
+            {
+              "id": "0199a619-c666-ada0-817a-5949b5c54659",
+              "name": "DU",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-818c-0190-0499-d12ef518d3e2",
+          "name": "Egypt",
+          "name_id": "Mesir",
+          "code_iso_2": "EG",
+          "code_iso_3": "EGY",
+          "networks": [
+            {
+              "id": "0199a619-c666-ada0-817a-5949b5c5465a",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-82a7-cc3e-ef37-39283962f2cb",
+          "name": "Kuwait",
+          "name_id": "Kuwait",
+          "code_iso_2": "KW",
+          "code_iso_3": "KWT",
+          "networks": [
+            {
+              "id": "019a9d12-e6e4-c1b8-4478-aae1ce775e23",
+              "name": "Ooredoo (Wataniya)",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8473-aa93-2b7e-91033708958a",
+          "name": "Qatar",
+          "name_id": "Qatar",
+          "code_iso_2": "QA",
+          "code_iso_3": "QAT",
+          "networks": [
+            {
+              "id": "019a9d12-e6e4-c1b8-4478-aae1ce775e22",
+              "name": "Ooredoo (Qtel)",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-84f2-465a-3cb5-128666dd609e",
+          "name": "Saudi Arabia",
+          "name_id": "Arab Saudi",
+          "code_iso_2": "SA",
+          "code_iso_3": "SAU",
+          "networks": [
+            {
+              "id": "0199a619-c665-0e1f-cdd2-14f828e73160",
+              "name": "Mobily",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-862d-b38a-7e14-d1956aab6fc5",
+          "name": "Turkey",
+          "name_id": "Turki",
+          "code_iso_2": "TR",
+          "code_iso_3": "TUR",
+          "networks": [
+            {
+              "id": "0199a619-c664-aaaa-e1a1-b1a49d714e44",
+              "name": "Turkcell",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8667-4274-3074-f4a39aed4af5",
+          "name": "United Arab Emirates",
+          "name_id": "Uni Emirat Arab",
+          "code_iso_2": "AE",
+          "code_iso_3": "ARE",
+          "networks": [
+            {
+              "id": "0199a619-c666-ada0-817a-5949b5c54659",
+              "name": "DU",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

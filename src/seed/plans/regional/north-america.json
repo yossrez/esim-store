@@ -1,0 +1,1470 @@
+{
+  "data": {
+    "id": "01982ca2-4aaa-43ba-a2e2-2873e984d261",
+    "name": "North America",
+    "name_id": "Amerika Utara",
+    "slug": "north-america",
+    "description": null,
+    "description_id": null,
+    "scale": "regional",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "NORTAM",
+    "total_countries": 3,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "North America 07D 30GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f321-15e9-4c88-27b46e71555f",
+              "price": 753000,
+              "discounted_price": 753000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f321-15e9-4c88-27b46e71555f",
+              "price": 50.5,
+              "discounted_price": 50.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f321-15e9-4c88-27b46e71555f",
+          "currency_code": "IDR",
+          "price": 753000,
+          "discounted_price": 753000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D 03GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f322-2da0-6a88-ba6e520607a2",
+              "price": 154000,
+              "discounted_price": 154000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f322-2da0-6a88-ba6e520607a2",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f322-2da0-6a88-ba6e520607a2",
+          "currency_code": "IDR",
+          "price": 154000,
+          "discounted_price": 154000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f324-b54e-b153-cfe17d8d5c8a",
+              "price": 225000,
+              "discounted_price": 225000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f324-b54e-b153-cfe17d8d5c8a",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f324-b54e-b153-cfe17d8d5c8a",
+          "currency_code": "IDR",
+          "price": 225000,
+          "discounted_price": 225000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f325-15a8-b035-e93fde07485c",
+              "price": 732000,
+              "discounted_price": 732000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f325-15a8-b035-e93fde07485c",
+              "price": 49.5,
+              "discounted_price": 49.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f325-15a8-b035-e93fde07485c",
+          "currency_code": "IDR",
+          "price": 732000,
+          "discounted_price": 732000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D 10GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31a-3308-b468-2470772176d2",
+              "price": 302000,
+              "discounted_price": 302000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31a-3308-b468-2470772176d2",
+              "price": 20.5,
+              "discounted_price": 20.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f31a-3308-b468-2470772176d2",
+          "currency_code": "IDR",
+          "price": 302000,
+          "discounted_price": 302000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D 20GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31b-7fdb-24d8-d869d4831ddb",
+              "price": 524000,
+              "discounted_price": 524000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31b-7fdb-24d8-d869d4831ddb",
+              "price": 35.5,
+              "discounted_price": 35.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f31b-7fdb-24d8-d869d4831ddb",
+          "currency_code": "IDR",
+          "price": 524000,
+          "discounted_price": 524000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D 30GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31c-ce59-648a-577f7faa7b57",
+              "price": 714000,
+              "discounted_price": 714000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31c-ce59-648a-577f7faa7b57",
+              "price": 48,
+              "discounted_price": 48,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f31c-ce59-648a-577f7faa7b57",
+          "currency_code": "IDR",
+          "price": 714000,
+          "discounted_price": 714000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31c-ce59-648a-577f7faa7b5c",
+              "price": 59000,
+              "discounted_price": 59000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31c-ce59-648a-577f7faa7b5c",
+              "price": 4.5,
+              "discounted_price": 4.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f31c-ce59-648a-577f7faa7b5c",
+          "currency_code": "IDR",
+          "price": 59000,
+          "discounted_price": 59000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31e-d69a-c5f3-d5125e50c076",
+              "price": 123000,
+              "discounted_price": 123000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31e-d69a-c5f3-d5125e50c076",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f31e-d69a-c5f3-d5125e50c076",
+          "currency_code": "IDR",
+          "price": 123000,
+          "discounted_price": 123000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31f-fa54-fe89-65def901cab9",
+              "price": 318000,
+              "discounted_price": 318000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f31f-fa54-fe89-65def901cab9",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f31f-fa54-fe89-65def901cab9",
+          "currency_code": "IDR",
+          "price": 318000,
+          "discounted_price": 318000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f320-8ded-5f6c-7a94308c5602",
+              "price": 546000,
+              "discounted_price": 546000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f320-8ded-5f6c-7a94308c5602",
+              "price": 37,
+              "discounted_price": 37,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f320-8ded-5f6c-7a94308c5602",
+          "currency_code": "IDR",
+          "price": 546000,
+          "discounted_price": 546000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f330-d39c-a165-a39e12229013",
+              "price": 360000,
+              "discounted_price": 360000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f330-d39c-a165-a39e12229013",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f330-d39c-a165-a39e12229013",
+          "currency_code": "IDR",
+          "price": 360000,
+          "discounted_price": 360000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f331-220b-f1cc-ef7ea2c8549d",
+              "price": 530000,
+              "discounted_price": 530000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f331-220b-f1cc-ef7ea2c8549d",
+              "price": 36,
+              "discounted_price": 36,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f331-220b-f1cc-ef7ea2c8549d",
+          "currency_code": "IDR",
+          "price": 530000,
+          "discounted_price": 530000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f331-220b-f1cc-ef7ea2c854a2",
+              "price": 923000,
+              "discounted_price": 923000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f331-220b-f1cc-ef7ea2c854a2",
+              "price": 62,
+              "discounted_price": 62,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f331-220b-f1cc-ef7ea2c854a2",
+          "currency_code": "IDR",
+          "price": 923000,
+          "discounted_price": 923000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f332-f2f6-c5c6-131c3565b6d8",
+              "price": 670000,
+              "discounted_price": 670000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f332-f2f6-c5c6-131c3565b6d8",
+              "price": 45,
+              "discounted_price": 45,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f332-f2f6-c5c6-131c3565b6d8",
+          "currency_code": "IDR",
+          "price": 670000,
+          "discounted_price": 670000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f333-e1f1-1c57-88308cc421b5",
+              "price": 1054000,
+              "discounted_price": 1054000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f333-e1f1-1c57-88308cc421b5",
+              "price": 71,
+              "discounted_price": 71,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f333-e1f1-1c57-88308cc421b5",
+          "currency_code": "IDR",
+          "price": 1054000,
+          "discounted_price": 1054000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f334-4648-5c5b-a4163979c6eb",
+              "price": 1841000,
+              "discounted_price": 1841000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f334-4648-5c5b-a4163979c6eb",
+              "price": 123,
+              "discounted_price": 123,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f334-4648-5c5b-a4163979c6eb",
+          "currency_code": "IDR",
+          "price": 1841000,
+          "discounted_price": 1841000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D 01GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f317-1527-9d67-6bdbdbc24ade",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f317-1527-9d67-6bdbdbc24ade",
+              "price": 4,
+              "discounted_price": 4,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f317-1527-9d67-6bdbdbc24ade",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D 03GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f318-3fef-5bcb-793ce6ba1481",
+              "price": 119000,
+              "discounted_price": 119000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f318-3fef-5bcb-793ce6ba1481",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f318-3fef-5bcb-793ce6ba1481",
+          "currency_code": "IDR",
+          "price": 119000,
+          "discounted_price": 119000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D 05GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f319-b53f-59bd-32a99eaa2df9",
+              "price": 168000,
+              "discounted_price": 168000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f319-b53f-59bd-32a99eaa2df9",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f319-b53f-59bd-32a99eaa2df9",
+          "currency_code": "IDR",
+          "price": 168000,
+          "discounted_price": 168000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f326-9d4b-3852-7d6fa68e9cd7",
+              "price": 905000,
+              "discounted_price": 905000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f326-9d4b-3852-7d6fa68e9cd7",
+              "price": 61,
+              "discounted_price": 61,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f326-9d4b-3852-7d6fa68e9cd7",
+          "currency_code": "IDR",
+          "price": 905000,
+          "discounted_price": 905000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 30D 05GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f327-c411-4e3f-be6d74dc8874",
+              "price": 243000,
+              "discounted_price": 243000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f327-c411-4e3f-be6d74dc8874",
+              "price": 16.5,
+              "discounted_price": 16.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f327-c411-4e3f-be6d74dc8874",
+          "currency_code": "IDR",
+          "price": 243000,
+          "discounted_price": 243000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f328-88c2-d355-db82430232a4",
+              "price": 449000,
+              "discounted_price": 449000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f328-88c2-d355-db82430232a4",
+              "price": 30.5,
+              "discounted_price": 30.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f328-88c2-d355-db82430232a4",
+          "currency_code": "IDR",
+          "price": 449000,
+          "discounted_price": 449000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f329-4523-ff7d-51aa636013f8",
+              "price": 812000,
+              "discounted_price": 812000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f329-4523-ff7d-51aa636013f8",
+              "price": 54.5,
+              "discounted_price": 54.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f329-4523-ff7d-51aa636013f8",
+          "currency_code": "IDR",
+          "price": 812000,
+          "discounted_price": 812000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f329-4523-ff7d-51aa636013fd",
+              "price": 989000,
+              "discounted_price": 989000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f329-4523-ff7d-51aa636013fd",
+              "price": 66.5,
+              "discounted_price": 66.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f329-4523-ff7d-51aa636013fd",
+          "currency_code": "IDR",
+          "price": 989000,
+          "discounted_price": 989000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D FUP0.5GB BASIC",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f32a-88cb-3038-a894c1ff81c9",
+              "price": 128000,
+              "discounted_price": 128000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f32a-88cb-3038-a894c1ff81c9",
+              "price": 9,
+              "discounted_price": 9,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f32a-88cb-3038-a894c1ff81c9",
+          "currency_code": "IDR",
+          "price": 128000,
+          "discounted_price": 128000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D FUP1GB PRO",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f32b-7389-6e6e-4f9daf9dfedd",
+              "price": 181000,
+              "discounted_price": 181000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f32b-7389-6e6e-4f9daf9dfedd",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f32b-7389-6e6e-4f9daf9dfedd",
+          "currency_code": "IDR",
+          "price": 181000,
+          "discounted_price": 181000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 05D FUP2GB ELITE",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f32c-e229-3d08-f7f422dea620",
+              "price": 312000,
+              "discounted_price": 312000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01982ded-f32c-e229-3d08-f7f422dea620",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01982ded-f32c-e229-3d08-f7f422dea620",
+          "currency_code": "IDR",
+          "price": 312000,
+          "discounted_price": 312000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f31f-fa54-fe89-65def901cab4",
+              "price": 189000,
+              "discounted_price": 189000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f31f-fa54-fe89-65def901cab4",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f31f-fa54-fe89-65def901cab4",
+          "currency_code": "IDR",
+          "price": 189000,
+          "discounted_price": 189000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f324-b54e-b153-cfe17d8d5c8f",
+              "price": 407000,
+              "discounted_price": 407000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f324-b54e-b153-cfe17d8d5c8f",
+              "price": 27.5,
+              "discounted_price": 27.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f324-b54e-b153-cfe17d8d5c8f",
+          "currency_code": "IDR",
+          "price": 407000,
+          "discounted_price": 407000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f32d-dde0-1036-2c5d7f88f10a",
+              "price": 168000,
+              "discounted_price": 168000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f32d-dde0-1036-2c5d7f88f10a",
+              "price": 11.5,
+              "discounted_price": 11.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f32d-dde0-1036-2c5d7f88f10a",
+          "currency_code": "IDR",
+          "price": 168000,
+          "discounted_price": 168000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f32e-edb0-dc73-7f38ce220418",
+              "price": 251000,
+              "discounted_price": 251000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f32e-edb0-dc73-7f38ce220418",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f32e-edb0-dc73-7f38ce220418",
+          "currency_code": "IDR",
+          "price": 251000,
+          "discounted_price": 251000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "North America 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f32f-c892-986d-25bdaf0ef8ec",
+              "price": 434000,
+              "discounted_price": 434000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "01982ded-f32f-c892-986d-25bdaf0ef8ec",
+              "price": 29.5,
+              "discounted_price": 29.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "01982ded-f32f-c892-986d-25bdaf0ef8ec",
+          "currency_code": "IDR",
+          "price": 434000,
+          "discounted_price": 434000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-80de-9745-94ad-c05e45a82d7a",
+          "name": "Canada",
+          "name_id": "Kanada",
+          "code_iso_2": "CA",
+          "code_iso_3": "CAN",
+          "networks": [
+            {
+              "id": "01982df3-341a-224b-e6b4-4ae4209223ec",
+              "name": "Bell",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac5",
+              "name": "Telus",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8346-1041-951b-ea8d556ea797",
+          "name": "Mexico",
+          "name_id": "Meksiko",
+          "code_iso_2": "MX",
+          "code_iso_3": "MEX",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac6",
+              "name": "Telefonica",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-867a-684b-8ea1-9a4586693dd0",
+          "name": "United States",
+          "name_id": "Amerika Serikat",
+          "code_iso_2": "US",
+          "code_iso_3": "USA",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac7",
+              "name": "AT&T",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": false,
+              "support_2g": false
+            },
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac8",
+              "name": "T-Mobile",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": false,
+              "support_2g": false
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-80de-9745-94ad-c05e45a82d7a",
+          "name": "Canada",
+          "name_id": "Kanada",
+          "code_iso_2": "CA",
+          "code_iso_3": "CAN",
+          "networks": [
+            {
+              "id": "01982df3-341a-224b-e6b4-4ae4209223ec",
+              "name": "Bell",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            },
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac5",
+              "name": "Telus",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-8346-1041-951b-ea8d556ea797",
+          "name": "Mexico",
+          "name_id": "Meksiko",
+          "code_iso_2": "MX",
+          "code_iso_3": "MEX",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac6",
+              "name": "Telefonica",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-867a-684b-8ea1-9a4586693dd0",
+          "name": "United States",
+          "name_id": "Amerika Serikat",
+          "code_iso_2": "US",
+          "code_iso_3": "USA",
+          "networks": [
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac7",
+              "name": "AT&T",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": false,
+              "support_2g": false
+            },
+            {
+              "id": "01982df3-341b-6444-dbe2-4e67305ceac8",
+              "name": "T-Mobile",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": false,
+              "support_2g": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

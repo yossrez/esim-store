@@ -1,7 +1,9 @@
 import fs from "fs";
 
+// --env-file=.env.local
 const token = process.env.KTOKEN;
 const origin = process.env.KORIGIN;
+
 const apis = {
   destinations: `${origin}/api/user/products?token=${token}`,
   plans: (slug) => `${origin}/api/user/products/${slug}?token=${token}`,
@@ -30,25 +32,29 @@ async function getData(url, filepath) {
     success++;
   } catch (error) {
     retried++;
-    console.error(`!!! ${filepath} - ${error.message} !!!`);
+    console.error(`getData: !!! ${filepath} - ${error.message} !!!`);
     console.error("--- RETRY IN ---");
     await randomWait(30_000, 60_000);
   }
 }
 
 // eslint-disable-next-line
-async function getProductPlans() {
-  const data = JSON.parse(
-    fs.readFileSync("src/seed/destinations.json", "utf8"),
-  );
-  const total = data.data.countries.length;
-  const countries = data.data.countries;
-  while (success < total) {
-    const v = countries[success];
-    await getData(apis.plans(v.slug), `src/seed/plans/${v.slug}.json`);
-    console.log(`Success --- ${success}/${total}`);
-    console.log(`Retried --- ${retried}/${total}`);
-    await randomWait(3_000, 10_000);
+async function getProductPlans(plan, dir) {
+  try {
+    const data = JSON.parse(
+      fs.readFileSync("src/seed/destinations.json", "utf8"),
+    );
+    const total = data.data[plan].length;
+    const plans = data.data[plan];
+    while (success < total) {
+      const v = plans[success];
+      await getData(apis.plans(v.slug), `${dir}/${v.slug}.json`);
+      console.log(`Success --- ${success}/${total}`);
+      console.log(`Retried --- ${retried}/${total}`);
+      await randomWait(3_000, 10_000);
+    }
+  } catch (error) {
+    console.error(`getProductPlans: ${filepath} - ${error.message}`);
   }
 }
 
@@ -60,7 +66,8 @@ const randomWait = (min, max) => {
 
 async function main() {
   // await getData(api.destinations, "src/seed/destinations.json");
-  // await getProductPlans();
+  // await getProductPlans("countries", "src/seed/plans/local");
+  // await getProductPlans("regionals", "src/seed/plans/region");
 }
 
 main();

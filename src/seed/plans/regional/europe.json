@@ -1,0 +1,3172 @@
+{
+  "data": {
+    "id": "019000de-f73d-47eb-dcfa-a5fc2d2995ab",
+    "name": "Europe",
+    "name_id": "Eropa",
+    "slug": "europe",
+    "description": "",
+    "description_id": "",
+    "scale": "regional",
+    "is_saleable": true,
+    "area_color": null,
+    "area_code": "EUROPE",
+    "total_countries": 38,
+    "details": [
+      {
+        "text": "Tethering / Hotspot",
+        "value": true
+      },
+      {
+        "text": "Best Network",
+        "value": true
+      },
+      {
+        "text": "3G, 4G, and 5G",
+        "value": true
+      },
+      {
+        "text": "Auto APN",
+        "value": true
+      },
+      {
+        "text": "No eKYC / ID Registration",
+        "value": true
+      },
+      {
+        "text": "Rechargeable",
+        "value": true
+      }
+    ],
+    "product_items": [
+      {
+        "natural_name": "Europe 07D 03GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-a5f8-1cd2-4962-e424b52dcd78",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-a5f8-1cd2-4962-e424b52dcd78",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-a5f8-1cd2-4962-e424b52dcd78",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D 20GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-d457-e94f-57a6-f303e042981c",
+              "price": 609000,
+              "discounted_price": 609000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-d457-e94f-57a6-f303e042981c",
+              "price": 39,
+              "discounted_price": 39,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-d457-e94f-57a6-f303e042981c",
+          "currency_code": "IDR",
+          "price": 609000,
+          "discounted_price": 609000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 30D FUP0.5GB BASIC",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-d9f2-eee6-3459-96152e7d609b",
+              "price": 570000,
+              "discounted_price": 570000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-d9f2-eee6-3459-96152e7d609b",
+              "price": 36.5,
+              "discounted_price": 36.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-d9f2-eee6-3459-96152e7d609b",
+          "currency_code": "IDR",
+          "price": 570000,
+          "discounted_price": 570000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 30D FUP1GB PRO",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-ddba-9889-88bf-cc597d5819b8",
+              "price": 905000,
+              "discounted_price": 905000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-ddba-9889-88bf-cc597d5819b8",
+              "price": 58,
+              "discounted_price": 58,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-ddba-9889-88bf-cc597d5819b8",
+          "currency_code": "IDR",
+          "price": 905000,
+          "discounted_price": 905000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D FUP0.5GB BASIC",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-c622-ff73-16fd-468c895eb034",
+              "price": 110000,
+              "discounted_price": 110000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-c622-ff73-16fd-468c895eb034",
+              "price": 7,
+              "discounted_price": 7,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-c622-ff73-16fd-468c895eb034",
+          "currency_code": "IDR",
+          "price": 110000,
+          "discounted_price": 110000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D FUP1GB PRO",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-cc7f-069b-5b93-d5bc780b613c",
+              "price": 172000,
+              "discounted_price": 172000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-cc7f-069b-5b93-d5bc780b613c",
+              "price": 11,
+              "discounted_price": 11,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-cc7f-069b-5b93-d5bc780b613c",
+          "currency_code": "IDR",
+          "price": 172000,
+          "discounted_price": 172000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D 01GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-daaf-963c-87d7-98cecdb14ee6",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-daaf-963c-87d7-98cecdb14ee6",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-daaf-963c-87d7-98cecdb14ee6",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D FUP2GB ELITE",
+        "validity_days": 5,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-e308-e8d3-c368-5be610b9cec0",
+              "price": 281000,
+              "discounted_price": 281000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-e308-e8d3-c368-5be610b9cec0",
+              "price": 18,
+              "discounted_price": 18,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-e308-e8d3-c368-5be610b9cec0",
+          "currency_code": "IDR",
+          "price": 281000,
+          "discounted_price": 281000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D 03GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-e58d-2bc6-264a-c959de33eafd",
+              "price": 102000,
+              "discounted_price": 102000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-e58d-2bc6-264a-c959de33eafd",
+              "price": 6.5,
+              "discounted_price": 6.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-e58d-2bc6-264a-c959de33eafd",
+          "currency_code": "IDR",
+          "price": 102000,
+          "discounted_price": 102000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D 05GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-e7f7-20df-09c3-3bbfe700ecff",
+              "price": 149000,
+              "discounted_price": 149000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-e7f7-20df-09c3-3bbfe700ecff",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-e7f7-20df-09c3-3bbfe700ecff",
+          "currency_code": "IDR",
+          "price": 149000,
+          "discounted_price": 149000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D 10GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-eb0d-0214-e914-50cdf168a564",
+              "price": 242000,
+              "discounted_price": 242000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-eb0d-0214-e914-50cdf168a564",
+              "price": 15.5,
+              "discounted_price": 15.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-eb0d-0214-e914-50cdf168a564",
+          "currency_code": "IDR",
+          "price": 242000,
+          "discounted_price": 242000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D 20GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-fa05-f2cf-d5e0-e2718ce28fa7",
+              "price": 398000,
+              "discounted_price": 398000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-fa05-f2cf-d5e0-e2718ce28fa7",
+              "price": 25.5,
+              "discounted_price": 25.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-fa05-f2cf-d5e0-e2718ce28fa7",
+          "currency_code": "IDR",
+          "price": 398000,
+          "discounted_price": 398000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 05D 30GB",
+        "validity_days": 5,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-fdea-f449-28be-586396012973",
+              "price": 531000,
+              "discounted_price": 531000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a29-fdea-f449-28be-586396012973",
+              "price": 34,
+              "discounted_price": 34,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a29-fdea-f449-28be-586396012973",
+          "currency_code": "IDR",
+          "price": 531000,
+          "discounted_price": 531000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D 30GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-1986-52df-6950-4e9744fe2683",
+              "price": 585000,
+              "discounted_price": 585000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-1986-52df-6950-4e9744fe2683",
+              "price": 37.5,
+              "discounted_price": 37.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-1986-52df-6950-4e9744fe2683",
+          "currency_code": "IDR",
+          "price": 585000,
+          "discounted_price": 585000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D 05GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-ced0-1343-da6c-5971ca6bb4b2",
+              "price": 195000,
+              "discounted_price": 195000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-ced0-1343-da6c-5971ca6bb4b2",
+              "price": 12.5,
+              "discounted_price": 12.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-ced0-1343-da6c-5971ca6bb4b2",
+          "currency_code": "IDR",
+          "price": 195000,
+          "discounted_price": 195000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D 30GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-d847-1d8d-4dde-455293aead27",
+              "price": 780000,
+              "discounted_price": 780000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-d847-1d8d-4dde-455293aead27",
+              "price": 50,
+              "discounted_price": 50,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-d847-1d8d-4dde-455293aead27",
+          "currency_code": "IDR",
+          "price": 780000,
+          "discounted_price": 780000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D 20GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-aed9-412c-e2db-e115f809eafa",
+              "price": 437000,
+              "discounted_price": 437000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-aed9-412c-e2db-e115f809eafa",
+              "price": 28,
+              "discounted_price": 28,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-aed9-412c-e2db-e115f809eafa",
+          "currency_code": "IDR",
+          "price": 437000,
+          "discounted_price": 437000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D 01GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-9e6d-6696-8df1-448aef19511f",
+              "price": 55000,
+              "discounted_price": 55000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-9e6d-6696-8df1-448aef19511f",
+              "price": 3.5,
+              "discounted_price": 3.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-9e6d-6696-8df1-448aef19511f",
+          "currency_code": "IDR",
+          "price": 55000,
+          "discounted_price": 55000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 30D FUP2GB ELITE",
+        "validity_days": 30,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-e161-f893-3e32-0905e2c6e575",
+              "price": 1576000,
+              "discounted_price": 1576000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-e161-f893-3e32-0905e2c6e575",
+              "price": 101,
+              "discounted_price": 101,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-e161-f893-3e32-0905e2c6e575",
+          "currency_code": "IDR",
+          "price": 1576000,
+          "discounted_price": 1576000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D 10GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-d067-170b-fd1f-6cddc3bfef1c",
+              "price": 336000,
+              "discounted_price": 336000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-d067-170b-fd1f-6cddc3bfef1c",
+              "price": 21.5,
+              "discounted_price": 21.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e9a2-d067-170b-fd1f-6cddc3bfef1c",
+          "currency_code": "IDR",
+          "price": 336000,
+          "discounted_price": 336000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D FUP1GB PRO",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-c980-5683-147b-9d3ba20c58ab",
+              "price": 461000,
+              "discounted_price": 461000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-c980-5683-147b-9d3ba20c58ab",
+              "price": 29.5,
+              "discounted_price": 29.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-c980-5683-147b-9d3ba20c58ab",
+          "currency_code": "IDR",
+          "price": 461000,
+          "discounted_price": 461000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 30D 05GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd8-edfd-0fc2-630a-0ac60aea098d",
+              "price": 203000,
+              "discounted_price": 203000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01921fd8-edfd-0fc2-630a-0ac60aea098d",
+              "price": 13,
+              "discounted_price": 13,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01921fd8-edfd-0fc2-630a-0ac60aea098d",
+          "currency_code": "IDR",
+          "price": 203000,
+          "discounted_price": 203000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D FUP0.5GB BASIC",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-c5d8-430a-679a-4a5d3c47501b",
+              "price": 297000,
+              "discounted_price": 297000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-c5d8-430a-679a-4a5d3c47501b",
+              "price": 19,
+              "discounted_price": 19,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-c5d8-430a-679a-4a5d3c47501b",
+          "currency_code": "IDR",
+          "price": 297000,
+          "discounted_price": 297000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D 03GB",
+        "validity_days": 15,
+        "data_type": "limited",
+        "quota_in_gb": 3,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-2a11-69b4-4749-3099ce770420",
+              "price": 133000,
+              "discounted_price": 133000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "01922a2a-2a11-69b4-4749-3099ce770420",
+              "price": 8.5,
+              "discounted_price": 8.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "01922a2a-2a11-69b4-4749-3099ce770420",
+          "currency_code": "IDR",
+          "price": 133000,
+          "discounted_price": 133000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D 10GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-aafd-719c-862e-90a95f406293",
+              "price": 266000,
+              "discounted_price": 266000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-aafd-719c-862e-90a95f406293",
+              "price": 17,
+              "discounted_price": 17,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-aafd-719c-862e-90a95f406293",
+          "currency_code": "IDR",
+          "price": 266000,
+          "discounted_price": 266000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 30D 10GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 10,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-e514-6385-a646-ae8a2cd8c986",
+              "price": 351000,
+              "discounted_price": 351000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-e514-6385-a646-ae8a2cd8c986",
+              "price": 22.5,
+              "discounted_price": 22.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-e514-6385-a646-ae8a2cd8c986",
+          "currency_code": "IDR",
+          "price": 351000,
+          "discounted_price": 351000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 15D FUP2GB ELITE",
+        "validity_days": 15,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-cb16-c703-09f7-85601ff55e37",
+              "price": 804000,
+              "discounted_price": 804000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-cb16-c703-09f7-85601ff55e37",
+              "price": 51.5,
+              "discounted_price": 51.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-cb16-c703-09f7-85601ff55e37",
+          "currency_code": "IDR",
+          "price": 804000,
+          "discounted_price": 804000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 30D 20GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 20,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-e6a7-e2b2-ba64-1d289f39acf7",
+              "price": 648000,
+              "discounted_price": 648000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-e6a7-e2b2-ba64-1d289f39acf7",
+              "price": 41.5,
+              "discounted_price": 41.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-e6a7-e2b2-ba64-1d289f39acf7",
+          "currency_code": "IDR",
+          "price": 648000,
+          "discounted_price": 648000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 30D 30GB",
+        "validity_days": 30,
+        "data_type": "limited",
+        "quota_in_gb": 30,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-ea3a-543a-f666-a9ccd79d0686",
+              "price": 851000,
+              "discounted_price": 851000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": false,
+            "standard": {
+              "id": "0191e9a2-ea3a-543a-f666-a9ccd79d0686",
+              "price": 54.5,
+              "discounted_price": 54.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": false,
+        "standard": {
+          "id": "0191e9a2-ea3a-543a-f666-a9ccd79d0686",
+          "currency_code": "IDR",
+          "price": 851000,
+          "discounted_price": 851000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D FUP0.5GB BASIC",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 0.5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-9cd0-c5b7-7d8e-7dca6d5da290",
+              "price": 149000,
+              "discounted_price": 149000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-9cd0-c5b7-7d8e-7dca6d5da290",
+              "price": 9.5,
+              "discounted_price": 9.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e9a2-9cd0-c5b7-7d8e-7dca6d5da290",
+          "currency_code": "IDR",
+          "price": 149000,
+          "discounted_price": 149000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D FUP1GB PRO",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 1,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-a062-dad9-94da-888f7e309e9a",
+              "price": 227000,
+              "discounted_price": 227000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-a062-dad9-94da-888f7e309e9a",
+              "price": 14.5,
+              "discounted_price": 14.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e9a2-a062-dad9-94da-888f7e309e9a",
+          "currency_code": "IDR",
+          "price": 227000,
+          "discounted_price": 227000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D FUP2GB ELITE",
+        "validity_days": 7,
+        "data_type": "unlimited",
+        "quota_in_gb": 2,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-a248-1b35-8057-310464e31ccd",
+              "price": 383000,
+              "discounted_price": 383000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-a248-1b35-8057-310464e31ccd",
+              "price": 24.5,
+              "discounted_price": 24.5,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e9a2-a248-1b35-8057-310464e31ccd",
+          "currency_code": "IDR",
+          "price": 383000,
+          "discounted_price": 383000,
+          "discount_percentage": null
+        },
+        "premium": null
+      },
+      {
+        "natural_name": "Europe 07D 05GB",
+        "validity_days": 7,
+        "data_type": "limited",
+        "quota_in_gb": 5,
+        "prices": [
+          {
+            "currency_code": "IDR",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-a966-eab1-bf57-49a33914fc9e",
+              "price": 156000,
+              "discounted_price": 156000,
+              "discount_percentage": null
+            },
+            "premium": null
+          },
+          {
+            "currency_code": "USD",
+            "is_recommended": true,
+            "standard": {
+              "id": "0191e9a2-a966-eab1-bf57-49a33914fc9e",
+              "price": 10,
+              "discounted_price": 10,
+              "discount_percentage": null
+            },
+            "premium": null
+          }
+        ],
+        "is_recommended": true,
+        "standard": {
+          "id": "0191e9a2-a966-eab1-bf57-49a33914fc9e",
+          "currency_code": "IDR",
+          "price": 156000,
+          "discounted_price": 156000,
+          "discount_percentage": null
+        },
+        "premium": null
+      }
+    ],
+    "coverages": {
+      "standard": [
+        {
+          "id": "01911212-8099-fd4f-e10c-80042dbd8efa",
+          "name": "Austria",
+          "name_id": "Austria",
+          "code_iso_2": "AT",
+          "code_iso_3": "AUT",
+          "networks": [
+            {
+              "id": "01907c58-42e5-6752-7d37-bb6bd40c6b6b",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-42da-5d1f-8fd7-d61aff65fd6d",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80a5-413f-3ff4-075f2a4010c3",
+          "name": "Belarus",
+          "name_id": "Belarus",
+          "code_iso_2": "BY",
+          "code_iso_3": "BLR",
+          "networks": [
+            {
+              "id": "01907c58-4321-ab0e-6f58-7b485d82f7a1",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80a8-171d-982e-1e6e2509497c",
+          "name": "Belgium",
+          "name_id": "Belgia",
+          "code_iso_2": "BE",
+          "code_iso_3": "BEL",
+          "networks": [
+            {
+              "id": "01907c58-433f-813d-4533-3fd2cc305234",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4359-456d-6421-ebf82db5090e",
+              "name": "Proximus",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80ce-c2d2-116b-ee2ac59a942f",
+          "name": "Bulgaria",
+          "name_id": "Bulgaria",
+          "code_iso_2": "BG",
+          "code_iso_3": "BGR",
+          "networks": [
+            {
+              "id": "01907c58-4385-a324-0921-805ee7815b51",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-439b-fdc6-95f2-26842cff6e1e",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8159-8e9a-79a5-bf5d1707323d",
+          "name": "Croatia",
+          "name_id": "Kroasia",
+          "code_iso_2": "HR",
+          "code_iso_3": "HRV",
+          "networks": [
+            {
+              "id": "01907c58-440f-be51-613a-33b933880e10",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8165-3a20-92ee-b216d67754ff",
+          "name": "Cyprus",
+          "name_id": "Siprus",
+          "code_iso_2": "CY",
+          "code_iso_3": "CYP",
+          "networks": [
+            {
+              "id": "01907c58-cdbe-7b21-1b96-f8f42c9f22d6",
+              "name": "Epic",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-816a-3d20-d963-137dba7e04b5",
+          "name": "Czech Republic",
+          "name_id": "Republik Ceko",
+          "code_iso_2": "CZ",
+          "code_iso_3": "CZE",
+          "networks": [
+            {
+              "id": "01907c58-4444-b875-f0d4-7f37328207fc",
+              "name": "O2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-444f-ffad-c807-800d0ac09401",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8172-6232-dec3-d98bc4a6f8ef",
+          "name": "Denmark",
+          "name_id": "Denmark",
+          "code_iso_2": "DK",
+          "code_iso_3": "DNK",
+          "networks": [
+            {
+              "id": "01907c58-446b-ace0-49c6-a527b8eeee81",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4460-d4b2-c0a1-496d7e866031",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-819e-d1f9-4093-d97187d58f59",
+          "name": "Estonia",
+          "name_id": "Estonia",
+          "code_iso_2": "EE",
+          "code_iso_3": "EST",
+          "networks": [
+            {
+              "id": "01907c58-4497-380e-467a-5b73327a4e0d",
+              "name": "Elisa",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-448c-fea7-7828-09cc362183b5",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4481-3d28-9c76-dfb30993edb1",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81ac-f251-ec37-03852c121dbf",
+          "name": "Faroe Islands",
+          "name_id": "Kepulauan Faroe",
+          "code_iso_2": "FO",
+          "code_iso_3": "FRO",
+          "networks": [
+            {
+              "id": "01907c58-cf22-d4be-db63-203ebd48dcb9",
+              "name": "Hey Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81b5-5363-42d3-2ce06696f1ca",
+          "name": "Finland",
+          "name_id": "Finlandia",
+          "code_iso_2": "FI",
+          "code_iso_3": "FIN",
+          "networks": [
+            {
+              "id": "01907c58-cf91-39a4-190c-5c806bf73eee",
+              "name": "Elisa",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81b9-9b84-475f-ef1f76aa6612",
+          "name": "France",
+          "name_id": "Prancis",
+          "code_iso_2": "FR",
+          "code_iso_3": "FRA",
+          "networks": [
+            {
+              "id": "01907c58-44ce-d9db-af38-117f628deb48",
+              "name": "Free Mobile",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-44d9-6c61-ca9e-c6b74cfc1ee7",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81d9-41e8-110a-f119aa97841e",
+          "name": "Germany",
+          "name_id": "Jerman",
+          "code_iso_2": "DE",
+          "code_iso_3": "DEU",
+          "networks": [
+            {
+              "id": "01907c58-452b-87cc-6055-33d7b69991fe",
+              "name": "O2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4537-567d-a711-15b13c5964f1",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81ea-51a4-3d1e-e97a8ee4870d",
+          "name": "Greece",
+          "name_id": "Yunani",
+          "code_iso_2": "GR",
+          "code_iso_3": "GRC",
+          "networks": [
+            {
+              "id": "0191e566-42e7-c96c-35f4-772520a9a7ff",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "0190ddda-6c15-3843-ab70-f3cc0e9a8392",
+              "name": "Wind",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-823f-910a-7365-667c2446bfd6",
+          "name": "Hungary",
+          "name_id": "Hungaria",
+          "code_iso_2": "HU",
+          "code_iso_3": "HUN",
+          "networks": [
+            {
+              "id": "01907c58-45a3-46fa-49f9-97bfdd0413e0",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-45ae-e0f7-351a-d2a6bea21eb3",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8244-6c60-7588-7e7adaec6fda",
+          "name": "Iceland",
+          "name_id": "Islandia",
+          "code_iso_2": "IS",
+          "code_iso_3": "ISL",
+          "networks": [
+            {
+              "id": "01907c58-45be-3983-6961-0f13bdefa3dc",
+              "name": "Nova",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8261-cb2e-2ebb-f83a512bda2b",
+          "name": "Ireland",
+          "name_id": "Irlandia",
+          "code_iso_2": "IE",
+          "code_iso_3": "IRL",
+          "networks": [
+            {
+              "id": "01907c58-4611-fb69-e864-2c9e55024e99",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4606-8c9e-9c43-f37f6512b2f8",
+              "name": "Eir",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-461d-4108-fc12-16c421ffb845",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-826d-1551-2f52-ee783c186123",
+          "name": "Italy",
+          "name_id": "Italia",
+          "code_iso_2": "IT",
+          "code_iso_3": "ITA",
+          "networks": [
+            {
+              "id": "01907c58-4649-ee2d-0716-9c46fc983840",
+              "name": "Iliad",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4654-f23c-4ffd-91ef2d89a91d",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4660-b003-0b83-3eba8474bcbb",
+              "name": "Wind Tre",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82bb-e24f-3323-4223b891924a",
+          "name": "Latvia",
+          "name_id": "Latvia",
+          "code_iso_2": "LV",
+          "code_iso_3": "LVA",
+          "networks": [
+            {
+              "id": "01907c58-4717-35dc-d92f-e230ef49b4fd",
+              "name": "Bite",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4706-4bcf-b77a-18cf12a0dce9",
+              "name": "LMT",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-46fb-f9bd-9996-45dafe8cb303",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82da-124a-b46f-30948eb53f4d",
+          "name": "Liechtenstein",
+          "name_id": "Liechtenstein",
+          "code_iso_2": "LI",
+          "code_iso_3": "LIE",
+          "networks": [
+            {
+              "id": "01907c58-473a-eafb-8bf1-f0126e827b32",
+              "name": "FL1",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82e1-f54d-eece-9a4d803123da",
+          "name": "Lithuania",
+          "name_id": "Lithuania",
+          "code_iso_2": "LT",
+          "code_iso_3": "LTU",
+          "networks": [
+            {
+              "id": "01907c58-4763-3d97-5e7d-943fa4ee2834",
+              "name": "BITE",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-474c-98e8-2ff9-ab608efe71dc",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4757-0697-fa00-9246a60da54e",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82e7-5458-e1b2-f55fb72e4601",
+          "name": "Luxembourg",
+          "name_id": "Luksemburg",
+          "code_iso_2": "LU",
+          "code_iso_3": "LUX",
+          "networks": [
+            {
+              "id": "01907c58-4775-a756-5f95-e6f02d2d1890",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4780-ed88-a74a-ba5284916fc4",
+              "name": "Tango",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8314-7a11-f49d-b5b05f8da652",
+          "name": "Malta",
+          "name_id": "Malta",
+          "code_iso_2": "MT",
+          "code_iso_3": "MLT",
+          "networks": [
+            {
+              "id": "01907c58-47bd-b58a-7244-6ad53654c613",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8370-70d7-2e6c-acf9e2956423",
+          "name": "Montenegro",
+          "name_id": "Montenegro",
+          "code_iso_2": "ME",
+          "code_iso_3": "MNE",
+          "networks": [
+            {
+              "id": "01907c58-47d8-b3ba-09b8-6d5a0e3dd10c",
+              "name": "M:tel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "0190ddd9-6265-5227-34be-dcd6b5fd97c1",
+              "name": "One",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-83a9-1ad8-c9ce-195d8bbe1616",
+          "name": "Netherlands",
+          "name_id": "Belanda",
+          "code_iso_2": "NL",
+          "code_iso_3": "NLD",
+          "networks": [
+            {
+              "id": "01907c58-4807-79a2-5335-91fe60662fee",
+              "name": "KPN",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4812-60c8-b8d0-0e46bafe70a3",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8403-b110-7b42-aa738c46c475",
+          "name": "Norway",
+          "name_id": "Norwegia",
+          "code_iso_2": "NO",
+          "code_iso_3": "NOR",
+          "networks": [
+            {
+              "id": "01907c59-3d93-128f-6413-62685003cce0",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": false,
+              "support_2g": true
+            },
+            {
+              "id": "01907c59-3da4-0117-de99-4144113b5004",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": false,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-845b-28b4-043e-0f4bf5791bad",
+          "name": "Poland",
+          "name_id": "Polandia",
+          "code_iso_2": "PL",
+          "code_iso_3": "POL",
+          "networks": [
+            {
+              "id": "01907c59-3ebd-1243-ae16-d3faf87c76d1",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c59-3eaa-adab-a90f-9bc7e8ec43e9",
+              "name": "Plus",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8463-3009-8400-1b35188b541b",
+          "name": "Portugal",
+          "name_id": "Portugal",
+          "code_iso_2": "PT",
+          "code_iso_3": "PRT",
+          "networks": [
+            {
+              "id": "01907c58-4873-9c8a-59ed-f720023d1548",
+              "name": "NOS",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-487e-08f3-0eb6-435da1d4e2f2",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8483-a3f4-2641-e8972cfed15e",
+          "name": "Romania",
+          "name_id": "Rumania",
+          "code_iso_2": "RO",
+          "code_iso_3": "ROU",
+          "networks": [
+            {
+              "id": "01907c58-48b6-4dd5-f0b5-d93feff2d70c",
+              "name": "Orange",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-48c4-1f24-1063-c9693627c02a",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8503-c1cc-71fe-4415ed9fdba5",
+          "name": "Serbia",
+          "name_id": "Serbia",
+          "code_iso_2": "RS",
+          "code_iso_3": "SRB",
+          "networks": [
+            {
+              "id": "01907c58-490d-4455-9a64-126c050e76c1",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-852e-eb3e-185e-18ebe9679b72",
+          "name": "Slovakia",
+          "name_id": "Slovakia",
+          "code_iso_2": "SK",
+          "code_iso_3": "SVK",
+          "networks": [
+            {
+              "id": "01907c58-492d-f8fd-281b-a0fa0a770f1f",
+              "name": "O2",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4920-7c45-4395-417c6293980e",
+              "name": "Orange",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8537-b49e-be78-57dead4f1e01",
+          "name": "Slovenia",
+          "name_id": "Slovenia",
+          "code_iso_2": "SI",
+          "code_iso_3": "SVN",
+          "networks": [
+            {
+              "id": "01907c58-4958-9e35-332f-826e73257e75",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-493e-1b7c-bb58-f712c0f48fc4",
+              "name": "Mobitel",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8575-a2d3-782a-146c4daa3e3c",
+          "name": "Spain",
+          "name_id": "Spanyol",
+          "code_iso_2": "ES",
+          "code_iso_3": "ESP",
+          "networks": [
+            {
+              "id": "0190ddd9-641c-c566-1b5e-f78cf32d87c8",
+              "name": "Movistar",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4969-4a55-9438-c0430d7c194d",
+              "name": "Orange",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-497b-df2e-c2bc-8ec4518fca51",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-498a-c726-000b-802570842113",
+              "name": "Yoigo",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-85b3-36bc-317a-a4e5b1ff381c",
+          "name": "Sweden",
+          "name_id": "Swedia",
+          "code_iso_2": "SE",
+          "code_iso_3": "SWE",
+          "networks": [
+            {
+              "id": "01907c58-49c2-4ccc-3824-4141c4572a56",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-49d0-2ee3-fe55-4e9313b04bea",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-49b5-82e3-196d-1789b363c2e0",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-85bc-2b49-e10f-07d53a5cf54f",
+          "name": "Switzerland",
+          "name_id": "Swiss",
+          "code_iso_2": "CH",
+          "code_iso_3": "CHE",
+          "networks": [
+            {
+              "id": "01907c58-49ef-2c2b-862e-726af8ec584e",
+              "name": "Sunrise",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-862d-b38a-7e14-d1956aab6fc5",
+          "name": "Turkey",
+          "name_id": "Turki",
+          "code_iso_2": "TR",
+          "code_iso_3": "TUR",
+          "networks": [
+            {
+              "id": "0190ddd9-505d-909a-0b94-a10291743249",
+              "name": "Turk Telekom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-865d-de11-18ef-005564c9c812",
+          "name": "Ukraine",
+          "name_id": "Ukraina",
+          "code_iso_2": "UA",
+          "code_iso_3": "UKR",
+          "networks": [
+            {
+              "id": "01907c58-e34d-c94e-19da-b54fb9377310",
+              "name": "Kyivstar",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8671-2119-f869-fcd0776d398d",
+          "name": "United Kingdom",
+          "name_id": "Inggris Raya",
+          "code_iso_2": "GB",
+          "code_iso_3": "GBR",
+          "networks": [
+            {
+              "id": "01907c58-4a99-5387-0aee-f1a58a2e1da5",
+              "name": "EE",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4a8c-7cd1-789c-fd11cc900d15",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ],
+      "premium": [
+        {
+          "id": "01911212-8099-fd4f-e10c-80042dbd8efa",
+          "name": "Austria",
+          "name_id": "Austria",
+          "code_iso_2": "AT",
+          "code_iso_3": "AUT",
+          "networks": [
+            {
+              "id": "01907c58-42e5-6752-7d37-bb6bd40c6b6b",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-42da-5d1f-8fd7-d61aff65fd6d",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80a5-413f-3ff4-075f2a4010c3",
+          "name": "Belarus",
+          "name_id": "Belarus",
+          "code_iso_2": "BY",
+          "code_iso_3": "BLR",
+          "networks": [
+            {
+              "id": "01907c58-4321-ab0e-6f58-7b485d82f7a1",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80a8-171d-982e-1e6e2509497c",
+          "name": "Belgium",
+          "name_id": "Belgia",
+          "code_iso_2": "BE",
+          "code_iso_3": "BEL",
+          "networks": [
+            {
+              "id": "01907c58-433f-813d-4533-3fd2cc305234",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4359-456d-6421-ebf82db5090e",
+              "name": "Proximus",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-80ce-c2d2-116b-ee2ac59a942f",
+          "name": "Bulgaria",
+          "name_id": "Bulgaria",
+          "code_iso_2": "BG",
+          "code_iso_3": "BGR",
+          "networks": [
+            {
+              "id": "01907c58-4385-a324-0921-805ee7815b51",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-439b-fdc6-95f2-26842cff6e1e",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8159-8e9a-79a5-bf5d1707323d",
+          "name": "Croatia",
+          "name_id": "Kroasia",
+          "code_iso_2": "HR",
+          "code_iso_3": "HRV",
+          "networks": [
+            {
+              "id": "01907c58-440f-be51-613a-33b933880e10",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8165-3a20-92ee-b216d67754ff",
+          "name": "Cyprus",
+          "name_id": "Siprus",
+          "code_iso_2": "CY",
+          "code_iso_3": "CYP",
+          "networks": [
+            {
+              "id": "01907c58-cdbe-7b21-1b96-f8f42c9f22d6",
+              "name": "Epic",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-816a-3d20-d963-137dba7e04b5",
+          "name": "Czech Republic",
+          "name_id": "Republik Ceko",
+          "code_iso_2": "CZ",
+          "code_iso_3": "CZE",
+          "networks": [
+            {
+              "id": "01907c58-4444-b875-f0d4-7f37328207fc",
+              "name": "O2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-444f-ffad-c807-800d0ac09401",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8172-6232-dec3-d98bc4a6f8ef",
+          "name": "Denmark",
+          "name_id": "Denmark",
+          "code_iso_2": "DK",
+          "code_iso_3": "DNK",
+          "networks": [
+            {
+              "id": "01907c58-446b-ace0-49c6-a527b8eeee81",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4460-d4b2-c0a1-496d7e866031",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-819e-d1f9-4093-d97187d58f59",
+          "name": "Estonia",
+          "name_id": "Estonia",
+          "code_iso_2": "EE",
+          "code_iso_3": "EST",
+          "networks": [
+            {
+              "id": "01907c58-4497-380e-467a-5b73327a4e0d",
+              "name": "Elisa",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-448c-fea7-7828-09cc362183b5",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4481-3d28-9c76-dfb30993edb1",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81ac-f251-ec37-03852c121dbf",
+          "name": "Faroe Islands",
+          "name_id": "Kepulauan Faroe",
+          "code_iso_2": "FO",
+          "code_iso_3": "FRO",
+          "networks": [
+            {
+              "id": "01907c58-cf22-d4be-db63-203ebd48dcb9",
+              "name": "Hey Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81b5-5363-42d3-2ce06696f1ca",
+          "name": "Finland",
+          "name_id": "Finlandia",
+          "code_iso_2": "FI",
+          "code_iso_3": "FIN",
+          "networks": [
+            {
+              "id": "01907c58-cf91-39a4-190c-5c806bf73eee",
+              "name": "Elisa",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81b9-9b84-475f-ef1f76aa6612",
+          "name": "France",
+          "name_id": "Prancis",
+          "code_iso_2": "FR",
+          "code_iso_3": "FRA",
+          "networks": [
+            {
+              "id": "01907c58-44ce-d9db-af38-117f628deb48",
+              "name": "Free Mobile",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-44d9-6c61-ca9e-c6b74cfc1ee7",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81d9-41e8-110a-f119aa97841e",
+          "name": "Germany",
+          "name_id": "Jerman",
+          "code_iso_2": "DE",
+          "code_iso_3": "DEU",
+          "networks": [
+            {
+              "id": "01907c58-452b-87cc-6055-33d7b69991fe",
+              "name": "O2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4537-567d-a711-15b13c5964f1",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-81ea-51a4-3d1e-e97a8ee4870d",
+          "name": "Greece",
+          "name_id": "Yunani",
+          "code_iso_2": "GR",
+          "code_iso_3": "GRC",
+          "networks": [
+            {
+              "id": "0191e566-42e7-c96c-35f4-772520a9a7ff",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "0190ddda-6c15-3843-ab70-f3cc0e9a8392",
+              "name": "Wind",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-823f-910a-7365-667c2446bfd6",
+          "name": "Hungary",
+          "name_id": "Hungaria",
+          "code_iso_2": "HU",
+          "code_iso_3": "HUN",
+          "networks": [
+            {
+              "id": "01907c58-45a3-46fa-49f9-97bfdd0413e0",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-45ae-e0f7-351a-d2a6bea21eb3",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8244-6c60-7588-7e7adaec6fda",
+          "name": "Iceland",
+          "name_id": "Islandia",
+          "code_iso_2": "IS",
+          "code_iso_3": "ISL",
+          "networks": [
+            {
+              "id": "01907c58-45be-3983-6961-0f13bdefa3dc",
+              "name": "Nova",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8261-cb2e-2ebb-f83a512bda2b",
+          "name": "Ireland",
+          "name_id": "Irlandia",
+          "code_iso_2": "IE",
+          "code_iso_3": "IRL",
+          "networks": [
+            {
+              "id": "01907c58-4611-fb69-e864-2c9e55024e99",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4606-8c9e-9c43-f37f6512b2f8",
+              "name": "Eir",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-461d-4108-fc12-16c421ffb845",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-826d-1551-2f52-ee783c186123",
+          "name": "Italy",
+          "name_id": "Italia",
+          "code_iso_2": "IT",
+          "code_iso_3": "ITA",
+          "networks": [
+            {
+              "id": "01907c58-4649-ee2d-0716-9c46fc983840",
+              "name": "Iliad",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4654-f23c-4ffd-91ef2d89a91d",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4660-b003-0b83-3eba8474bcbb",
+              "name": "Wind Tre",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82bb-e24f-3323-4223b891924a",
+          "name": "Latvia",
+          "name_id": "Latvia",
+          "code_iso_2": "LV",
+          "code_iso_3": "LVA",
+          "networks": [
+            {
+              "id": "01907c58-4717-35dc-d92f-e230ef49b4fd",
+              "name": "Bite",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4706-4bcf-b77a-18cf12a0dce9",
+              "name": "LMT",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-46fb-f9bd-9996-45dafe8cb303",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82da-124a-b46f-30948eb53f4d",
+          "name": "Liechtenstein",
+          "name_id": "Liechtenstein",
+          "code_iso_2": "LI",
+          "code_iso_3": "LIE",
+          "networks": [
+            {
+              "id": "01907c58-473a-eafb-8bf1-f0126e827b32",
+              "name": "FL1",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82e1-f54d-eece-9a4d803123da",
+          "name": "Lithuania",
+          "name_id": "Lithuania",
+          "code_iso_2": "LT",
+          "code_iso_3": "LTU",
+          "networks": [
+            {
+              "id": "01907c58-4763-3d97-5e7d-943fa4ee2834",
+              "name": "BITE",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-474c-98e8-2ff9-ab608efe71dc",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4757-0697-fa00-9246a60da54e",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-82e7-5458-e1b2-f55fb72e4601",
+          "name": "Luxembourg",
+          "name_id": "Luksemburg",
+          "code_iso_2": "LU",
+          "code_iso_3": "LUX",
+          "networks": [
+            {
+              "id": "01907c58-4775-a756-5f95-e6f02d2d1890",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4780-ed88-a74a-ba5284916fc4",
+              "name": "Tango",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8314-7a11-f49d-b5b05f8da652",
+          "name": "Malta",
+          "name_id": "Malta",
+          "code_iso_2": "MT",
+          "code_iso_3": "MLT",
+          "networks": [
+            {
+              "id": "01907c58-47bd-b58a-7244-6ad53654c613",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8370-70d7-2e6c-acf9e2956423",
+          "name": "Montenegro",
+          "name_id": "Montenegro",
+          "code_iso_2": "ME",
+          "code_iso_3": "MNE",
+          "networks": [
+            {
+              "id": "01907c58-47d8-b3ba-09b8-6d5a0e3dd10c",
+              "name": "M:tel",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "0190ddd9-6265-5227-34be-dcd6b5fd97c1",
+              "name": "One",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-83a9-1ad8-c9ce-195d8bbe1616",
+          "name": "Netherlands",
+          "name_id": "Belanda",
+          "code_iso_2": "NL",
+          "code_iso_3": "NLD",
+          "networks": [
+            {
+              "id": "01907c58-4807-79a2-5335-91fe60662fee",
+              "name": "KPN",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4812-60c8-b8d0-0e46bafe70a3",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8403-b110-7b42-aa738c46c475",
+          "name": "Norway",
+          "name_id": "Norwegia",
+          "code_iso_2": "NO",
+          "code_iso_3": "NOR",
+          "networks": [
+            {
+              "id": "01907c59-3d93-128f-6413-62685003cce0",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": false,
+              "support_2g": true
+            },
+            {
+              "id": "01907c59-3da4-0117-de99-4144113b5004",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": false,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-845b-28b4-043e-0f4bf5791bad",
+          "name": "Poland",
+          "name_id": "Polandia",
+          "code_iso_2": "PL",
+          "code_iso_3": "POL",
+          "networks": [
+            {
+              "id": "01907c59-3ebd-1243-ae16-d3faf87c76d1",
+              "name": "Orange",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c59-3eaa-adab-a90f-9bc7e8ec43e9",
+              "name": "Plus",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8463-3009-8400-1b35188b541b",
+          "name": "Portugal",
+          "name_id": "Portugal",
+          "code_iso_2": "PT",
+          "code_iso_3": "PRT",
+          "networks": [
+            {
+              "id": "01907c58-4873-9c8a-59ed-f720023d1548",
+              "name": "NOS",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-487e-08f3-0eb6-435da1d4e2f2",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8483-a3f4-2641-e8972cfed15e",
+          "name": "Romania",
+          "name_id": "Rumania",
+          "code_iso_2": "RO",
+          "code_iso_3": "ROU",
+          "networks": [
+            {
+              "id": "01907c58-48b6-4dd5-f0b5-d93feff2d70c",
+              "name": "Orange",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-48c4-1f24-1063-c9693627c02a",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8503-c1cc-71fe-4415ed9fdba5",
+          "name": "Serbia",
+          "name_id": "Serbia",
+          "code_iso_2": "RS",
+          "code_iso_3": "SRB",
+          "networks": [
+            {
+              "id": "01907c58-490d-4455-9a64-126c050e76c1",
+              "name": "Telenor",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-852e-eb3e-185e-18ebe9679b72",
+          "name": "Slovakia",
+          "name_id": "Slovakia",
+          "code_iso_2": "SK",
+          "code_iso_3": "SVK",
+          "networks": [
+            {
+              "id": "01907c58-492d-f8fd-281b-a0fa0a770f1f",
+              "name": "O2",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4920-7c45-4395-417c6293980e",
+              "name": "Orange",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8537-b49e-be78-57dead4f1e01",
+          "name": "Slovenia",
+          "name_id": "Slovenia",
+          "code_iso_2": "SI",
+          "code_iso_3": "SVN",
+          "networks": [
+            {
+              "id": "01907c58-4958-9e35-332f-826e73257e75",
+              "name": "A1",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-493e-1b7c-bb58-f712c0f48fc4",
+              "name": "Mobitel",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8575-a2d3-782a-146c4daa3e3c",
+          "name": "Spain",
+          "name_id": "Spanyol",
+          "code_iso_2": "ES",
+          "code_iso_3": "ESP",
+          "networks": [
+            {
+              "id": "0190ddd9-641c-c566-1b5e-f78cf32d87c8",
+              "name": "Movistar",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4969-4a55-9438-c0430d7c194d",
+              "name": "Orange",
+              "support_4g_lte": false,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-497b-df2e-c2bc-8ec4518fca51",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-498a-c726-000b-802570842113",
+              "name": "Yoigo",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-85b3-36bc-317a-a4e5b1ff381c",
+          "name": "Sweden",
+          "name_id": "Swedia",
+          "code_iso_2": "SE",
+          "code_iso_3": "SWE",
+          "networks": [
+            {
+              "id": "01907c58-49c2-4ccc-3824-4141c4572a56",
+              "name": "3",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-49d0-2ee3-fe55-4e9313b04bea",
+              "name": "Tele2",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-49b5-82e3-196d-1789b363c2e0",
+              "name": "Telia",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-85bc-2b49-e10f-07d53a5cf54f",
+          "name": "Switzerland",
+          "name_id": "Swiss",
+          "code_iso_2": "CH",
+          "code_iso_3": "CHE",
+          "networks": [
+            {
+              "id": "01907c58-49ef-2c2b-862e-726af8ec584e",
+              "name": "Sunrise",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-862d-b38a-7e14-d1956aab6fc5",
+          "name": "Turkey",
+          "name_id": "Turki",
+          "code_iso_2": "TR",
+          "code_iso_3": "TUR",
+          "networks": [
+            {
+              "id": "0190ddd9-505d-909a-0b94-a10291743249",
+              "name": "Turk Telekom",
+              "support_4g_lte": true,
+              "support_5g": true,
+              "support_3g": true,
+              "support_2g": false
+            }
+          ]
+        },
+        {
+          "id": "01911212-865d-de11-18ef-005564c9c812",
+          "name": "Ukraine",
+          "name_id": "Ukraina",
+          "code_iso_2": "UA",
+          "code_iso_3": "UKR",
+          "networks": [
+            {
+              "id": "01907c58-e34d-c94e-19da-b54fb9377310",
+              "name": "Kyivstar",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        },
+        {
+          "id": "01911212-8671-2119-f869-fcd0776d398d",
+          "name": "United Kingdom",
+          "name_id": "Inggris Raya",
+          "code_iso_2": "GB",
+          "code_iso_3": "GBR",
+          "networks": [
+            {
+              "id": "01907c58-4a99-5387-0aee-f1a58a2e1da5",
+              "name": "EE",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            },
+            {
+              "id": "01907c58-4a8c-7cd1-789c-fd11cc900d15",
+              "name": "Vodafone",
+              "support_4g_lte": true,
+              "support_5g": false,
+              "support_3g": true,
+              "support_2g": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
