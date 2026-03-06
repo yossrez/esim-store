@@ -3,9 +3,14 @@ import { useDestinationsQuery } from "@/network/api-hooks/query";
 import { CountryDestination, RegionDestination } from "@/types";
 import Link from "next/link";
 
-const fallback = "populars";
-export default function Destinations() {
-  const filter = useCustomSearchParams("filter", fallback);
+export default function Destinations({
+  paramKey,
+  fallback,
+}: {
+  paramKey: string;
+  fallback: string;
+}) {
+  const filter = useCustomSearchParams(paramKey, fallback);
 
   const { data, isLoading, isError } = useDestinationsQuery(filter);
 

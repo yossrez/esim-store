@@ -8,7 +8,7 @@ import { Search } from "lucide-react";
 
 const destinationTab = {
   filters: ["Populars", "Countries", "Regionals"],
-  paramKey: "filter",
+  paramKey: "destination",
   fallback: "populars",
 };
 
@@ -39,7 +39,10 @@ export default function PageMain() {
           </div>
           <section>
             <TabFilter {...destinationTab} />
-            <Destinations />
+            <Destinations
+              paramKey={destinationTab.paramKey}
+              fallback={destinationTab.fallback}
+            />
           </section>
         </main>
       </ContentLayout>

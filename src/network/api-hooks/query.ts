@@ -42,7 +42,8 @@ async function getDestinations(
 }
 export function useDestinationsQuery(filter?: string | null) {
   return useQuery<HttpResponse<DestinationData>>({
-    queryKey: ["destinations", filter ?? "populars"],
+    queryKey: ["destinations", filter],
     queryFn: ({ queryKey }) => getDestinations(queryKey[1] as string),
+    enabled: filter !== null,
   });
 }
