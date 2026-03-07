@@ -1,16 +1,18 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import fs from "fs";
 import { PayloadJson } from "@/seed/types";
-import { Order } from "@/types";
-import { FormDataPlan } from "@/lib/yup/dataplan-schema";
+import { Cart, Order } from "@/types";
+import { genRandTempId } from "@/lib/utils";
 
 const destinations: PayloadJson = { data: undefined };
 
 const localPlans: Record<string, PayloadJson> = {};
 const regionalPlans: Record<string, PayloadJson> = {};
 
-const carts: FormDataPlan[] = [];
+const cartsLookup: Record<string, number> = {};
+const carts: Cart[] = [];
 
+const ordersLookup: Record<string, number> = {};
 const orders: Order[] = [];
 
 export function getInMemDestinations(): PayloadJson {
@@ -61,11 +63,42 @@ export function getInMemCartItemTotal() {
   return carts.length;
 }
 
-export function addInMemCart(payload: FormDataPlan) {
+export function addInMemCart(payload: Cart) {
+  const id = genRandTempId();
+  payload["id"] = id;
   carts.push(payload);
+  cartsLookup[id] = carts.length - 1;
   console.log(carts);
 }
 
-export function getInMemOrderTotal() {
-  return orders.length;
+export function getInMemCartItems(ids?: string[]) {
+  if (ids) {
+    const res: Cart[] = [];
+    ids.forEach((v) => {
+      const idx = cartsLookup[v];
+      if (idx !== undefined && idx >= 0 && idx < carts.length) {
+        res.push(carts[idx]);
+      }
+    });
+    return res;
+  }
+  return carts;
+}
+
+export function addInMemOrder(payload: Order) {
+  const id = genRandTempId();
+  payload["id"] = id;
+  orders.push(payload);
+  ordersLookup[id] = orders.length - 1;
+  console.log(orders);
+}
+
+export function getInMemOrderItems(id?: string) {
+  if (id) {
+    const idx = ordersLookup[id];
+    if (idx !== undefined && idx >= 0 && idx < orders.length) {
+      return carts[idx];
+    }
+  }
+  return carts;
 }

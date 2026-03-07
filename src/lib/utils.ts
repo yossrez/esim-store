@@ -13,3 +13,7 @@ export function capitalizeFirstLetter(str: string): string | null {
     return null;
   }
 }
+
+export function genRandTempId() {
+  return Date.now().toString(36) + Math.random().toString(36).substring(2);
+}

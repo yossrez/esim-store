@@ -76,7 +76,7 @@ export function useDestinationsQuery(filter?: ApiFilter) {
 async function getCartItemTotal(): Promise<HttpResponse<CartItemTotal>> {
   try {
     const res = await kyClient
-      .get<HttpResponse<CartItemTotal>>("cart/total")
+      .get<HttpResponse<CartItemTotal>>("carts/total")
       .json();
     return res;
   } catch (err) {
@@ -93,9 +93,13 @@ export function useCartItemTotalQuery() {
   });
 }
 
-async function getCartItems(): Promise<HttpResponse<CartData>> {
+async function getCartItems(slug?: string): Promise<HttpResponse<CartData>> {
   try {
-    const res = await kyClient.get<HttpResponse<CartData>>("carts").json();
+    let uri = "carts/";
+    if (slug) {
+      uri += slug;
+    }
+    const res = await kyClient.get<HttpResponse<CartData>>(uri).json();
     return res;
   } catch (err) {
     if (err instanceof HTTPError) {
@@ -104,9 +108,19 @@ async function getCartItems(): Promise<HttpResponse<CartData>> {
     throw new Error(`Client Error: ${String(err)}`);
   }
 }
-export function useCartItemsQuery() {
+export function useCartItemsQuery(checkout: boolean = false, slug?: string) {
+  const keys = ["carts"];
+  if (slug) {
+    keys.push(slug);
+  }
   return useQuery<HttpResponse<CartData>>({
-    queryKey: ["carts"],
-    queryFn: getCartItems,
+    queryKey: keys,
+    queryFn: ({ queryKey }) => getCartItems(queryKey[1] as string | undefined),
+    enabled: () => {
+      if (checkout) {
+        return slug !== undefined && slug !== "";
+      }
+      return true;
+    },
   });
 }
