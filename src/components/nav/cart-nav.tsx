@@ -3,10 +3,18 @@ import { usePathname } from "next/navigation";
 import { ShoppingCart } from "lucide-react";
 import activeNav from "@/lib/active-nav";
 import { useCartItemTotalQuery } from "@/network/api-hooks/query";
+import { useEffect } from "react";
+import { useQueryClient } from "@tanstack/react-query";
 
 export default function CartNav({ iconSize = 22 }: { iconSize?: number }) {
+  const queryClient = useQueryClient();
   const pathname = usePathname();
   const { data, isLoading, isError } = useCartItemTotalQuery();
+
+  useEffect(() => {
+    queryClient.invalidateQueries({ queryKey: ["cart", "total"] });
+  }, [pathname, queryClient]);
+
   return (
     <Link href="/cart">
       <div className="relative">

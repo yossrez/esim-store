@@ -8,16 +8,14 @@ export default function PlanDetails() {
   return (
     <div className="mb-6">
       <Title>Plan Details</Title>
-      <div>
-        {data?.data.details.map((v) => (
-          <div key={v.text} className="flex items-center gap-3 py-1">
-            <span>
-              <Check color="#1ba14f" />
-            </span>
-            <span>{v.text}</span>
-          </div>
-        ))}
-      </div>
+      {data?.data.details.map((v) => (
+        <div key={v.text} className="flex items-center gap-3 py-1">
+          <span>
+            <Check color="#1ba14f" />
+          </span>
+          <span>{v.text}</span>
+        </div>
+      ))}
     </div>
   );
 }

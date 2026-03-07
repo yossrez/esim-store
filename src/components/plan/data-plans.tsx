@@ -57,17 +57,25 @@ function DataPlanCard({
   const [click, setClick] = useState(false);
   useEffect(() => {
     if (click) {
-      form.setValue("plan", {
-        name: plan.natural_name,
-        quota_in_gb: plan.quota_in_gb,
-        destination: slug,
-        validity_days: plan.validity_days,
-        data_type: plan.data_type,
-        // eslint-disable-next-line
-        price: (plan.prices[0] as any).standard.price,
-        // eslint-disable-next-line
-        currency_code: (plan.prices[0] as any).currency_code,
-      });
+      form.setValue(
+        "plan",
+        {
+          name: plan.natural_name,
+          quota_in_gb: plan.quota_in_gb,
+          destination: slug,
+          validity_days: plan.validity_days,
+          data_type: plan.data_type,
+          // eslint-disable-next-line
+          price: (plan.prices[0] as any).standard.price,
+          // eslint-disable-next-line
+          currency_code: (plan.prices[0] as any).currency_code,
+        },
+        {
+          shouldValidate: true,
+          shouldDirty: true,
+          shouldTouch: true,
+        },
+      );
     }
     setClick(false);
     // eslint-disable-next-line

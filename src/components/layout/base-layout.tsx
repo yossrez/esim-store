@@ -1,6 +1,5 @@
 import { ReactNode } from "react";
 import SEO from "../meta/seo";
-// import Link from "next/link";
 
 interface BaseLayoutProps {
   title: string;

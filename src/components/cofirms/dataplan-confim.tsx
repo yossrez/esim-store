@@ -19,7 +19,6 @@ interface DataPlanConfimProps {
   title: string;
   trigger: ReactNode;
   confirmTitle: string;
-  handleConfirm: () => void;
   form: UseFormReturn<FormDataPlan>;
 }
 
@@ -27,7 +26,6 @@ export default function DataPlanConfim({
   title,
   trigger,
   confirmTitle,
-  handleConfirm,
   form,
 }: DataPlanConfimProps) {
   const data = form.getValues();
@@ -81,12 +79,7 @@ export default function DataPlanConfim({
                 Cancel
               </Button>
             </DrawerClose>
-            <Button
-              type="submit"
-              form="form-dataplan"
-              onClick={() => handleConfirm()}
-              className="h-12 w-1/2"
-            >
+            <Button type="submit" form="form-dataplan" className="h-12 w-1/2">
               {confirmTitle}
             </Button>
           </div>
@@ -114,7 +107,7 @@ function QtyCounter({ form }: { form: UseFormReturn<FormDataPlan> }) {
   }, [value, form]);
 
   return (
-    <div className="flex gap-3 w-44 basis-1/4">
+    <div className="flex gap-3">
       <Button
         onClick={() => counter(-1)}
         disabled={value === 1}
@@ -126,7 +119,7 @@ function QtyCounter({ form }: { form: UseFormReturn<FormDataPlan> }) {
         type="number"
         value={value}
         {...form.register("quantity")}
-        className="font-bold text-center"
+        className="font-bold min-w-15"
         ref={inputRef}
         min={min}
         max={max}

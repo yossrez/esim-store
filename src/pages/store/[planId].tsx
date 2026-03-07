@@ -24,12 +24,14 @@ import { useForm } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
 import { FormDataPlan, planSchema } from "@/lib/yup/dataplan-schema";
 import { capitalizeFirstLetter } from "@/lib/utils";
-import { useSearchParams } from "next/navigation";
 
 import DataPlanConfim from "@/components/cofirms/dataplan-confim";
 import { useAddToCartMutation } from "@/network/api-hooks/mutation";
+import { useSearchParams } from "next/navigation";
 
 export default function PageDataPlan() {
+  const router = useRouter();
+
   const form = useForm<FormDataPlan>({
     resolver: yupResolver(planSchema),
     defaultValues: {
@@ -44,7 +46,6 @@ export default function PageDataPlan() {
     form.reset();
   }, [searchParams, form]);
 
-  const router = useRouter();
   const filterMemo = useFilterMemo(
     pageDataPlanFilterKeys,
     fallbackPageDataPlanFilter,
@@ -52,11 +53,11 @@ export default function PageDataPlan() {
 
   const title = useMemo(() => {
     if (router.query.planId === undefined) return "";
-    const r = (router.query.planId as string).split("region-");
-    if (r.length > 1) {
-      return destNameMap[r[1] as keyof typeof destNameMap];
+    const s = (router.query.planId as string).split("region-");
+    if (s.length > 1) {
+      return destNameMap[s[1] as keyof typeof destNameMap];
     }
-    return capitalizeFirstLetter(r[0]);
+    return capitalizeFirstLetter(s[0]);
   }, [router]);
 
   // TODO: pass isLoading and isError state
@@ -68,8 +69,6 @@ export default function PageDataPlan() {
     console.log("submit form", data);
     cartMutation.mutate(data);
   };
-
-  function handleConfirm() {}
 
   return (
     <BaseLayout title="Choose Plan">
@@ -120,7 +119,6 @@ export default function PageDataPlan() {
                   </button>
                 }
                 confirmTitle="Add To Cart"
-                handleConfirm={handleConfirm}
               />
               <Button
                 type="submit"
