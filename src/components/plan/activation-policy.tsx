@@ -45,6 +45,7 @@ export default function ActivationPolicy({
                 <Input
                   ref={inputRef}
                   type="date"
+                  min={new Date().toISOString().split("T")[0]}
                   onChange={(e) => form.setValue("activation", e.target.value)}
                   className="bg-secondary text-primary"
                   disabled={radio === "now" || radio === null}

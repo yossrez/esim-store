@@ -63,6 +63,7 @@ export default function handler(
       id: data.data.id,
       name: data.data.name,
       scale: data.data.scale,
+      slug: data.data.slug,
       coverages: data.data.coverages,
       details: data.data.details,
       product_items: items,

@@ -26,10 +26,17 @@ import { FormDataPlan, planSchema } from "@/lib/yup/dataplan-schema";
 import { capitalizeFirstLetter } from "@/lib/utils";
 import { useSearchParams } from "next/navigation";
 
+import DataPlanConfim from "@/components/cofirms/dataplan-confim";
+
 export default function PageDataPlan() {
   const form = useForm<FormDataPlan>({
     resolver: yupResolver(planSchema),
+    defaultValues: {
+      quantity: 1,
+    },
   });
+
+  console.log(form.getValues());
 
   const searchParams = useSearchParams();
   useEffect(() => {
@@ -55,6 +62,8 @@ export default function PageDataPlan() {
   const {} = useProductsQuery(router.query.planId as string, filterMemo);
 
   const onSubmit = (data: FormDataPlan) => console.log("submit form", data);
+
+  function handleConfirm() {}
 
   return (
     <BaseLayout title="Choose Plan">
@@ -92,13 +101,26 @@ export default function PageDataPlan() {
         <BottomDockPortal mobileOnly={false}>
           <div className="bg-secondary">
             <div className="container mx-auto flex items-center gap-3 p-5">
-              <Button className="w-12">
-                <PackagePlus />
-              </Button>
+              <DataPlanConfim
+                title={title as string}
+                form={form}
+                trigger={
+                  <button
+                    type="button"
+                    disabled={!form.formState.isValid}
+                    className="flex justify-center items-center w-14 h-12 bg-primary text-white rounded-lg disabled:bg-gray-400 disabled:text-gray-300"
+                  >
+                    <PackagePlus className="my-1.5" size={23} />
+                  </button>
+                }
+                confirmTitle="Add To Cart"
+                handleConfirm={handleConfirm}
+              />
               <Button
                 type="submit"
                 form="form-dataplan"
-                className="w-[calc(100%-50px)] bg-active/90 hover:bg-active"
+                className="w-[calc(100%-68px)] bg-active/90 hover:bg-active h-12 md:text-lg"
+                disabled={!form.formState.isValid}
               >
                 Buy Now
               </Button>

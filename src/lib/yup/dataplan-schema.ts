@@ -1,7 +1,16 @@
-import { InferType, mixed, object, string } from "yup";
+import { InferType, mixed, number, object, string } from "yup";
 
 export const planSchema = object({
-  plan: string().required(),
+  quantity: number().default(1),
+  plan: object({
+    name: string().required(),
+    destination: string().required(),
+    price: number().required(),
+    validity_days: number().required(),
+    quota_in_gb: number().required(),
+    currency_code: string().required(),
+    data_type: string().required(),
+  }),
   activation: mixed()
     .test(
       "string-or-date",

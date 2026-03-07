@@ -37,6 +37,7 @@ export type ProductData = {
   id: string;
   name: string;
   scale: ScaleDestination;
+  slug: string;
   details: ProductDetail[];
   product_items: Product[];
   coverages: Record<string, object[]>;
