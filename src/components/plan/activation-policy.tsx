@@ -13,21 +13,31 @@ export default function ActivationPolicy({
 }) {
   const [date, setDate] = useState<string>();
 
+  const radio = form.watch("activation");
+
   return (
     <div className="mb-6">
       <Title>Activation Policy</Title>
-      <div>
+      <div className="grid gap-4">
         {activationPolicy.map((v) => {
           if (v === "now") {
             return (
               <RadioSelect key={v} {...form.register("activation")} value={v}>
-                {v}
+                <span className="block leading-9">Activate Now</span>
               </RadioSelect>
             );
           }
           return (
             <RadioSelect key={v} {...form.register("activation")} value={date}>
-              <Input type="date" onChange={(e) => setDate(e.target.value)} />
+              <>
+                <span className="block leading-9">Activate Later</span>
+                <Input
+                  type="date"
+                  onChange={(e) => setDate(e.target.value)}
+                  className="bg-secondary text-primary"
+                  disabled={radio === "now" || radio === null}
+                />
+              </>
             </RadioSelect>
           );
         })}

@@ -6,7 +6,7 @@ interface TitleProps {
 
 export default function Title({ children }: TitleProps) {
   return (
-    <div className="text-sm md:text-base lg:text-lg font-semibold">
+    <div className="text-sm md:text-base lg:text-lg font-semibold mb-3">
       {children}
     </div>
   );

@@ -71,7 +71,7 @@ export default function PageDataPlan() {
           </div>
           <CartNav />
         </div>
-        <main>
+        <main className="min-h-[90vh]">
           <div className="flex justify-center mt-9 mb-6">
             <TabFilter {...dayTab} />
           </div>
@@ -83,17 +83,19 @@ export default function PageDataPlan() {
           <InfoSnackBar description="This plan does not come with a number, so no call and text service will be available." />
         </main>
         <BottomDockPortal mobileOnly={false}>
-          <div className="container mx-auto flex items-center gap-3 p-5">
-            <Button type="submit" form="form-dataplan" className="w-12">
-              <PackagePlus />
-            </Button>
-            <Button
-              type="submit"
-              form="form-dataplan"
-              className="w-[calc(100%-50px)] bg-active/90 hover:bg-active"
-            >
-              Buy Now
-            </Button>
+          <div className="bg-secondary">
+            <div className="container mx-auto flex items-center gap-3 p-5">
+              <Button type="submit" form="form-dataplan" className="w-12">
+                <PackagePlus />
+              </Button>
+              <Button
+                type="submit"
+                form="form-dataplan"
+                className="w-[calc(100%-50px)] bg-active/90 hover:bg-active"
+              >
+                Buy Now
+              </Button>
+            </div>
           </div>
         </BottomDockPortal>
       </ContentLayout>
