@@ -5,6 +5,8 @@ import {
   CartItemTotal,
   DestinationData,
   HttpResponse,
+  PlacedOrderData,
+  PlacedOrderDetailsData,
   ProductData,
 } from "@/types";
 import { useQuery } from "@tanstack/react-query";
@@ -115,12 +117,47 @@ export function useCartItemsQuery(checkout: boolean = false, slug?: string) {
   }
   return useQuery<HttpResponse<CartData>>({
     queryKey: keys,
-    queryFn: ({ queryKey }) => getCartItems(queryKey[1] as string | undefined),
+    queryFn: ({ queryKey }) =>
+      getCartItems((queryKey[1] as string | undefined)?.slice(2)),
     enabled: () => {
       if (checkout) {
         return slug !== undefined && slug !== "";
       }
       return true;
     },
+  });
+}
+
+async function getOrderItems(
+  slug?: string,
+): Promise<HttpResponse<PlacedOrderData[] | PlacedOrderDetailsData>> {
+  try {
+    let uri = "orders/";
+    if (slug) {
+      uri += slug;
+      const res = await kyClient
+        .get<HttpResponse<PlacedOrderDetailsData>>(uri)
+        .json();
+      return res;
+    }
+    const res = await kyClient.get<HttpResponse<PlacedOrderData[]>>(uri).json();
+    return res;
+  } catch (err) {
+    if (err instanceof HTTPError) {
+      throw err;
+    }
+    throw new Error(`Client Error: ${String(err)}`);
+  }
+}
+export function useOrderItemsQuery(slug?: string) {
+  const keys = ["orders"];
+  if (slug) {
+    keys.push(slug);
+  }
+  console.log(slug);
+  return useQuery<HttpResponse<PlacedOrderData[] | PlacedOrderDetailsData>>({
+    queryKey: keys,
+    queryFn: ({ queryKey }) => getOrderItems(queryKey[1] as string | undefined),
+    enabled: slug !== null,
   });
 }

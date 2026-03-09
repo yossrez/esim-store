@@ -1,10 +1,11 @@
 import { NextApiRequest, NextApiResponse } from "next";
+import { addInMemOrder } from "../store";
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   try {
     if (req.method === "POST") {
       const payload = req.body;
-      console.log(payload);
+      addInMemOrder(payload);
       return res.status(200).json({ message: "ok" });
     }
     // eslint-disable-next-line

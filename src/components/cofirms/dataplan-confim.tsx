@@ -35,7 +35,7 @@ export default function DataPlanConfim({
 
   useEffect(() => {
     if (!form.formState.isValid) setOpened(false);
-  }, [data]);
+  }, [form.formState.isValid]);
 
   return (
     <Drawer open={opened} onOpenChange={(o) => setOpened(o)}>

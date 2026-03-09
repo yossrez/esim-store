@@ -7,6 +7,7 @@ import {
   FieldLabel,
 } from "@/components/ui/field";
 import useCartCacheData from "@/lib/hooks/query-cache/cart-cache-data";
+import { capitalizeFirstLetter } from "@/lib/utils";
 import { Cart } from "@/types";
 
 interface CartsProps {
@@ -32,15 +33,44 @@ interface CartBoxProps extends CartsProps {
 function CartBox({ data, handleCheck }: CartBoxProps) {
   return (
     <Field orientation="horizontal" className="bg-white p-5 rounded-lg">
-      <Checkbox
-        id={data.id}
-        name={data.plan.name}
-        className="mt-1"
-        onClick={() => handleCheck(data.id)}
-      />
+      <div className="mt-0.5">
+        <Checkbox
+          id={data.id}
+          name={data.plan.name}
+          className="border-primary"
+          onClick={() => handleCheck(data.id)}
+        />
+      </div>
       <FieldContent>
-        <FieldLabel htmlFor={data.id}>{data.plan.name}</FieldLabel>
+        <FieldLabel htmlFor={data.id}>
+          <span className="text-base">{data.plan.name}</span>
+        </FieldLabel>
         <FieldDescription></FieldDescription>
+        <div className="flex justify-between gap-3">
+          <div className="text-xs">
+            <span>{capitalizeFirstLetter(data.plan.data_type)}</span>
+            <span className="px-3">|</span>
+            <span>
+              Activate {capitalizeFirstLetter(data.activation as string)}
+            </span>
+            <div className="italic my-1">
+              <span>
+                {data.plan.quota_in_gb} GB{" "}
+                <span>
+                  / {data.plan.validity_days}{" "}
+                  {data.plan.validity_days > 1 ? "Days" : "Day"}
+                </span>
+              </span>
+            </div>
+          </div>
+          <div className="text-sm text-right">
+            <span className="block">Qty: {data.quantity}</span>
+            <span className="block">
+              IDR {data.plan.price.toLocaleString()}
+              <span className="text-xs">/pcs</span>
+            </span>
+          </div>
+        </div>
       </FieldContent>
     </Field>
   );

@@ -1,3 +1,4 @@
+"use client";
 import Carts from "@/components/carts";
 import DockContainer from "@/components/docks/dock-container";
 import BaseLayout from "@/components/layout/base-layout";

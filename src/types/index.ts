@@ -69,8 +69,20 @@ export type CartItemTotal = {
   total: number;
 };
 
-// export type OrderData = Order[];
-
 export type Order = FormDataPlan & {
   id: string;
+};
+
+export type PlacedOrder = {
+  id: string;
+  invoice_number: string;
+};
+
+export type PlacedOrderData = PlacedOrder & {
+  total_item: number;
+  total_price: number;
+};
+
+export type PlacedOrderDetailsData = PlacedOrder & {
+  plans: Order[];
 };

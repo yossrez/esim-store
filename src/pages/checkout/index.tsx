@@ -1,3 +1,4 @@
+"use client";
 import DockContainer from "@/components/docks/dock-container";
 import ErrState from "@/components/error/err-state";
 import BaseLayout from "@/components/layout/base-layout";
@@ -6,14 +7,16 @@ import BackNav from "@/components/nav/back-nav";
 import { Button } from "@/components/ui/button";
 import { checkoutOrigin } from "@/lib/const/checkout-origin";
 import { sessionCheckoutKey } from "@/lib/const/session-keys";
+import { capitalizeFirstLetter } from "@/lib/utils";
 import { usePlaceOrderMutation } from "@/network/api-hooks/mutation";
 import { useCartItemsQuery } from "@/network/api-hooks/query";
-import { Order } from "@/types";
-import { Monitor } from "lucide-react";
+import { Cart, Order } from "@/types";
 import { useSearchParams } from "next/navigation";
+import { useRouter } from "next/router";
 import { useEffect, useMemo, useState } from "react";
 
 export default function PageCheckout() {
+  const router = useRouter();
   const searchParams = useSearchParams();
   const [mounted, setMounted] = useState(false);
 
@@ -51,7 +54,7 @@ export default function PageCheckout() {
 
   const { data: cartData, isLoading } = useCartItemsQuery(
     true,
-    isCartCheckout ? paramMemo.slice(2) : undefined,
+    isCartCheckout ? paramMemo : undefined,
   );
 
   const totalAmount = useMemo(() => {
@@ -65,7 +68,14 @@ export default function PageCheckout() {
     return sessionCheckoutData.quantity * sessionCheckoutData.plan.price;
   }, [cartData, sessionCheckoutData, isCartCheckout]);
 
-  const checkoutMutation = usePlaceOrderMutation();
+  const checkoutMutation = usePlaceOrderMutation(handleSuccess);
+
+  function handleSuccess() {
+    if (!isCartCheckout) {
+      sessionStorage.removeItem(sessionCheckoutKey);
+    }
+    router.replace("/orders");
+  }
 
   function handleBuy() {
     if (isCartCheckout) {
@@ -90,7 +100,11 @@ export default function PageCheckout() {
     return () => clearTimeout(timer);
   }, []);
 
-  if (isLoading) return "Loading...";
+  if (isLoading) {
+    <BaseLayout title="Checkout">
+      <ContentLayout>Loading...</ContentLayout>
+    </BaseLayout>;
+  }
 
   if (!mounted) return null;
 
@@ -99,7 +113,13 @@ export default function PageCheckout() {
     sessionCheckoutData === null;
 
   if (isNoData) {
-    return <ErrState code={404} description="Uhh, Nothing to Checkout!" />;
+    return (
+      <BaseLayout title="Checkout">
+        <ContentLayout>
+          <ErrState code={404} description="Uhh, Nothing to Checkout!" />
+        </ContentLayout>
+      </BaseLayout>
+    );
   }
 
   return (
@@ -109,10 +129,10 @@ export default function PageCheckout() {
         {(() => {
           if (isCartCheckout) {
             return cartData?.data.map((v) => (
-              <div key={v.id}>{JSON.stringify(v)}</div>
+              <CheckoutItem key={v.id} data={v} />
             ));
           }
-          return <div>{JSON.stringify(sessionCheckoutData)}</div>;
+          return <CheckoutItem data={sessionCheckoutData as Order} />;
         })()}
         <DockContainer>
           <div className="grid w-full gap-5">
@@ -123,7 +143,10 @@ export default function PageCheckout() {
             <Button
               onClick={handleBuy}
               className="w-full bg-active/90 hover:bg-active h-12 md:text-lg"
-              disabled={sessionCheckoutData === null || cartData === null}
+              disabled={
+                (!isCartCheckout && sessionCheckoutData === null) ||
+                cartData === null
+              }
             >
               Place Order
             </Button>
@@ -131,5 +154,42 @@ export default function PageCheckout() {
         </DockContainer>
       </ContentLayout>
     </BaseLayout>
+  );
+}
+
+interface CheckoutItemProps {
+  data: Order | Cart;
+}
+
+function CheckoutItem({ data }: CheckoutItemProps) {
+  return (
+    <div className="bg-white p-5 rounded-lg">
+      <span className="text-base leading-10">{data.plan.name}</span>
+      <div className="flex justify-between gap-3">
+        <div className="text-xs">
+          <span>{capitalizeFirstLetter(data.plan.data_type)}</span>
+          <span className="px-3">|</span>
+          <span>
+            Activate {capitalizeFirstLetter(data.activation as string)}
+          </span>
+          <div className="italic my-1">
+            <span>
+              {data.plan.quota_in_gb} GB{" "}
+              <span>
+                / {data.plan.validity_days}{" "}
+                {data.plan.validity_days > 1 ? "Days" : "Day"}
+              </span>
+            </span>
+          </div>
+        </div>
+        <div className="text-sm text-right">
+          <span className="block">Qty: {data.quantity}</span>
+          <span className="block">
+            IDR {data.plan.price.toLocaleString()}
+            <span className="text-xs">/pcs</span>
+          </span>
+        </div>
+      </div>
+    </div>
   );
 }

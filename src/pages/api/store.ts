@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import fs from "fs";
 import { PayloadJson } from "@/seed/types";
-import { Cart, Order } from "@/types";
+import { Cart, Order, PlacedOrderData, PlacedOrderDetailsData } from "@/types";
 import { genRandTempId } from "@/lib/utils";
 
 const destinations: PayloadJson = { data: undefined };
@@ -9,11 +9,10 @@ const destinations: PayloadJson = { data: undefined };
 const localPlans: Record<string, PayloadJson> = {};
 const regionalPlans: Record<string, PayloadJson> = {};
 
-const cartsLookup: Record<string, number> = {};
-const carts: Cart[] = [];
+const carts: Map<string, Cart> = new Map();
 
-const ordersLookup: Record<string, number> = {};
-const orders: Order[] = [];
+let placedOrderCount = 0;
+const placedOrders: Map<string, PlacedOrderDetailsData> = new Map();
 
 export function getInMemDestinations(): PayloadJson {
   if (destinations.data !== undefined) {
@@ -60,14 +59,13 @@ export function getInMemPlans(type: string, dest: string) {
 }
 
 export function getInMemCartItemTotal() {
-  return carts.length;
+  return carts.size;
 }
 
 export function addInMemCart(payload: Cart) {
   const id = genRandTempId();
   payload["id"] = id;
-  carts.push(payload);
-  cartsLookup[id] = carts.length - 1;
+  carts.set(id, payload);
   console.log(carts);
 }
 
@@ -75,30 +73,48 @@ export function getInMemCartItems(ids?: string[]) {
   if (ids) {
     const res: Cart[] = [];
     ids.forEach((v) => {
-      const idx = cartsLookup[v];
-      if (idx !== undefined && idx >= 0 && idx < carts.length) {
-        res.push(carts[idx]);
+      const c = carts.get(v);
+      if (c) {
+        res.push(c);
       }
     });
     return res;
   }
-  return carts;
+  return Array.from(carts.values());
 }
 
-export function addInMemOrder(payload: Order) {
+export function addInMemOrder(payload: Order[]) {
   const id = genRandTempId();
-  payload["id"] = id;
-  orders.push(payload);
-  ordersLookup[id] = orders.length - 1;
-  console.log(orders);
+  placedOrderCount++;
+  const data: PlacedOrderDetailsData = {
+    id: id,
+    invoice_number: "#" + placedOrderCount,
+    plans: payload,
+  };
+  placedOrders.set(id, data);
+  payload.forEach((v) => {
+    carts.delete(v.id);
+  });
+  console.log(placedOrders);
 }
 
 export function getInMemOrderItems(id?: string) {
   if (id) {
-    const idx = ordersLookup[id];
-    if (idx !== undefined && idx >= 0 && idx < orders.length) {
-      return carts[idx];
-    }
+    const order = placedOrders.get(id);
+    if (order === undefined) return null;
+    return order;
   }
-  return carts;
+  const res: PlacedOrderData[] = [];
+  for (const [id, order] of placedOrders) {
+    res.push({
+      id: id,
+      invoice_number: order.invoice_number,
+      total_item: order.plans.length,
+      total_price: order.plans.reduce(
+        (acc, val) => acc + val.quantity * val.plan.price,
+        0,
+      ),
+    });
+  }
+  return res;
 }

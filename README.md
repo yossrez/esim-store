@@ -50,8 +50,8 @@ result.
 - [x] Add data plans to cart along with the settings
       (e.g. plan activation date, quantity).
 
-- [ ] Place an order for items in the cart.
+- [x] Place an order for items in the cart.
 
-- [ ] List all placed orders.
+- [x] List all placed orders.
 
-- [ ] View details of the placed order.
+- [x] View details of the placed order.
