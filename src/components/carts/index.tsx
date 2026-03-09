@@ -18,7 +18,7 @@ export default function Carts({ handleCheck }: CartsProps) {
   const data = useCartCacheData();
 
   return (
-    <FieldGroup className="mx-auto w-3/4">
+    <FieldGroup className="mx-auto w-3/4 gap-3">
       {data?.data?.map((v) => (
         <CartBox key={v.id} data={v} handleCheck={handleCheck} />
       ))}

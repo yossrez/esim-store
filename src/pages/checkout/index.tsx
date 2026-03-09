@@ -126,14 +126,16 @@ export default function PageCheckout() {
     <BaseLayout title="Checkout">
       <ContentLayout>
         <BackNav title="Checkout" />
-        {(() => {
-          if (isCartCheckout) {
-            return cartData?.data.map((v) => (
-              <CheckoutItem key={v.id} data={v} />
-            ));
-          }
-          return <CheckoutItem data={sessionCheckoutData as Order} />;
-        })()}
+        <div className="conainer grid mx-auto w-3/4 gap-3">
+          {(() => {
+            if (isCartCheckout) {
+              return cartData?.data.map((v) => (
+                <CheckoutItem key={v.id} data={v} />
+              ));
+            }
+            return <CheckoutItem data={sessionCheckoutData as Order} />;
+          })()}
+        </div>
         <DockContainer>
           <div className="grid w-full gap-5">
             <div className="flex justify-between">

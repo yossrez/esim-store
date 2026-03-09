@@ -80,7 +80,7 @@ export type PlacedOrder = {
 
 export type PlacedOrderData = PlacedOrder & {
   total_item: number;
-  total_price: number;
+  total_amount: number;
 };
 
 export type PlacedOrderDetailsData = PlacedOrder & {

@@ -110,7 +110,7 @@ export function getInMemOrderItems(id?: string) {
       id: id,
       invoice_number: order.invoice_number,
       total_item: order.plans.length,
-      total_price: order.plans.reduce(
+      total_amount: order.plans.reduce(
         (acc, val) => acc + val.quantity * val.plan.price,
         0,
       ),
