@@ -1,4 +1,4 @@
-# esim-app
+# esim-store
 
 ## Getting Started
 
